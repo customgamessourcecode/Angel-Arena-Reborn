@@ -1,0 +1,2112 @@
+"lang"
+{
+	"Language"		"English"
+	"Tokens"
+	{
+		
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\!empty.txt' begin 
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\!empty.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\main_gamemode.txt' begin 
+"increaseon_game_name"			"Angel Arena Reborn"
+"addon_game_name"				"Angel Arena Reborn"
+"addon_name_t"					"Angel Arena"
+"DOTA_GAMEMODE_15"				"Angel Arena"
+"DOTA_GoodGuys"					"Angels"
+"DOTA_BadGuys"					"Demons"
+"select_kill_limit"				"Select Kill Limit"
+"ANGEL_ARENA_ON_KILL"			"%s1 get <font color='#FFFF00'>%s2</font> bounty gold for kill!"
+
+"cant_change"					"You can't change your hero while Timbersaw's ult is active."
+"duel_nobody_wins" 				"Duel ends in"
+"duel_next_duel" 				"Next duel in"
+"duel_start"					"<font color='#FF1111'>[DUEL]</font> Begins!"
+"duel_end"						"<font color='#FF1111'>[DUEL]</font> Has ended."
+"duel_cont" 					"<font color='#FF1111'>[DUEL]</font> Will end in <font color='#58ACFA'> 90 seconds </font>. "
+"duel_error"					"<font color='#FF1111'>[DUEL]</font> Not enough players."
+"duel_nobody" 					"<font color='#FF1111'>[DUEL]</font> Time over! DRAW! Nobody won."
+"duel_end_win_radiant"			"The angels triumph over the demons"
+"duel_end_win_demons"			"The demons triumph over the angels"
+"duel_10_sec_to_begin"			"Duel starts in 10 seconds!"
+"duel_10_sec_to_end"			"Duel ends in 10 seconds!"
+"game_ends_on_30_sec"			"Game ends in 30 seconds!"
+
+"DOTA_Tooltip_modifier_tester"									"Aplha Tester"
+"DOTA_Tooltip_modifier_tester_Description"						"Thanks for alpha testing!"
+
+"DOTA_Tooltip_modifier_dcp_tester"								"DCP TESTER"
+"DOTA_Tooltip_modifier_dcp_tester_Description"					"Alfach Tester"
+"DOTA_Tooltip_modifier_sheo_dev"						"Game Developer"
+"DOTA_Tooltip_modifier_sheo_dev_Description"			"Creating Angel Arena Reborn and play Minecraft"
+
+"DOTA_Tooltip_modifier_duel_true_sight_aura"			"Duel True Sight"
+	
+"dota_hud_error_cast_only_hero_and_creeps"				"Item can't be used on non-hero and non-creeps"
+
+"DOTA_Tooltip_modifier_banned_custom"					"Banned"
+"DOTA_Tooltip_modifier_banned_custom_Description"		"That user is totaly retarded and banned in this custom game forever."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\main_gamemode.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\!empty.txt' begin 
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\!empty.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\hero_change_guardian.txt' begin 
+"npc_dota_custom_guardian"					"Hero Guardian"
+"die_npc_dota_custom_guardian"				"Somebody killed the <font color='#58ACFA'>Hero Guardian</font>! Anyone can now change their heroes into gods."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\hero_change_guardian.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\old_bosses.txt' begin 
+"npc_monk_of_love"							"Monk of Love"
+"npc_monk_of_hate"							"Monk of Hate"
+"npc_monk_of_life"							"Monk of Life"
+"npc_monk_of_death"							"Monk of Death"
+
+"npc_angel_of_love"							"Angel of Love"
+"npc_angel_of_hate"							"Angel of Hate"
+"npc_angel_of_life"							"Angel of Life"
+"npc_angel_of_death"						"Angel of Death"
+
+"die_npc_monk_of_love"						"<font color='#58ACFA'>Monk Of Love</font> has been killed!"
+"die_npc_monk_of_hate"						"<font color='#58ACFA'>Monk Of Hate</font> has been killed!"
+"die_npc_monk_of_life"						"<font color='#58ACFA'>Monk Of Life</font> has been killed!"
+"die_npc_monk_of_death"						"<font color='#58ACFA'>Monk Of Death</font> has been killed!"
+
+"die_npc_angel_of_love"						"<font color='#58ACFA'>Angel Of Love</font> has been killed!"
+"die_npc_angel_of_hate"						"<font color='#58ACFA'>Angel Of Hate</font> has been killed!"
+"die_npc_angel_of_life"						"<font color='#58ACFA'>Angel Of Life</font> has been killed!"
+"die_npc_angel_of_death"					"<font color='#58ACFA'>Angel Of Death</font> has been killed!"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\old_bosses.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\possessed.txt' begin 
+"Demon_possessed"													"Possessed Demon"
+"die_Demon_possessed"												"Somebody killed the <font color='#58ACFA'>Possessed demon</font>!"
+
+"DOTA_Tooltip_ability_possessed_courage"							"Possessed Courage"
+
+"DOTA_Tooltip_ability_possessed_courage_Description"				"The possessed can absorb half of the damage and counter attack in a big radius."
+"DOTA_Tooltip_ability_possessed_courage_chance"						"%CHANCE:"
+"DOTA_Tooltip_ability_possessed_courage_block_damage"				"%DAMAGE ABSORB:"
+"DOTA_Tooltip_ability_possessed_courage_radius"						"ATTACK RADIUS:"
+
+"DOTA_Tooltip_ability_possessed_stun"								"Possessed Stun"
+"DOTA_Tooltip_ability_possessed_stun_Description"					"The possessed stuns everybody in a radius and deals damage depending on the max HP of the targets."
+"DOTA_Tooltip_ability_possessed_stun_damage_pct"					"%DAMAGE:"
+"DOTA_Tooltip_ability_possessed_stun_duration"						"DURATION:"
+"DOTA_Tooltip_ability_possessed_stun_radius"						"RADIUS:"
+
+"DOTA_Tooltip_modifier_possessed_stun"								"STUNNED"
+
+"DOTA_Tooltip_ability_possessed_kraken"								"Demonic protection"
+"DOTA_Tooltip_ability_possessed_kraken_Description"					"Removes negative status effects if the damage taken crosses a threshold."
+"DOTA_Tooltip_ability_possessed_kraken_damage_cleanse"				"DAMAGE THRESHOLD:"
+
+"DOTA_Tooltip_ability_possessed_bash"								"Possessed Luck"
+"DOTA_Tooltip_ability_possessed_bash_Description"					"The possessed can see the enemies weakness. Stuns the enemy and deals damage that depends on the max HP targets."
+"DOTA_Tooltip_ability_possessed_bash_chance"						"%CHANCE:"
+"DOTA_Tooltip_ability_possessed_bash_bash_time"						"STUN DURATION:"
+"DOTA_Tooltip_ability_possessed_bash_vampire"						"%VAMPIRE PERCENT:"
+"DOTA_Tooltip_ability_possessed_bash_damage_pct"					"%MAX HP DAMAGE:"
+"DOTA_Tooltip_modifier_possessed_bash_stun"							"STUNNED"
+
+"DOTA_Tooltip_ability_possessed_fury"								"Possessed fury"
+"DOTA_Tooltip_ability_possessed_fury_Description"					"The possessed kills all illusions that try to attack him.\nWhen the health of the possessed falls below 50 percent he gets 650 damage, 400 attack speed, BAT 0.5 and true strike.\n When the health falls below 25 percent the possesed gains a 20 percent chance to resist to all attacks."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\possessed.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\traveler.txt' begin 
+"npc_boss_travaler"												"Traveler"
+
+"die_npc_boss_travaler"											"Somebody killed the <font color='#58ACFA'>Traveler</font>!"
+	
+"DOTA_Tooltip_ability_travaler_kraken"							"Traveling Protection"
+"DOTA_Tooltip_ability_travaler_kraken_Description"				"Removes negative status effects if the damage taken crosses a threshold."
+"DOTA_Tooltip_ability_travaler_kraken_damage_cleanse"			"DAMAGE THRESHOLD:"
+
+"DOTA_Tooltip_ability_travaler_manaburn"						"Mana Burn"
+"DOTA_Tooltip_ability_travaler_manaburn_Description"			"Burns an opponent's mana on each attack."
+"DOTA_Tooltip_ability_travaler_manaburn_mana_per_hit"			"MANA BURNED PER HIT:"
+
+"DOTA_Tooltip_ability_travaler_stun"							"Travaler Stun"
+"DOTA_Tooltip_ability_travaler_stun_Description"				"Travaler stuns everybody in radius and deal damage that depends of max HP targets."
+"DOTA_Tooltip_ability_travaler_stun_damage_pct"					"%DAMAGE:"
+"DOTA_Tooltip_ability_travaler_stun_duration"					"DURATION:"
+"DOTA_Tooltip_ability_travaler_stun_radius"						"RADIUS:"
+
+"DOTA_Tooltip_ability_travaler_bash"							"Overpower of Travaler"
+"DOTA_Tooltip_ability_travaler_bash_Description"				"Travaler can see the enemy's weakness', and he uses it against enemy. Stun the enemy and deal critical damage and deal damage that depends of max HP targets."
+"DOTA_Tooltip_ability_travaler_bash_chance"						"%CHANCE:"
+"DOTA_Tooltip_ability_travaler_bash_bash_time"					"STUN DURATION:"
+"DOTA_Tooltip_ability_travaler_bash_crit"						"%CRITICAL DAMAGE:"
+"DOTA_Tooltip_ability_travaler_bash_damage_pct"					"%MAX HP DAMAGE:"
+"DOTA_Tooltip_modifier_travaler_bash_stun"						"STUNNED"
+
+"DOTA_Tooltip_ability_travaler_fury"							"Travaler Fury"
+"DOTA_Tooltip_ability_travaler_fury_Description"				"Bosses instantly kill all of the illusions that trying to attack him.\nWhen health of the travaler will descend lower 50 percent boss gets 650 attack, 250 attack speed, BAT 0.7, true strike.\nWhen health of the travaler will descend lower 25 percent boss get 45 percent resist to all attacks."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\bosses\traveler.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\!empty.txt' begin 
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\!empty.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\enigma.txt' begin 
+"npc_eidolon_1" "Enigma Eidelon"
+"npc_eidolon_2" "Enigma Eidelon"
+"npc_eidolon_3" "Enigma Eidelon"
+"npc_eidolon_4" "Enigma Eidelon"
+"npc_eidolon_5" "Enigma Eidelon"
+"npc_eidolon_6" "Enigma Eidelon"
+"npc_eidolon_7" "Enigma Eidelon"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\enigma.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\lycan.txt' begin 
+"npc_dota_lycan_wolf5"												"Lycan Wolf"
+"npc_dota_lycan_wolf6"												"Lycan Wolf"
+"npc_dota_lycan_wolf7"												"Lycan Wolf"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\lycan.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\pet_hulk.txt' begin 
+"npc_aa_ancient_hulk"												"Ancient Hulk"
+
+"DOTA_Tooltip_ability_pet_ancient_hulk_hammer"						"Hulk hammer"
+"DOTA_Tooltip_ability_pet_ancient_hulk_hammer_Description"			"Throw a Hammer of Might at the targeted unit, stunning every enemy within the radius. Can be dodged."
+"DOTA_Tooltip_ability_pet_ancient_hulk_hammer_bolt_stun_duration"	"STUN:"
+"DOTA_Tooltip_ability_pet_ancient_hulk_hammer_bolt_aoe"				"RADIUS:"
+"DOTA_Tooltip_modifier_pet_hammer_stun"								"STUNNED"
+
+"DOTA_Tooltip_ability_pet_ancient_hulk_blink"						"Blink"
+"DOTA_Tooltip_ability_pet_ancient_hulk_blink_Description"			"Short distance teleportation that allows the pet to move in and out of combat."
+"DOTA_Tooltip_ability_pet_ancient_hulk_blink_blink_range"			"RANGE:"
+
+"DOTA_Tooltip_ability_pet_ancient_hulk_invis"						"Shadow Hulk"
+"DOTA_Tooltip_ability_pet_ancient_hulk_invis_Description"			"Grants invisibility and increased movespeed."
+"DOTA_Tooltip_ability_pet_ancient_hulk_invis_duration"				"DURATION:"
+"DOTA_Tooltip_ability_pet_ancient_hulk_invis_bonus_movespeed"		"%MOVE SPEED:"
+"DOTA_Tooltip_modifier_pet_hulk_invis"								"INVISIBLE"
+
+"DOTA_Tooltip_ability_pet_ancient_hulk_desolation"					"Hulk Desolation"
+"DOTA_Tooltip_ability_pet_ancient_hulk_desolation_Description"		"Attacks reduce the target's armor."
+"DOTA_Tooltip_ability_pet_ancient_hulk_desolation_bonus_armor"		"ARMOR:"
+"DOTA_Tooltip_ability_pet_ancient_hulk_desolation_duration"			"DURATION:"
+
+"DOTA_Tooltip_modifier_pet_ah_disarmor"								"ARMOR REDUCED"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\pet_hulk.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\pet_mage.txt' begin 
+"npc_aa_ancient_mage"													"Ancient Mage"
+
+"DOTA_Tooltip_ability_pet_ancient_mage_silence"							"Silence"
+"DOTA_Tooltip_ability_pet_ancient_mage_silence_Description"				"Slow and silence the enemy. The target also takes more damage."
+"DOTA_Tooltip_ability_pet_ancient_mage_silence_slow_percent"			"%SLOW:"
+"DOTA_Tooltip_ability_pet_ancient_mage_silence_duration"				"DURATION:"
+"DOTA_Tooltip_ability_pet_ancient_mage_silence_bonus_take_damage"		"%DAMAGE INCREASED:"
+"DOTA_Tooltip_modifier_pet_ancient_mage_silence"						"Silenced"
+
+"DOTA_Tooltip_ability_pet_ancient_mage_astral"							"Astral"
+"DOTA_Tooltip_ability_pet_ancient_mage_astral_Description"				"A powerful banishing spell that slows a unit and renders it unable to attack or be attacked. Afflicted units take extra magic damage."
+"DOTA_Tooltip_ability_pet_ancient_mage_astral_bonus_spell_damage_pct"	"%MAGIC DAMAGE INCREASED:"
+"DOTA_Tooltip_ability_pet_ancient_mage_astral_bonus_movement_speed"		"%SLOW:"
+"DOTA_Tooltip_ability_pet_ancient_mage_astral_duration"					"DURATION:"
+"DOTA_Tooltip_modifier_pet_ancient_mage_astral"							"BANISHED"
+
+"DOTA_Tooltip_ability_pet_ancient_mage_heal"							"Ancient Powers"
+"DOTA_Tooltip_ability_pet_ancient_mage_heal_Description"				"Heal a friendly target."
+"DOTA_Tooltip_ability_pet_ancient_mage_heal_heal"						"HEAL:"
+"DOTA_Tooltip_ability_pet_ancient_mage_heal_heal_pct"					"%MAX HP HEAL:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\pet_mage.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\pet_wolf.txt' begin 
+"npc_aa_ancient_wolf"											"Ancient Wolf"
+
+"DOTA_Tooltip_ability_pet_ancient_wolf_vampire"					"Vampire Wolf"
+"DOTA_Tooltip_ability_pet_ancient_wolf_vampire_Description"		"Grants a vampire aura in a radius of 900 units."
+"DOTA_Tooltip_ability_pet_ancient_wolf_vampire_lifesteal"		"%VAMPIRE:"
+"DOTA_Tooltip_modifier_wolf_vampire"							"Vampire"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\pet_wolf.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\venomancer.txt' begin 
+"npc_dota_venomancer_plague_ward_5"									"Plague Ward"
+"npc_dota_venomancer_plague_ward_6"									"Plague Ward"
+"npc_dota_venomancer_plague_ward_7"									"Plague Ward"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\venomancer.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\warlock.txt' begin 
+"npc_dota_warlock_golem_4"											"Warlock Golem"
+"npc_dota_warlock_golem_5"											"Warlock Golem"
+"npc_dota_warlock_golem_6"											"Warlock Golem"
+"npc_dota_warlock_golem_7"											"Warlock Golem"
+"npc_dota_warlock_golem_scepter_4"									"Warlock Golem"
+"npc_dota_warlock_golem_scepter_5"									"Warlock Golem"
+"npc_dota_warlock_golem_scepter_6"									"Warlock Golem"
+"npc_dota_warlock_golem_scepter_7"									"Warlock Golem"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\creeps\warlock.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\!empty.txt' begin 
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\!empty.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\abaddon.txt' begin 
+"DOTA_Tooltip_ability_abaddon_death_coil_percent"					"%DAMAGE/HEAL FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\abaddon.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\ancient_apparation.txt' begin 
+"DOTA_Tooltip_ability_ancient_apparition_cold_feet_damage_pct"			"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\ancient_apparation.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\axe.txt' begin 
+"DOTA_Tooltip_ability_axe_counter_helix_Description"				"When attacked, Axe performs a helix counter attack, dealing damage to all nearby enemies. This ability applies base attack damage to every units that it hits.\nPassively increases the base attack damage of Axe."
+"DOTA_Tooltip_ability_axe_battle_hunger_damage_pct"					"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_axe_culling_blade_hp_limit"					"%HP THRESHOLD:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\axe.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\bane.txt' begin 
+"DOTA_Tooltip_ability_bane_brain_sap_brain_sap_heal_pct"			"%DAMAGE/HEAL FROM INTELLECT:"
+"DOTA_Tooltip_ability_bane_enfeeble_damage_decrease"						"%DAMAGE DECREASING:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\bane.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\beastmaster.txt' begin 
+"DOTA_Tooltip_ability_beastmaster_primal_roar_damage_pct"			"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_beastmaster_wild_axes_damage_pct"				"%DAMAGE FROM STR(MAGICAL):"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\beastmaster.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\bounty_hunter.txt' begin 
+"DOTA_Tooltip_ability_bounty_hunter_shuriken_toss_damage_pct"		"%DAMAGE FROM AGI:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\bounty_hunter.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\brewmaster.txt' begin 
+"DOTA_Tooltip_ability_brewmaster_earth_hurl_boulder_damage_pct"				"%DAMAGE OF MAX HEALTH:"
+"DOTA_Tooltip_ability_brewmaster_fire_permanent_immolation_damage_pct"		"%DAMAGE OF MAX HEALTH:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\brewmaster.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\bristleback.txt' begin 
+"DOTA_Tooltip_ability_bristleback_quill_spray_damage_by_str"		"MULTIPLER BY STRENGTH:"
+"DOTA_Tooltip_ability_bristleback_quill_spray_damage_by_str_hero"	"MULTIPLER BY STRENGTH FOR HEROES:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\bristleback.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\centaur.txt' begin 
+"DOTA_Tooltip_ability_centaur_double_edge_edge_damage_pct"			"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_centaur_hoof_stomp_damage_pct"				"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\centaur.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\chen.txt' begin 
+"DOTA_Tooltip_ability_chen_test_of_faith_damage_pct"					"%DAMAGE:"
+"DOTA_Tooltip_ability_special_bonus_unique_chen_2"						"+1000 heal from ultimate"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\chen.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\clockwerk.txt' begin 
+"DOTA_Tooltip_ability_rattletrap_rocket_flare_damage_pct"			"%DAMAGE OF STRENGTH:"
+"DOTA_Tooltip_ability_rattletrap_battery_assault_damage_pct"		"%DAMAGE FROM STRENGTH:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\clockwerk.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\crystal_maiden.txt' begin 
+"DOTA_Tooltip_ability_crystal_maiden_freezing_field_damage_pct"		"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\crystal_maiden.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\dark_seer.txt' begin 
+"DOTA_Tooltip_ability_dark_seer_vacuum_damage_pct"					"%DAMAGE FROM INTELLECT:"
+"DOTA_Tooltip_ability_dark_seer_ion_shell_damage_pct"				"%DAMAGE FROM INTELLECT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\dark_seer.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\dazzle.txt' begin 
+"DOTA_Tooltip_ability_dazzle_shadow_wave_heal_pct"						"%HEAL FROM INT:"
+"DOTA_Tooltip_ability_dazzle_shadow_wave_damage_pct"					"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\dazzle.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\death_prophet.txt' begin 
+"DOTA_Tooltip_ability_death_prophet_exorcism_damage_to_magical"			"%DAMAGE TO MAGICAL DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\death_prophet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\disruptor.txt' begin 
+"DOTA_Tooltip_ability_disruptor_thunder_strike_damage_pct"		"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\disruptor.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\dragon_knight.txt' begin 
+"DOTA_Tooltip_ability_dragon_knight_breathe_fire_damage_pct"		"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\dragon_knight.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\drow_ranger.txt' begin 
+"DOTA_Tooltip_ability_drow_ranger_vengeance_arrow"					"Vengeance Arrow"
+"DOTA_Tooltip_ability_drow_ranger_vengeance_arrow_Description"		"Drow Ranger can absorb damage and deal a counter-attack.\n\nOrb-modifiers don't work on counter-attack\n\nCounter-attacks cannot be disabled."
+"DOTA_Tooltip_ability_drow_ranger_vengeance_arrow_chance"			"%CHANCE:"
+"DOTA_Tooltip_ability_drow_ranger_vengeance_arrow_Note0"			"Skill only works when taking more than 10dmg."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\drow_ranger.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\earthshaker.txt' begin 
+"DOTA_Tooltip_ability_earthshaker_aftershock_damage_from_str"			"STR MULTIPLER:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\earthshaker.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\earth_spirit.txt' begin 
+"DOTA_Tooltip_ability_earth_spirit_boulder_smash_damage_pct"		"%DAMAGE FROM STR:"
+"DOTA_Tooltip_Ability_special_bonus_unique_earth_spirit"			"+500 Rolling Boulder Damage"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\earth_spirit.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\faceless_void.txt' begin 
+"DOTA_Tooltip_modifier_time_lock_stun_datadriven"					"Bashed"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\faceless_void.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\fireblade.txt' begin 
+"npc_dota_hero_ember_spirit"											"Fireblade"
+
+"DOTA_Tooltip_ability_fireblade_smoldering"								"Smoldering"
+"DOTA_Tooltip_ability_fireblade_smoldering_Description"					"Fireblade restore part of health for this ammount of mana"
+"DOTA_Tooltip_ability_fireblade_smoldering_heal_const"					"MANA TO HEALTH:"
+"DOTA_Tooltip_ability_fireblade_smoldering_heal_percent"				"%MANA TO HEALTH:"
+
+"DOTA_Tooltip_ability_fireblade_fiery_stream"							"Fiery Stream"
+"DOTA_Tooltip_ability_fireblade_fiery_stream_Description"				"Fireblade throws fire stream that deal damage all enemies in front of him. For every hero damaged by this skill Fireblade take bonus damage for a short time."
+"DOTA_Tooltip_ability_fireblade_fiery_stream_distantion"				"DISTANTION:"
+"DOTA_Tooltip_ability_fireblade_fiery_stream_damage"					"DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_fiery_stream_damage_per_hero"			"BONUS DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_fiery_stream_buff_duration"				"DURATION:"
+
+"DOTA_Tooltip_ability_fireblade_weapon_ignition"						"Weapon Ignition"
+"DOTA_Tooltip_ability_fireblade_weapon_ignition_Description"			"Fireblade ingnites his weapon by own blood. Burning blades deal addiditional damage to enemies and ignites him. Also fireblade change him skill to fireform skills."
+"DOTA_Tooltip_ability_fireblade_weapon_ignition_activate_damage"		"ACTIVATE DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_weapon_ignition_attack_constant"		"BONUS DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_weapon_ignition_burn_damage"			"BURN DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_weapon_ignition_burn_duration"			"BURN DURATION:"
+
+"DOTA_Tooltip_ability_fireblade_weapon_quenching"						"Weapon Quenching"
+"DOTA_Tooltip_ability_fireblade_weapon_quenching_Description"			"Fireblade puts him blades, lose all bonuses and take him old skills back."
+"DOTA_Tooltip_ability_fireblade_weapon_quenching_activate_damage"		"ACTIVATE DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_weapon_quenching_attack_constant"		"BONUS DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_weapon_quenching_burn_damage"			"BURN DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_weapon_quenching_burn_duration"			"BURN DURATION:"
+
+"DOTA_Tooltip_ability_fireblade_firesheild"								"Firesheild"
+"DOTA_Tooltip_ability_fireblade_firesheild_Description"					"Fireblade apply sheild on nearby ally that allow consume all damage, until summary damage does not exceed some value."
+"DOTA_Tooltip_ability_fireblade_firesheild_block_damage"				"BLOCKED DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_firesheild_duration"					"DURATION:"
+"DOTA_Tooltip_ability_fireblade_firesheild_radius"						"RADIUS:"
+
+"DOTA_Tooltip_ability_fireblade_burn_offering"							"Burn Offering"
+"DOTA_Tooltip_ability_fireblade_burn_offering_Description"				"Fireblade after little delay deal damage to all enemies around him."
+"DOTA_Tooltip_ability_fireblade_burn_offering_damage"					"DAMAGE:"
+"DOTA_Tooltip_ability_fireblade_burn_offering_radius"					"RADIUS:"
+
+"DOTA_Tooltip_Ability_fireblade_firestrip"								"Firestrip"
+"DOTA_Tooltip_Ability_fireblade_firestrip_Description"					"Hero attacks everybody around him. Attack will deal bonus magical damage to enemies."
+"DOTA_Tooltip_Ability_fireblade_firestrip_bonus_damage"					"BONUS DAMAGE:"
+"DOTA_Tooltip_Ability_fireblade_firestrip_radius"						"RADIUS:"
+
+"DOTA_Tooltip_ability_fireblade_talent_ignition_no_dmg"					"Weapon Ignition didn't damage youself"
+"DOTA_Tooltip_ability_fireblade_talent_smoldering_half_mana"			"Smoldering consume 1/4 mana"
+"DOTA_Tooltip_ability_fireblade_talent_weapon_bonus_damage"				"+60 damage to Weapon Ignition"
+"DOTA_Tooltip_ability_fireblade_talent_weapon_bonus_duration"			"+6 seconds burn to Weapon Ignition"
+"DOTA_Tooltip_ability_fireblade_talent_sheild_block"					"+500 block damage to Fiery Sheild"
+"DOTA_Tooltip_ability_fireblade_talent_burn_offering_damage"			"Burn Offering deal damage from attack"
+"DOTA_Tooltip_ability_fireblade_talent_firestrip_unique"				"Unique attack modif. now works on Firestrip"
+"DOTA_Tooltip_ability_fireblade_talent_firestrip_cooldown"				"-10sec. cooldown to Firestrip"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\fireblade.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\furion.txt' begin 
+"DOTA_Tooltip_ability_furion_nature_wraith"							"Nature's Wrath"
+"DOTA_Tooltip_ability_furion_nature_wraith_Description"				"Nature Prophet becomes enraged, increasing his attack speed and base attack time."
+"DOTA_Tooltip_ability_furion_nature_wraith_Lore"					"Having watched the destruction of nature, Nature Prophet becomes enraged."
+"DOTA_Tooltip_ability_furion_nature_wraith_bat"						"BASE ATTACK TIME::"
+"DOTA_Tooltip_ability_furion_nature_wraith_attack_speed"			"ATTACK SPEED:"
+"DOTA_Tooltip_ability_furion_nature_wraith_duration"				"DURATION:"
+
+"DOTA_Tooltip_modifier_nature_wraith_active"						"Nature's Wrath"
+"DOTA_Tooltip_modifier_nature_wraith_active_Description"			"BAT increased, attack speed increased, grants spell immuninty."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\furion.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\gun_joe.txt' begin 
+"npc_dota_hero_sniper"													"Gun Joe"
+"DOTA_Tooltip_ability_angel_arena_rifle"								"Toggle Rifle"
+"DOTA_Tooltip_ability_angel_arena_rifle_Description"					"Toggle between Rifle Mode or Machine-Gun mode. While in Machine-Gun mode, some item effects will be disabled (such as bash). Magical damage from some items too decreases."
+"DOTA_Tooltip_ability_angel_arena_rifle_gun_base_attack_time"			"GUN BASE ATTACK:"
+"DOTA_Tooltip_ability_angel_arena_rifle_gun_range_tooltip"				"GUN RANGE:"
+"DOTA_Tooltip_ability_angel_arena_rifle_gun_bonus_attack"				"%GUN ATTACK PENALTY:"
+"DOTA_Tooltip_ability_angel_arena_rifle_gun_bonus_movespeed"			"GUN MOVEMENT SLOW:"
+
+"DOTA_Tooltip_ability_angel_arena_rifle_rifle_base_attack_time"			"RIFLE BASE ATTACK:"
+"DOTA_Tooltip_ability_angel_arena_rifle_rifle_range_tooltip"			"RIFLE RANGE:"
+"DOTA_Tooltip_ability_angel_arena_rifle_rifle_bonus_movespeed"			"RIFLE MOVESPEED BONUS:"
+"DOTA_Tooltip_ability_angel_arena_rifle_bonus_attack"					"RIFLE BONUS DAMAGE:"
+
+"DOTA_Tooltip_ability_gun_joe_rapid"									"Rapid"
+"DOTA_Tooltip_ability_gun_joe_rapid_Description"						"When Gun Joe does not take damage from heroes he will increase his movespeed and attack speed"
+"DOTA_Tooltip_ability_gun_joe_rapid_bonus_attackspeed"					"BONUS ATTACKSPEED:"
+"DOTA_Tooltip_ability_gun_joe_rapid_bonus_movespeed"					"BONUS MOVESPEED:"
+
+"DOTA_Tooltip_Ability_gun_joe_explosive"								"Explosive Bullets"
+"DOTA_Tooltip_Ability_gun_joe_explosive_Description"					"Gun Joe loads some explosive bullets that deal damage in an area with every shot."
+"DOTA_Tooltip_Ability_gun_joe_explosive_stack_count"					"SHOTS:"
+"DOTA_Tooltip_Ability_gun_joe_explosive_bonus_damage"					"DAMAGE:"
+"DOTA_Tooltip_Ability_gun_joe_explosive_radius"							"RADIUS:"
+
+"DOTA_Tooltip_ability_angel_arena_gunpowder"							"Gun Joe"
+"DOTA_Tooltip_ability_angel_arena_gunpowder_Description"				"Hero becomes magic-immune and gains 100% evasion. True-strike does not help. Run if you can."
+"DOTA_Tooltip_ability_angel_arena_gunpowder_duration"					"DURATION:"
+"DOTA_Tooltip_modifier_gunpowder"										"Gun Joe"
+"DOTA_Tooltip_modifier_gunpowder_Description"							"Gun Joe has found you!"
+
+"DOTA_Tooltip_Ability_gun_joe_special_bonus_rapid_cd"					"-2 seconds to Rapid cooldown"
+"DOTA_Tooltip_Ability_gun_joe_special_bonus_explosive_bullets_cd"		"-8 seconds to Explosive Bullets cooldown"
+"DOTA_Tooltip_Ability_gun_joe_special_bonus_explosive_bullets_stack"	"+4 shots to Explosive Bullets"
+"DOTA_Tooltip_Ability_gun_joe_special_bonus_explosive_bullets_radius"	"+200 radius to Explosive Bullets AOE"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\gun_joe.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\gyrocopter.txt' begin 
+"DOTA_Tooltip_ability_gyrocopter_rocket_barrage_damage_pct"			"%DAMAGE FROM AGI:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\gyrocopter.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\hola.txt' begin 
+"npc_dota_hero_keeper_of_the_light"									"Hola"
+
+"DOTA_Tooltip_ability_hola_stunhammer"								"Hola Hammer"
+"DOTA_Tooltip_ability_hola_stunhammer_Description"					"Throw a Hola Hammer at targeted unit, stunning every enemy within its radius. Can be dodged."
+"DOTA_Tooltip_ability_hola_stunhammer_bolt_aoe"						"RADIUS:"
+"DOTA_Tooltip_ability_hola_stunhammer_bolt_damage"					"DAMAGE:"
+"DOTA_Tooltip_ability_hola_stunhammer_bolt_stun_duration"			"STUN DURATION:"
+
+"DOTA_Tooltip_ability_hola_stomp"									"The Saint's Rage"
+"DOTA_Tooltip_ability_hola_stomp_Description"						"All enemies within range have their movement speed reduced, take damage, and all allies within range are healed."
+"DOTA_Tooltip_ability_hola_stomp_radius"							"RADIUS:"
+"DOTA_Tooltip_ability_hola_stomp_slow_percent"						"%SLOW:"
+"DOTA_Tooltip_ability_hola_stomp_damage"							"DAMAGE:"
+"DOTA_Tooltip_ability_hola_stomp_heal"								"HEAL:"
+"DOTA_Tooltip_ability_hola_stomp_heal_percent"						"%HEAL:"
+"DOTA_Tooltip_ability_hola_stomp_slow_time"							"SLOW TIME:"
+
+"DOTA_Tooltip_ability_hola_grace"									"Saint's Grace"
+"DOTA_Tooltip_ability_hola_grace_Description"						"Heal the targeted allied unit within range and reduce their damage taken for a short duration."
+"DOTA_Tooltip_ability_hola_grace_heal"								"HEAL:"
+"DOTA_Tooltip_ability_hola_grace_duration"							"DURATION:"
+
+"DOTA_Tooltip_ability_hola_rescure"									"Hola Rescure"
+"DOTA_Tooltip_ability_hola_rescure_Description"						"Hola saves all allies in radius for a short time."
+"DOTA_Tooltip_ability_hola_rescure_duration"						"DURATION:"
+"DOTA_Tooltip_ability_hola_rescure_radius"							"RADIUS:"
+
+"DOTA_Tooltip_ability_hola_special_bonus_heal"						"3 skill will heal Hola on dealed damage"
+"DOTA_Tooltip_ability_hola_special_bonus_ultimate"					"Ultimate apply 2 skill to allies"
+
+"DOTA_Tooltip_modifier_grace_damage_reduce"							"Damage reduced"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\hola.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\jakiro.txt' begin 
+"DOTA_Tooltip_ability_jakiro_dual_breath_damage_pct"				"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_jakiro_ice_path_damage_pct"					"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_jakiro_liquid_fire_damage_pct"				"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_jakiro_macropyre_damage_pct"					"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\jakiro.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\joe_black.txt' begin 
+"npc_dota_hero_vengefulspirit"									"Joe Black"
+"DOTA_Tooltip_ability_joe_black_face_of_death"					"Face of Death"
+"DOTA_Tooltip_ability_joe_black_face_of_death_Description"		"Death strikes the enemy, dealing damage to it and healing allies."
+"DOTA_Tooltip_ability_joe_black_face_of_death_damage"			"HEAL/DMG:"
+"DOTA_Tooltip_ability_joe_black_face_of_death_heal_percent"		"%HEAL/DMG:"
+"DOTA_Tooltip_ability_joe_black_face_of_death_radius"			"AOE:"
+
+"DOTA_Tooltip_ability_joe_black_protection"						"Protection"
+"DOTA_Tooltip_ability_joe_black_protection_Description"			"Joe Black blesses an ally, purging all negatives effects and decrease incoming damage for a time."
+"DOTA_Tooltip_ability_joe_black_protection_damage_reduction"	"%DAMAGE DECREASE:"
+"DOTA_Tooltip_ability_joe_black_protection_duration"			"DURATION:"
+"DOTA_Tooltip_modifier_joe_black_protection"					"Protection of Death"
+"DOTA_Tooltip_modifier_joe_black_protection_Description"		"Under the protection of Death."
+
+"DOTA_Tooltip_ability_joe_black_sleep"							"Terrible Nightmare"
+"DOTA_Tooltip_ability_joe_black_sleep_Description"				"Imposes sleep on the enemy unit. 'Prepare for your worst nightmares' said Death."
+"DOTA_Tooltip_ability_joe_black_sleep_duration"					"DURATION:"
+"DOTA_Tooltip_ability_joe_black_sleep_cast_range_tooltip"		"RANGE:"
+
+"DOTA_Tooltip_ability_joe_black_song" 							"Song of Death"
+"DOTA_Tooltip_ability_joe_black_song_Description"				"Force every enemy unit in range to fear death, making them miss every attack and silencing them."
+"DOTA_Tooltip_ability_joe_black_song_duration"					"DURATION:"
+"DOTA_Tooltip_ability_joe_black_song_radius"					"RADIUS:"
+
+"DOTA_Tooltip_ability_joe_black_special_unique_cooldown"		"-4 seconds cooldown Face of Death"
+"DOTA_Tooltip_ability_joe_black_special_unique_aoe"				"+350 AOE radius to Face of Death"
+"DOTA_Tooltip_ability_joe_black_special_protection"				"Protection gives spell immunity"
+"DOTA_Tooltip_ability_joe_black_special_song"					"Song now heals allies for 20% health per second"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\joe_black.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\juggenaut.txt' begin 
+"DOTA_Tooltip_ability_juggernaut_blade_fury_damage_pct_tooltip"		"%DAMAGE FROM AGI:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\juggenaut.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\kunkka.txt' begin 
+"DOTA_Tooltip_ability_kunkka_ghostship_damage_pct"					"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\kunkka.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\leshrac.txt' begin 
+"DOTA_Tooltip_ability_leshrac_lightning_storm_damage_pct"			"INT MULTIPLER:"
+"DOTA_Tooltip_ability_leshrac_pulse_nova_damage_pct"				"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\leshrac.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lich.txt' begin 
+"DOTA_Tooltip_ability_lich_vampire"									"Frost Life"
+"DOTA_Tooltip_ability_lich_vampire_Description"						"The Lich steals life on each hit. Can be activated to give to all ally in radius 300 the same effect."
+"DOTA_Tooltip_ability_lich_vampire_lifesteal"						"%HEAL:"
+"DOTA_Tooltip_ability_lich_vampire_duration"						"ALLY DURATION:"
+"DOTA_Tooltip_modifier_lich_vampire_active"							"STEAL THEIR LIVE!"
+"DOTA_Tooltip_modifier_lich_vampire_active"							"Total Lifesteal"
+"DOTA_Tooltip_ability_lich_chain_frost_damage_pct"					"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lich.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lina.txt' begin 
+"DOTA_Tooltip_ability_lina_laguna_blade_damage_pct"					"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_lina_light_strike_array_damage_by_int"		"INT MULTIPLIER:"
+"DOTA_Tooltip_ability_lina_dragon_slave_damage_by_int"				"INT MULTIPLIER:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lina.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lion.txt' begin 
+"DOTA_Tooltip_ability_lion_finger_of_death_damage_pct"				"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lion.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lone_druid.txt' begin 
+"DOTA_Tooltip_ability_separation_of_souls_bear"						"Merging Of Souls"
+"DOTA_Tooltip_ability_separation_of_souls_bear_Description"			"The souls of the bear and druid merge, which gives the bear a part of the attack, armor and attack speed of the druid."
+"DOTA_Tooltip_ability_separation_of_souls_bear_bonus_attack"		"%DAMAGE INCREASE:"
+"DOTA_Tooltip_ability_separation_of_souls_bear_bonus_armor"			"%ARMOR INCREASE:"
+"DOTA_Tooltip_ability_separation_of_souls_bear_bonus_aspeed"		"%ATTACK SPEED INCREASE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\lone_druid.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\luna.txt' begin 
+"DOTA_Tooltip_ability_luna_lucent_beam_damage_pct"					"%DAMAGE FROM AGILITY:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\luna.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\mirana.txt' begin 
+"DOTA_Tooltip_ability_mirana_overskill"								"Overskill"
+"DOTA_Tooltip_ability_mirana_overskill_Description"					"The amazing mastery of Mirana allows to multiply her agility."
+"DOTA_Tooltip_ability_mirana_overskill_multipler"					"AGILITY MULTIPLER:"
+"DOTA_Tooltip_ability_mirana_overskill_duration"					"DURATION:"
+
+"DOTA_Tooltip_modifier_mirana_overskill_active"						"Overskill"
+"DOTA_Tooltip_modifier_mirana_overskill_active_Description"			"Agility multipled"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\mirana.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\naga_siren.txt' begin 
+"DOTA_Tooltip_ability_naga_siren_rip_tide_damage_pct"				"%DAMAGE FROM AGI:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\naga_siren.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\nightstalker.txt' begin 
+"DOTA_Tooltip_ability_angel_arena_night_vampire"						"Night Hunter"
+"DOTA_Tooltip_ability_angel_arena_night_vampire_Description"			"Decreases base attack time and heals you for every kill. Heal amount depends on the max health of enemy and the time of day.(Day or Night)"
+"DOTA_Tooltip_ability_angel_arena_night_vampire_bonus_day"				"%DAY HEAL:"
+"DOTA_Tooltip_ability_angel_arena_night_vampire_bonus_night"			"%NIGHT HEAL:"
+"DOTA_Tooltip_ability_angel_arena_night_vampire_base_attack_time"		"Base Attack Time:"
+
+"DOTA_Tooltip_ability_night_stalker_darkness_blind_percentage"			"%BLIND:"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\nightstalker.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\nyx.txt' begin 
+"DOTA_Tooltip_ability_nyx_assassin_impale_damage_pct"				"%DAMAGE FROM AGI:"
+"DOTA_Tooltip_ability_nyx_assassin_vendetta_damage_pct"				"%DAMAGE FROM AGI(MAGICAL):"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\nyx.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\ogre_magi.txt' begin 
+"DOTA_Tooltip_ability_ogre_magi_fireblast_damage_pct"				"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_ogre_magi_ignite_damage_pct"					"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_ogre_magi_ignite_damage_pct_creep"			"%DAMAGE FROM INT TO CREEPS:"
+"DOTA_Tooltip_ability_ogre_magi_unrefined_fireblast_damage_pct"		"%DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\ogre_magi.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\omniknight.txt' begin 
+"DOTA_Tooltip_ability_omniknight_purification_heal_percent"			"%HEAL FROM STR:"
+"DOTA_Tooltip_ability_omniknight_purification_damage_percent"		"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\omniknight.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\oracle.txt' begin 
+"DOTA_Tooltip_ability_oracle_fortunes_end_damage_pct"				"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_oracle_purifying_flames_damage_pct"			"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\oracle.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\phantom_assassin.txt' begin 
+"DOTA_Tooltip_ability_angel_arena_agility_breaker"				"Agility Breaker"
+"DOTA_Tooltip_ability_angel_arena_agility_breaker_Description"	"Increase agility of phantom assassin for every kill."
+"DOTA_Tooltip_ability_angel_arena_agility_breaker_bonus_agi"	"AGILITY:"
+
+"DOTA_Tooltip_modifier_angel_arena_agility_stack"				"Agility Breaker"
+"DOTA_Tooltip_modifier_angel_arena_agility_stack_Description"	"Gets %dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%% bonus agility"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\phantom_assassin.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\phantom_lancer.txt' begin 
+"DOTA_Tooltip_ability_phantom_lancer_spirit_lance_damage_pct"		"%DAMAGE FROM AGILITY:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\phantom_lancer.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\puck.txt' begin 
+"DOTA_Tooltip_ability_puck_illusory_orb_damage_pct"					"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\puck.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\pudge.txt' begin 
+"DOTA_Tooltip_ability_pudge_rot_rot_damage_str"						"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_pudge_meat_hook_damage_pct"					"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\pudge.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\pugna.txt' begin 
+"DOTA_Tooltip_ability_pugna_life_drain_damage_pct"					"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_pugna_nether_blast_damage_pct"				"%DAMAGE FROM INT:"
+"DOTA_Tooltip_ability_pugna_nether_ward_damage_by_int"				"DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\pugna.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\queen_of_pain.txt' begin 
+"DOTA_Tooltip_ability_queenofpain_scream_of_pain_damage_pct"		"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\queen_of_pain.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\reaver_lord.txt' begin 
+"npc_dota_hero_terrorblade"												"Reaver Lord"
+"DOTA_Tooltip_ability_reaver_lord_soul_collector"						"Soul Collector"
+"DOTA_Tooltip_ability_reaver_lord_soul_collector_Description"			"Reaver Lord can steals the souls of enemy heroes he attacks multiple times or kills. Occasionally creeps drop souls."
+"DOTA_Tooltip_ability_reaver_lord_soul_collector_max_souls"				"MAX SOULS:"
+"DOTA_Tooltip_ability_reaver_lord_soul_collector_soul_per_hero_kill"	"SOUL BY HERO KILL:"
+"DOTA_Tooltip_ability_reaver_lord_soul_collector_creeps_per_soul"		"CREEPS BY SOUL:"
+"DOTA_Tooltip_ability_reaver_lord_soul_collector_souls_per_attacks"		"ATTACKS TO SOUL:"
+"DOTA_Tooltip_ability_reaver_lord_soul_collector_soul_duration"			"SOUL DURATION:"
+"DOTA_Tooltip_modifier_reaver_lord_soul_collector_soul"					"Souls"
+"DOTA_Tooltip_modifier_reaver_lord_soul_collector_soul_Description"		"Has stolen several souls."
+
+"DOTA_Tooltip_ability_reaver_lord_superiority_instinct"					"Superiority Complex"
+"DOTA_Tooltip_ability_reaver_lord_superiority_instinct_Description"		"If Reaver Lord has a higher percentage of life than the enemy he gets addiditional lifesteal and gains damage for every stolen soul."
+"DOTA_Tooltip_ability_reaver_lord_superiority_instinct_damage_const"	"DAMAGE:"
+"DOTA_Tooltip_ability_reaver_lord_superiority_instinct_damage_pct"		"%DAMAGE:"
+"DOTA_Tooltip_ability_reaver_lord_superiority_instinct_lifesteal"		"%LIFESTEAL:"
+"DOTA_Tooltip_modifier_reaver_lord_instinct_lifesteal"					"Superiority Complex"
+"DOTA_Tooltip_modifier_reaver_lord_instinct_lifesteal_Description"		"Grants attack and lifesteal."
+
+"DOTA_Tooltip_ability_reaver_lord_soul_devour"							"Devour"
+"DOTA_Tooltip_ability_reaver_lord_soul_devour_Description"				"Reaver Lord devours the enemies soul slow it's attack speed and movespeed. After 4 second he gains one soul. Reaver lord will heal from dealed damage."
+"DOTA_Tooltip_ability_reaver_lord_soul_devour_damage_pct"				"%DAMAGE:"
+"DOTA_Tooltip_ability_reaver_lord_soul_devour_movespeed_slow"			"%SLOW:"
+"DOTA_Tooltip_ability_reaver_lord_soul_devour_attackspeed_slow"			"ATTACK SLOW:"
+"DOTA_Tooltip_ability_reaver_lord_soul_devour_range"					"RANGE:"
+"DOTA_Tooltip_ability_reaver_lord_soul_devour_duration"					"DURATION:"
+
+"DOTA_Tooltip_modifier_reaver_lord_soul_devour_debuff"					"Stealing Soul"
+
+"DOTA_Tooltip_ability_reaver_lord_soul_burn"							"Soul Burn"
+"DOTA_Tooltip_ability_reaver_lord_soul_burn_Description"				"After a small delay, Reaver Lord burns all souls he has collected and causes a explosion on all enemies in medium radius. The Explosion deals damage for every soul that is burned in addition to a percentage of the max health of the victim."
+"DOTA_Tooltip_ability_reaver_lord_soul_burn_damage"						"DAMAGE PER SOUL:"
+"DOTA_Tooltip_ability_reaver_lord_soul_burn_damage_pct"					"%DAMAGE FROM MAX HP:"
+"DOTA_Tooltip_ability_reaver_lord_soul_burn_radius"						"RADIUS:"
+
+"DOTA_Tooltip_ability_reaver_lord_twink"								"Twink"
+"DOTA_Tooltip_ability_reaver_lord_twink_Description"					"Reaver Lord can blink to a point."
+"DOTA_Tooltip_ability_reaver_lord_twink_range"							"RANGE:"
+"DOTA_Tooltip_ability_reaver_lord_special_bonus_blink_range"			"+800 Blink range to Twink"
+
+"DOTA_Tooltip_ability_reaver_lord_attract"								"Attract & Destroy"
+"DOTA_Tooltip_ability_reaver_lord_attract_Description"					"Reaver Lord pulls everybody in range to himself and bring down his rage, stunning enemies and dealing damage for every unit and creep. Requires the maximum amount of souls."
+"DOTA_Tooltip_ability_reaver_lord_attract_radius"						"RADIUS:"
+"DOTA_Tooltip_ability_reaver_lord_attract_damage_by_hero"				"DMG PER HERO:"
+"DOTA_Tooltip_ability_reaver_lord_attract_damage_by_creep"				"DMG PER CREEP:"
+"DOTA_Tooltip_ability_reaver_lord_attract_damage_pct"					"%DMG OF MAX HP:"
+"DOTA_Tooltip_ability_reaver_lord_attract_stun_duration"				"STUN DURATION:"
+"DOTA_Tooltip_modifier_reaver_lord_attract_debuff"						"CAUGHT"
+"DOTA_Tooltip_ability_reaver_lord_special_bonus_no_souls"				"Attract & Destroy not require souls"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\reaver_lord.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\rubick.txt' begin 
+"DOTA_Tooltip_ability_special_bonus_unique_rubick_4"					"-8s Telekinesis Cooldown"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\rubick.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\sandking.txt' begin 
+"DOTA_Tooltip_ability_sandking_sand_storm_damage_pct"				"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_sandking_caustic_finale_damage_pct"			"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_sandking_epicenter_damage_pct"				"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\sandking.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\satan.txt' begin 
+"npc_dota_hero_doom_bringer"											"Satan"
+
+"DOTA_Tooltip_ability_satan_might"										"Satan's Might"
+"DOTA_Tooltip_ability_satan_might_Description"							"Chance to stun attackers or return tdamage to them."
+"DOTA_Tooltip_ability_satan_might_chance"								"%CHANCE:"
+"DOTA_Tooltip_ability_satan_might_stun_duration"						"STUN DURATION:"
+"DOTA_Tooltip_ability_satan_might_radius"								"RADIUS:"
+
+"DOTA_Tooltip_ability_satan_breath"										"Devil's Breath"
+"DOTA_Tooltip_ability_satan_breath_Description"							"Satan burns all enemies in front of him. Damage against creeps is multiplied."
+"DOTA_Tooltip_ability_satan_breath_range"								"RANGE:"
+"DOTA_Tooltip_ability_satan_breath_damage"								"DAMAGE:"
+"DOTA_Tooltip_ability_satan_breath_damage_from_str"						"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_satan_breath_creep_multipler"						"CREEP DAMAGE MULTIPLER:"
+"DOTA_Tooltip_ability_satan_breath_duration"							"DURATION:"
+"DOTA_Tooltip_ability_satan_breath_tick_count"							"TICK COUNT:"
+
+"DOTA_Tooltip_modifier_satan_breath_active"								"Breath of Devil"
+"DOTA_Tooltip_modifier_satan_breath_active_Description"					"Satan burns everybody in his path. Disarmed."
+
+"DOTA_Tooltip_ability_satan_trade"										"Bloody Trade"
+"DOTA_Tooltip_ability_satan_trade_Description"							"Satan trades a part of his current health to increase his damage for a short time."
+"DOTA_Tooltip_ability_satan_trade_Note0"								"Lost health can't kill Satan."
+"DOTA_Tooltip_ability_satan_trade_Note1"								"Loosing health will start the cooldown on blink dagger."
+"DOTA_Tooltip_ability_satan_trade_Note2"								"Additional damage can be purged."
+"DOTA_Tooltip_ability_satan_trade_health_lose"							"%HEALTH LOSE:"
+"DOTA_Tooltip_ability_satan_trade_damage_get"							"%HP TO DAMAGE:"
+"DOTA_Tooltip_ability_satan_trade_duration"								"DURATION:"
+"DOTA_Tooltip_modifier_satan_trade_attack"								"Trade Result"
+"DOTA_Tooltip_modifier_satan_trade_attack_Description"					"Gain %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%% damage."
+
+"DOTA_Tooltip_ability_satan_overpain"									"Painkiller"
+"DOTA_Tooltip_ability_satan_overpain_Description"						"For a short time Satan absorbs a percent of incoming damage and regenerates faster."
+"DOTA_Tooltip_ability_satan_overpain_duration"							"DURATION:"
+"DOTA_Tooltip_ability_satan_overpain_damage_decrease"					"%INCOMING DAMAGE DECREASE:"
+"DOTA_Tooltip_ability_satan_overpain_hp_regen"							"%REGENERATION:"
+
+"DOTA_Tooltip_modifier_satan_overpain_active"							"Painkiller"
+"DOTA_Tooltip_modifier_satan_overpain_active_Description"				"Devil does not feel pain."
+
+"DOTA_Tooltip_ability_satan_curse"										"Devil's Curse"
+"DOTA_Tooltip_ability_satan_curse_Description"							"Satan curses the enemy, slowing it, disabling passive and active abilities aswell as disarming the target."
+"DOTA_Tooltip_ability_satan_curse_duration"								"DURATION:"
+
+"DOTA_Tooltip_modifier_satan_curse_debuff"								"Cursed by Lucifer"
+"DOTA_Tooltip_modifier_satan_curse_debuff_Description"					"Lucifer is law."
+
+"DOTA_Tooltip_ability_satan_special_bonus_trade_damage"					"+50% damage Bloody Trade"
+	"DOTA_Tooltip_ability_satan_special_bonus_trade_duration"				"+15sec duration to Bloody Trade"
+	"DOTA_Tooltip_ability_satan_special_bonus_might_nocd"					"Removes Satan's Might cooldown"
+	"DOTA_Tooltip_ability_satan_special_bonus_breath_damage"				"+100 damage to Satan's Breath"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\satan.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadowsong.txt' begin 
+"npc_dota_hero_antimage"										"Shadowsong"
+
+"DOTA_Tooltip_ability_shadowsong_magic_fire" 					"Magic Fire"
+"DOTA_Tooltip_ability_shadowsong_magic_fire_Description"		"Magic fire burns the mana of the enemy unit, and deals damage equal to a percentage of their maximum mana."
+"DOTA_Tooltip_ability_shadowsong_magic_fire_manaburn" 			"BURN:"
+
+"DOTA_Tooltip_ability_angel_arena_firehell"						"Firehell"
+"DOTA_Tooltip_ability_angel_arena_firehell_Description"			"The earth burns under Shadowsong, dealing damage over time to enemy units within range."
+"DOTA_Tooltip_ability_angel_arena_firehell_radius"				"RADIUS:"		
+"DOTA_Tooltip_ability_angel_arena_firehell_damage"				"DAMAGE:"	
+"DOTA_Tooltip_ability_angel_arena_firehell_damage_pct"			"%DAMAGE:"
+"DOTA_Tooltip_ability_shadowsong_special_bonus_firedamage"		"+125 damage for Firehell"
+"DOTA_Tooltip_ability_shadowsong_special_bonus_firedamagepct"	"+1.25% damage from max health for Firehell"
+
+"DOTA_Tooltip_ability_angel_arena_death_aura"					"Aura of Death"
+"DOTA_Tooltip_ability_angel_arena_death_aura_Description"		"Death aura aids allies, increasing their movement speed and health regeneration."
+"DOTA_Tooltip_ability_angel_arena_death_aura_aura_radius"		"RADIUS:"		
+"DOTA_Tooltip_ability_angel_arena_death_aura_bonus_speed"		"%SPEED:"	
+"DOTA_Tooltip_ability_angel_arena_death_aura_hp_regen"			"REGEN:"
+"DOTA_Tooltip_modifier_death_aura"								"Death Aura"
+"DOTA_Tooltip_modifier_death_aura_Description"					"Death aura is giving this unit bonus movement speed and regen."
+
+"DOTA_Tooltip_ability_angel_arena_demonic"						"Demonic Manifestation"
+"DOTA_Tooltip_ability_angel_arena_demonic_Description"			"Transform into a demon, gaining increased base attack damage, modified attack speed, increased attack range, and increased health for a short duration."
+"DOTA_Tooltip_ability_angel_arena_demonic_duration"				"DURATION:"		
+"DOTA_Tooltip_ability_angel_arena_demonic_base_attack_time"		"BASE ATTACK:"	
+"DOTA_Tooltip_ability_angel_arena_demonic_attack_range"			"ATTACK RANGE:"
+"DOTA_Tooltip_ability_angel_arena_demonic_bonus_damage"			"BONUS DAMAGE:"
+"DOTA_Tooltip_ability_angel_arena_demonic_bonus_damage_pct"		"%BONUS DAMAGE:"
+"DOTA_Tooltip_ability_angel_arena_demonic_bonus_hp"				"BONUS HP:"
+
+"DOTA_Tooltip_modifier_demonic"									"DEMON"
+"DOTA_Tooltip_modifier_demonic_Description"						"OH MY GOD! IT'S A FREAKING DEMON!"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadowsong.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadow_demon.txt' begin 
+"DOTA_Tooltip_ability_shadow_demon_shadow_poison_damage_pct"		"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadow_demon.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadow_fiend.txt' begin 
+"DOTA_Tooltip_ability_nevermore_dark_lord_disarmor_percent"			"%DISARMOR:"
+"DOTA_Tooltip_modifier_passive_dark_lord_disarmor"					"DISARMOR"
+
+"DOTA_Tooltip_ability_nevermore_shadowraze1_damage_by_attack"		"DAMAGE BY PHYSICAL ATTACK:"
+"DOTA_Tooltip_ability_nevermore_shadowraze2_damage_by_attack"		"DAMAGE BY PHYSICAL ATTACK:"
+"DOTA_Tooltip_ability_nevermore_shadowraze3_damage_by_attack"		"DAMAGE BY PHYSICAL ATTACK:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadow_fiend.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadow_shaman.txt' begin 
+"DOTA_Tooltip_ability_shadow_shaman_ether_shock_damage_pct"			"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\shadow_shaman.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\silencer.txt' begin 
+"DOTA_Tooltip_ability_silencer_curse_of_the_silent_damage_pct"		"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\silencer.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\slardar.txt' begin 
+"DOTA_Tooltip_modifier_slardar_amplify_damage_Description"			"Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%.\nProvides True Sight too."
+"DOTA_Tooltip_ability_slardar_slithereen_crush_damage_pct"			"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_slardar_amplify_damage_armor_reduction_pct"	"%DISARMOR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\slardar.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\spike.txt' begin 
+"npc_dota_hero_bloodseeker"									"Spike"
+
+"DOTA_Tooltip_ability_spike_dash"							"Spiked Dash"
+"DOTA_Tooltip_ability_spike_dash_Description"				"Spike rushes forward, dealing damage to all and deal basic attack to enemies."
+"DOTA_Tooltip_ability_spike_dash_range_tooltip"				"RANGE:"
+"DOTA_Tooltip_modifier_spike_dash_active"					"Dashed"
+
+"DOTA_Tooltip_ability_spike_dash_damage_tooltip"			"DAMAGE:"
+"DOTA_Tooltip_modifier_spike_dash_active"					"Dashing"
+
+"DOTA_Tooltip_ability_angel_arena_shell"					"Thorn Shell"
+"DOTA_Tooltip_ability_angel_arena_shell_Description"		"Reflects a percentage of incoming damage back to the attacker."
+"DOTA_Tooltip_ability_angel_arena_shell_return_damage"		"%RETURN:"
+
+"DOTA_Tooltip_ability_spike_heal"				"Healing Ward"
+"DOTA_Tooltip_ability_spike_heal_Description"	"Provide healing to allies, gaining a percentage of health back."
+"DOTA_Tooltip_ability_spike_heal_duration"		"DURATION:"
+"DOTA_Tooltip_ability_spike_heal_heal_per_sec"	"%HEAL:"
+
+"DOTA_Tooltip_Ability_spike_conclusion"									"Conclusion"
+"DOTA_Tooltip_Ability_spike_conclusion_Description"						"Spike purges all negative effects and gets enraged. While he is enraged spike refreshes all skills and items, but following usage will increase the ability or item cooldown. \nPassive - Spike gains bonus damage for every killed enemy unit when he has the talent."
+"DOTA_Tooltip_Ability_spike_conclusion_duration"						"DURATION:"
+"DOTA_Tooltip_Ability_spike_conclusion_total_cooldown"					"%COOLDOWN INCREASED:"
+"DOTA_Tooltip_Ability_spike_conclusion_damage_by_creep"					"DAMAGE PER CREEP KILL:"
+"DOTA_Tooltip_Ability_spike_conclusion_damage_by_hero"					"DAMAGE PER HERO KILL:"
+"DOTA_Tooltip_modifier_spike_conclusion_active"							"Conclusion of Madness"
+"DOTA_Tooltip_modifier_spike_conclusion_active_Description"				"Madness swallowed this hero."
+"DOTA_Tooltip_modifier_spike_conclusion_attack"							"Bonus Damage"
+"DOTA_Tooltip_modifier_spike_conclusion_attack_Description"				"Get %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%% bonus damage."
+
+"DOTA_Tooltip_Ability_spike_special_bonus_attack"						"+1 damage per killed creep, +10 damage per killed hero"
+"DOTA_Tooltip_Ability_spike_special_bonus_dash_doubled"					"Spiked Dash deals 200% attack damage"
+"DOTA_Tooltip_Ability_spike_special_bonus_shell_25"						"+17% damage reflected by Thorn Shell"
+"DOTA_Tooltip_Ability_spike_special_bonus_shell_block"					"Thorn Shell now blocks incoming damage"
+
+"DOTA_Tooltip_modifier_spike_special_bonus_attack"						"Attack bonus"
+
+"DOTA_Tooltip_modifier_spike_special_bonus_attack_Description"			"Getting %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%% attack damage"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\spike.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\spirit_breaker.txt' begin 
+"DOTA_Tooltip_ability_spirit_breaker_greater_bash_damage_pct"		"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_spirit_breaker_nether_strike_damage_pct"		"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\spirit_breaker.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\storm_spirit.txt' begin 
+"DOTA_Tooltip_ability_storm_spirit_overload_damage_pct"		"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\storm_spirit.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\sven.txt' begin 
+"DOTA_Tooltip_ability_sven_gods_strength_duration"						"DURATION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\sven.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\techies.txt' begin 
+"DOTA_Tooltip_ability_techies_remote_mines_damage_pct"				"%DAMAGE:"
+"DOTA_Tooltip_ability_techies_suicide_damage_pct"					"%DAMAGE(MAGICAL):"
+"DOTA_Tooltip_ability_techies_land_mines_damage_pct"				"%DAMAGE(MAGICAL):"
+"DOTA_Tooltip_ability_special_bonus_unique_techies_4"				"+50 Mines Movement Speed"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\techies.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\timbersaw.txt' begin 
+"DOTA_Tooltip_ability_shredder_chakram_damage_pct"					"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_shredder_chakram_2_damage_pct"				"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\timbersaw.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\treant.txt' begin 
+"DOTA_Tooltip_ability_treant_overgrowth_damage_pct"					"%DAMAGE WITH SCEPTER FROM STRENGTH:"
+"DOTA_Tooltip_ability_treant_overgrowth_damage_pct_creep"			"%DAMAGE WITH SCEPTER FROM STRENGTH TO CREEPS:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\treant.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\troll_warlord.txt' begin 
+"DOTA_Tooltip_ability_troll_warlord_whirling_axes_melee_damage_pct"		"%DAMAGE:"
+"DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_damage_pct"	"%DAMAGE:"
+
+"DOTA_Tooltip_ability_troll_warlord_fervor_aa"								"Fervor"
+"DOTA_Tooltip_ability_troll_warlord_fervor_aa_Description"					"Troll Warlord learns about the weakness of his target with each attack, increasing his damage and attack speed. \nIf Troll changes targets, the stacks drop to zero"
+"DOTA_Tooltip_ability_troll_warlord_fervor_aa_attack_speed"					"ATTACK SPEED:"
+"DOTA_Tooltip_ability_troll_warlord_fervor_aa_damage"						"DAMAGE:"
+"DOTA_Tooltip_ability_troll_warlord_fervor_aa_duration"						"DURATION:"
+"DOTA_Tooltip_modifier_troll_warlord_fervor_stack_rewrited"					"Fervor Stack"
+"DOTA_Tooltip_modifier_troll_warlord_fervor_stack_rewrited_Description"		"Increase damage by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%% and attack speed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%%."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\troll_warlord.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\tusk.txt' begin 
+"DOTA_Tooltip_ability_tusk_ice_shards_damage_pct"					"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_tusk_snowball_damage_pct"						"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\tusk.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\undying.txt' begin 
+"DOTA_Tooltip_ability_undying_decay_damage_pct"						"%DAMAGE FROM STR:"
+"DOTA_Tooltip_ability_undying_soul_rip_damage_pct"					"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\undying.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\venomancer.txt' begin 
+"DOTA_Tooltip_ability_venomancer_poison_sting_dmg_pct"				"%DAMAGE FROM AGI:"
+
+"DOTA_Tooltip_ability_venomancer_ward_cleave"						"Plague Cleave"
+"DOTA_Tooltip_ability_venomancer_ward_cleave_Description"			"Deal cleave attack"
+"DOTA_Tooltip_ability_venomancer_ward_cleave_radius"				"RADIUS:"
+"DOTA_Tooltip_ability_venomancer_ward_cleave_cleave_percent"		"%DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\venomancer.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\visage.txt' begin 
+"DOTA_Tooltip_ability_visage_soul_assumption_damage_pct"			"%DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\visage.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\warlock.txt' begin 
+"DOTA_Tooltip_ability_warlock_shadow_word_heal_pct"					"%HEAL FROM INT:"
+"DOTA_Tooltip_ability_warlock_shadow_word_dmg_pct_tooltip"			"%HEAL FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\warlock.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\windrunner.txt' begin 
+"DOTA_Tooltip_ability_windrunner_volley"								"Arrow Volley"
+"DOTA_Tooltip_ability_windrunner_volley_Description"					"Gives windrunner the ability to bring down a volley of arrows.\nUpgradable with Aghanim's Scepter."
+"DOTA_Tooltip_ability_windrunner_volley_radius"							"RADIUS:"
+"DOTA_Tooltip_ability_windrunner_volley_radius_scepter"					"RADIUS SCEPTER:"
+
+"DOTA_Tooltip_ability_windrunner_powershot_damage_pct"					"%DAMAGE FROM INT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\windrunner.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\winter_wyvern.txt' begin 
+"DOTA_Tooltip_ability_winter_wyvern_splinter_blast_damage_pct"		"%DAMAGEA:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\winter_wyvern.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\wisp.txt' begin 
+"DOTA_Tooltip_ability_wisp_spirits_damage_pct"							"%DAMAGE FROM STR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\wisp.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\witch_doctor.txt' begin 
+"DOTA_Tooltip_modifier_voodoo_restoration_dummy"					"Healing"
+"DOTA_Tooltip_ability_witch_doctor_voodoo_restoration_heal_percent"	"%HEAL:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\heroes\witch_doctor.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\!empty.txt' begin 
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\!empty.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\abyssal_blade.txt' begin 
+"DOTA_Tooltip_Ability_item_abyssal_blade_2"							"Abyssal Blade"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_Lore"					"The lost blade of the Commander of the Abyss, this edge cuts into an enemy's soul."
+"DOTA_Tooltip_ability_item_abyssal_blade_2_Description"				"<h1>Active: Overwhelm</h1> Stuns a target enemy unit for %stun_duration% seconds. Pierces Spell Immunity.\n<h1>Passive: Bash</h1> Grants each attack a chance to stun the target for %bash_duration% seconds and deal %bonus_chance_damage% bonus damage, based on whether the equipped hero is ranged or melee.\n<h1>Passive: Damage Block</h1> Makes the wielder block damage from each incoming attack based on whether the equipped hero is melee or ranged."
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bash_chance_melee"		"%BASH MELEE CHANCE:"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bash_chance_ranged"		"%BASH RANGED CHANCE:"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bonus_damage"			"+$damage"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bonus_strength"			"+$str"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_Note0"					"The stun is melee range."
+"DOTA_Tooltip_ability_item_abyssal_blade_2_Note1"					"Doesn't stack with other bashes."
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bash_duration"			"BASH STUN DURATION:"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_stun_duration"			"OVERWHELM STUN DURATION:"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bonus_chance_damage"		"BASH BONUS DAMAGE:"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bonus_health"			"+$health"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_bonus_health_regen"		"+$hp_regen"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_block_damage_melee"		"BLOCK DAMAGE MELEE:"
+"DOTA_Tooltip_ability_item_abyssal_blade_2_block_damage_ranged"		"BLOCK DAMAGE RANGED:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\abyssal_blade.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\advanced_midas.txt' begin 
+"DOTA_Tooltip_Ability_item_advanced_midas"								"Demons of Midas"
+"DOTA_Tooltip_Ability_item_advanced_midas_Description"					"<h1>Active: Transmute</h1> Kills a non-hero target and gives 750 gold and 9.0x experience. Cannot be used on Ancient Creeps.\n<h1>Passive: Bounty</h1> Give for bounty rune 200 gold + 1.75 gold for every game minute"
+"DOTA_Tooltip_Ability_item_advanced_midas_bonus_attackspeed"			"+$attack"
+"DOTA_Tooltip_ability_item_hand_of_midas_transmute_cast_range_tooltip"	"TRANSMUTE CAST RANGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\advanced_midas.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\aegis_aa.txt' begin 
+"DOTA_Tooltip_Ability_item_aegis_aa"									"Aegis of the Immortal"
+"DOTA_Tooltip_ability_item_aegis_aa_Lore"								"The Immortal was said to own a shield that protected him from death itself."
+"DOTA_Tooltip_ability_item_aegis_aa_Description"						"<h1>Passive: Reincarnation</h1> Brings you to life with full health and mana %reincarnate_time% seconds after you die, at the location where you died. Reincarnation must be used within %disappear_time_minutes_tooltip% minutes or Aegis of the Immortal disappears. If it expires, it will heal you over 5 seconds (dispels on damage)."
+
+"Dota_tooltip_modifier_aegis_tooltip"									"Aegis of Immortal"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\aegis_aa.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\amaliels_cuirass.txt' begin 
+"DOTA_Tooltip_Ability_item_amaliels_cuirass"						"Amaliels Cuirass"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_Description"			"<h1>Passive: Amaliels Aura</h1> All nearby friendly units gain extra armor and attack speed while the armor of nearby enemies is reduced."
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_aspeed"			"+$attack"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_health"			"+$health"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_stats"			"+$all"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_armor_aura"		"AURA ARMOR:"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_aspeed_aura"		"AURA ASPEED:"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_bonus_friend_radius"	"AURA RADIUS:"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_disarmor_aura"			"ENEMIES DISARMOR:"
+"DOTA_Tooltip_Ability_item_amaliels_cuirass_enemy_radius"			"EMEMIES DISARMOR RADIUS:"
+
+"DOTA_Tooltip_modifier_amaliels_cuirass_aura_friend"				"Amaliels Aura"
+"DOTA_Tooltip_modifier_amaliels_cuirass_aura_friend_Description"	"Amaliels Aura is giving this unit armor and attack speed"
+
+"DOTA_Tooltip_modifier_amaliels_cuirass_aura_enemy"					"Amaliels Aura"
+"DOTA_Tooltip_modifier_amaliels_cuirass_aura_enemy_Description"		"Amaliels Aura is decreasing the armor of this unit"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\amaliels_cuirass.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_armor.txt' begin 
+"DOTA_Tooltip_Ability_item_angels_armor"							"Angels Armor"
+"DOTA_Tooltip_Ability_item_angels_armor_Description"				"The angel's bones provide armor, stats, health and attack speed to the owner. \n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_angels_armor_bonus_armor"				"+$armor"
+"DOTA_Tooltip_Ability_item_angels_armor_attack_speed"				"+$attack"
+"DOTA_Tooltip_Ability_item_angels_armor_bonus_health"				"+$health"
+"DOTA_Tooltip_Ability_item_angels_armor_bonus_stats"				"+$all"
+"DOTA_Tooltip_Ability_item_angels_armor_dummy"						"Angels Armor"
+"DOTA_Tooltip_Ability_item_angels_armor_dummy_Description"			"The angel's bones provide armor, stats, health and attack speed to the owner. \n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_angels_armor_dummy_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_angels_armor_dummy_attack_speed"			"+$attack"
+"DOTA_Tooltip_Ability_item_angels_armor_dummy_bonus_health"			"+$health"
+"DOTA_Tooltip_Ability_item_angels_armor_dummy_bonus_stats"			"+$all"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_armor.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_blood.txt' begin 
+"DOTA_Tooltip_Ability_item_angels_blood"							"Angels Blood"
+"DOTA_Tooltip_Ability_item_angels_blood_Description"				"Blood from a defeated angel.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_angels_blood_bonus_hp_regen"				"+$hp_regen"
+"DOTA_Tooltip_Ability_item_angels_blood_dummy"						"Angels Blood"
+"DOTA_Tooltip_Ability_item_angels_blood_dummy_Description"			"Blood from a defeated angel.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_angels_blood_dummy_bonus_hp_regen"		"+$hp_regen"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_blood.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_desolators.txt' begin 
+"DOTA_Tooltip_Ability_item_angels_desolators"						"Angels Desolators"
+"DOTA_Tooltip_Ability_item_angels_desolators_Description"			"<h1>Passive: Angelic Corruption</h1> Your attacks reduce the target's armor for 8 seconds.\n\n"
+"DOTA_Tooltip_Ability_item_angels_desolators_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_angels_desolators_corruption_armor"		"ARMOR REDUCE:"
+"DOTA_Tooltip_Ability_item_angels_desolators_corruption_duration"	"DURATION:"
+
+"DOTA_Tooltip_modifier_angels_desolator_armor"						"Broken Armor"
+"DOTA_Tooltip_modifier_angels_desolator_armor_Description"			"Armor reduced by 16."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_desolators.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_greaves.txt' begin 
+"DOTA_Tooltip_Ability_item_angels_greaves"						"Angels Greaves"
+"DOTA_Tooltip_Ability_item_angels_greaves_Description"			"Active: Restore 600 + 30 percent of your MAX HP and 300 and 40 percent of your MAX MANA for any allies in  a 900 radius .\Passive: Angel's Bless Aura - Impoved health regen and armor\n\nCan be used once every 30sec."
+"DOTA_Tooltip_Ability_item_angels_greaves_movespeed"			"%+$move_speed"
+"DOTA_Tooltip_Ability_item_angels_greaves_bonus_mana"			"+$mana"
+"DOTA_Tooltip_Ability_item_angels_greaves_bonus_att"			"+$all"
+"DOTA_Tooltip_Ability_item_angels_greaves_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_angels_greaves_aura_armor"			"ARMOR AURA:"
+"DOTA_Tooltip_Ability_item_angels_greaves_aura_hpregen"			"HP REGEN AURA:"
+"DOTA_Tooltip_Ability_item_angels_greaves_aura_radius"			"RADIUS AURA:"		
+
+"DOTA_Tooltip_modifier_item_angels_greaves_aura"				"Angels Greaves Aura"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_greaves.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_sword.txt' begin 
+"DOTA_Tooltip_Ability_item_angels_sword"							"Angels Sword"
+"DOTA_Tooltip_Ability_item_angels_sword_Description"				"<h1>Active: Angels Shield</h1> Blocks incoming magic damage.\nSword of angels. Can block magical damage."
+"DOTA_Tooltip_Ability_item_angels_sword_bonus_damage"				"+$damage"
+"DOTA_Tooltip_Ability_item_angels_sword_sheild_duration"			"SHIELD DURATION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\angels_sword.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\armlet.txt' begin 
+"DOTA_Tooltip_Ability_item_armlet_2"							"Armlet of Mordiggian"
+"DOTA_Tooltip_modifier_item_armlet_2_unholy_strength"			"Unholy Strength"
+"DOTA_Tooltip_modifier_item_armlet_2_unholy_strength_Description"	"Damage increased by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%.\nStrength increased by 25.\nLosing %dMODIFIER_PROPERTY_TOOLTIP% health per second."
+"DOTA_Tooltip_ability_item_armlet_2_Lore"						"Weapon of choice among brutes, the bearer sacrifices his life energy to gain immense strength and power."
+"DOTA_Tooltip_ability_item_armlet_2_Description"				"<h1>Active: Toggle Unholy Strength</h1> When active, Unholy Strength grants +%unholy_bonus_damage% damage and +%unholy_bonus_strength% strength, but drains %unholy_health_drain_per_second_tooltip% health per second.  You cannot die from the health drain when Unholy Strength is activated, nor from the strength loss when Unholy Strength is deactivated."
+"DOTA_Tooltip_ability_item_armlet_2_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_armlet_2_bonus_attack_speed"			"+$attack"
+"DOTA_Tooltip_ability_item_armlet_2_bonus_armor"				"+$armor"
+"DOTA_Tooltip_ability_item_armlet_2_bonus_health_regen"			"+$hp_regen"
+
+"DOTA_Tooltip_Ability_item_armlet_3"							"Armlet of Mordiggian"
+"DOTA_Tooltip_modifier_item_armlet_3_unholy_strength"			"Unholy Strength"
+"DOTA_Tooltip_modifier_item_armlet_3_unholy_strength_Description"	"Damage increased by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%.\nStrength increased by 25.\nLosing %dMODIFIER_PROPERTY_TOOLTIP% health per second."
+"DOTA_Tooltip_ability_item_armlet_3_Lore"						"Weapon of choice among brutes, the bearer sacrifices his life energy to gain immense strength and power."
+"DOTA_Tooltip_ability_item_armlet_3_Description"				"<h1>Active: Toggle Unholy Strength</h1> When active, Unholy Strength grants +%unholy_bonus_damage% damage and +%unholy_bonus_strength% strength, but drains %unholy_health_drain_per_second_tooltip% health per second.  You cannot die from the health drain when Unholy Strength is activated, nor from the strength loss when Unholy Strength is deactivated."
+"DOTA_Tooltip_ability_item_armlet_3_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_armlet_3_bonus_attack_speed"			"+$attack"
+"DOTA_Tooltip_ability_item_armlet_3_bonus_armor"				"+$armor"
+"DOTA_Tooltip_ability_item_armlet_3_bonus_health_regen"			"+$hp_regen"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\armlet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\awful_mask.txt' begin 
+"DOTA_Tooltip_Ability_item_awful_mask"								"Awful Mask"
+"DOTA_Tooltip_Ability_item_awful_mask_Description"					"<h1>Passive: Lifesteal</h1> Heals the attacker for a percentage of attack damage dealt.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_awful_mask_bonus_damage"					"+$damage"
+"DOTA_Tooltip_Ability_item_awful_mask_bonus_armor"					"+$armor"
+"DOTA_Tooltip_Ability_item_awful_mask_bonus_str"					"+$str"
+"DOTA_Tooltip_Ability_item_awful_mask_bonus_health"					"+$health"
+"DOTA_Tooltip_Ability_item_awful_mask_lifesteal"					"%Lifesteal:"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy"						"Awful Mask"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy_Description"			"<h1>Passive: Lifesteal</h1> Heals the attacker for a percentage of attack damage dealt.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy_bonus_str"				"+$str"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy_bonus_health"			"+$health"
+"DOTA_Tooltip_Ability_item_awful_mask_dummy_lifesteal"				"%Lifesteal:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\awful_mask.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\azrael_crossbow.txt' begin 
+"DOTA_Tooltip_ability_item_azrael_crossbow"							"Azrael Crossbow"
+"DOTA_Tooltip_ability_item_azrael_crossbow_Description"				"<h1>Passive: Critical Strike</h1> Grants each attack a chance to deal additional damage.\n\n<h1>Passive: Double Shot</h1> The attacks of ranged heroes strike the enemy twice.\n\nWeapon of the Burning Legion."
+"DOTA_Tooltip_ability_item_azrael_crossbow_bonus_damage"			"+$damage"
+"DOTA_Tooltip_ability_item_azrael_crossbow_crit_chance"				"%CRIT CHANCE:"
+"DOTA_Tooltip_ability_item_azrael_crossbow_crit_bonus"				"%CRIT DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\azrael_crossbow.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\battle_fury.txt' begin 
+"DOTA_Tooltip_ability_item_bfury_2"								"Battle Fury"
+"DOTA_Tooltip_ability_item_bfury_2_Description"					"<h1>Active: Chop Tree</h1> Destroy the targeted tree.\n<h1>Passive: Greater Maim</h1> Each attack has a chance to slow the enemy's movement and attack speed.\n<h1>Passive: Cleave</h1> Deals a percent of attack damage in an area around the target. Ranged units cannot Cleave.\n<h1>Passive: Quell</h1> Increases attack damage against non-hero units, based on whether the equipped hero is ranged or melee. Does not provide bonus damage against Roshan. "
+"DOTA_Tooltip_ability_item_bfury_2_bonus_agility"				"+$agi"
+"DOTA_Tooltip_ability_item_bfury_2_bonus_str"					"+$str"
+"DOTA_Tooltip_ability_item_bfury_2_bonus_speed"					"%+$move_speed"
+"DOTA_Tooltip_ability_item_bfury_2_bonus_attack_speed"			"+$attack"
+"DOTA_Tooltip_ability_item_bfury_2_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_bfury_2_curse_chance"				"%CURSE CHANCE:"
+"DOTA_Tooltip_ability_item_bfury_2_curse_duration"				"DURATION:"
+"DOTA_Tooltip_ability_item_bfury_2_curse_attackspeed"			"CURSE ATTACKSLOW:"
+"DOTA_Tooltip_ability_item_bfury_2_curse_slow"					"%CURSE SPEED SLOW:"
+"DOTA_Tooltip_ability_item_bfury_2_cleave"						"%CLEAVE:"
+"DOTA_Tooltip_ability_item_bfury_2_cleave_radius"				"CLEAVE RADIUS:"
+"DOTA_Tooltip_ability_item_bfury_2_mp_regen"					"+$mana_regen"
+"DOTA_Tooltip_ability_item_bfury_2_health_regen"				"+$hp_regen"
+"DOTA_Tooltip_ability_item_bfury_2_quelling_bonus"				"%QUELL MELEE DAMAGE:"
+"DOTA_Tooltip_ability_item_bfury_2_quelling_bonus_ranged"		"%QUELL RANGED DAMAGE:"
+
+"DOTA_Tooltip_ability_item_demons_fury"							"Demons Fury"
+"DOTA_Tooltip_ability_item_demons_fury_Description"				"<h1>Active: Chop Tree</h1> Destroy the targeted tree.\n<h1>Passive: Demons Maim</h1> Each attack has a chance to slow the enemy's movement and attack speed.\n<h1>Passive: Cleave</h1> Deals a percent of attack damage in a area around the target. Ranged units cannot Cleave.\n<h1>Passive: Quell</h1> Increases attack damage against non-hero units, based on whether the equipped hero is ranged or melee."
+"DOTA_Tooltip_ability_item_demons_fury_bonus_agility"			"+$agi"
+"DOTA_Tooltip_ability_item_demons_fury_bonus_str"				"+$str"
+"DOTA_Tooltip_ability_item_demons_fury_bonus_speed"				"%+$move_speed"
+"DOTA_Tooltip_ability_item_demons_fury_bonus_attack_speed"		"+$attack"
+"DOTA_Tooltip_ability_item_demons_fury_bonus_damage"			"+$damage"
+"DOTA_Tooltip_ability_item_demons_fury_curse_chance"			"%CURSE CHANCE:"
+"DOTA_Tooltip_ability_item_demons_fury_curse_duration"			"DURATION:"
+"DOTA_Tooltip_ability_item_demons_fury_curse_attackspeed"		"CURSE ATTACKSLOW:"
+"DOTA_Tooltip_ability_item_demons_fury_curse_slow"				"%CURSE SPEED SLOW:"
+"DOTA_Tooltip_ability_item_demons_fury_cleave"					"%CLEAVE:"
+"DOTA_Tooltip_ability_item_demons_fury_cleave_radius"			"CLEAVE RADIUS:"
+"DOTA_Tooltip_ability_item_demons_fury_mp_regen"				"+$mana_regen"
+"DOTA_Tooltip_ability_item_demons_fury_health_regen"			"+$hp_regen"
+"DOTA_Tooltip_ability_item_demons_fury_quelling_bonus"			"%QUELL MELEE DAMAGE:"
+"DOTA_Tooltip_ability_item_demons_fury_quelling_bonus_ranged"	"%QUELL RANGED DAMAGE:"
+"DOTA_Tooltip_ability_item_demons_fury_disarmor"				"DISARMOR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\battle_fury.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\blessed_essence.txt' begin 
+"DOTA_Tooltip_Ability_item_blessed_essence"							"Blessed Essence"
+"DOTA_Tooltip_Ability_item_blessed_essence_Description"				"Blessed essence that is used to create weapons for the burning legion.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_blessed_essence_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_blessed_essence_bonus_armor"				"+$armor"
+"DOTA_Tooltip_Ability_item_blessed_essence_dummy"					"Blessed Essence"
+"DOTA_Tooltip_Ability_item_blessed_essence_dummy_Description"		"Blessed essence that is used to create weapons for the burning legion.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_blessed_essence_dummy_bonus_damage"		"+$damage"
+"DOTA_Tooltip_Ability_item_blessed_essence_dummy_bonus_armor"		"+$armor"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\blessed_essence.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\burning_blades.txt' begin 
+"DOTA_Tooltip_ability_item_burning_blades"							"Burning Blades"
+"DOTA_Tooltip_ability_item_burning_blades_Description"				"<h1>Passive: Burning Maim</h1> Each attack has a chance to slow the enemy's movement and attack speed.\n<h1>Passive: Burning Corruption</h1> Your attacks reduce target's armor.\n\nWeapons of Burning Legion"
+"DOTA_Tooltip_Ability_item_burning_blades_bonus_damage"    			"+$damage"
+"DOTA_Tooltip_Ability_item_burning_blades_bonus_str"     			"+$str"
+"DOTA_Tooltip_Ability_item_burning_blades_bonus_agility"    		"+$agi"
+"DOTA_Tooltip_Ability_item_burning_blades_bonus_speed"    			"%+$move_speed"
+"DOTA_Tooltip_Ability_item_burning_blades_bonus_attack_speed"  		"+$attack"
+"DOTA_Tooltip_Ability_item_burning_blades_curse_chance"    			"%CURSE CHANCE:"
+"DOTA_Tooltip_Ability_item_burning_blades_cuse_duration"    		"CURSE DURATION:"
+"DOTA_Tooltip_Ability_item_burning_blades_curse_slow"    			"%CURSE SLOW:"
+"DOTA_Tooltip_Ability_item_burning_blades_curse_attackspeed"  		"CURSE SLOW ATTACK:"
+"DOTA_Tooltip_Ability_item_burning_blades_bonus_armor"				"ARMOR REDUCE:"
+"DOTA_Tooltip_Ability_item_burning_blades_duration"					"REDUCE DURATION:"
+
+"DOTA_Tooltip_modifier_burning_blades_desolator_armor"				"Burning Corruption"
+"DOTA_Tooltip_modifier_curse_burning_blades"       					"Cursed!"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\burning_blades.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\burning_butterfly.txt' begin 
+"DOTA_Tooltip_Ability_item_burning_butterfly"					"Burning Butterfly"
+"DOTA_Tooltip_Ability_item_burning_butterfly_Description"		"A Sacred weapon which provides an incredible amount of dexterity and a chance to absorb damage in combat."
+"DOTA_Tooltip_Ability_item_burning_butterfly_bonus_agi"			"+$agi"
+"DOTA_Tooltip_Ability_item_burning_butterfly_bonus_dmg"			"+$damage"
+"DOTA_Tooltip_Ability_item_burning_butterfly_bonus_evasion"		"%+$evasion"
+"DOTA_Tooltip_Ability_item_burning_butterfly_bonus_attackspeed"	"+$attack"
+"DOTA_Tooltip_Ability_item_burning_butterfly_bonus_mvspd_pct"	"%+$move_speed"
+"DOTA_Tooltip_Ability_item_burning_butterfly_absorb_chance"		"%ABSORB CHANCE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\burning_butterfly.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\charon_scepter.txt' begin 
+"DOTA_Tooltip_Ability_item_charon"						"Charon's Scepter"
+"DOTA_Tooltip_Ability_item_charon_Description"			"<h1>Active: Disappear</h1> Unit briefly shifts into another dimension where it is immune from harm and has health regen."
+"DOTA_Tooltip_Ability_item_charon_bonus_speed"			"+$move_speed"
+"DOTA_Tooltip_Ability_item_charon_bonus_int"			"+$int"
+"DOTA_Tooltip_Ability_item_charon_bonus_manaregen"		"+$mana_regen"
+"DOTA_Tooltip_Ability_item_charon_hp_regen_pct"			"%ASTRAL REGEN:"
+
+"DOTA_Tooltip_modifier_charon"							"Charon Regeneration"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\charon_scepter.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\crimson_guard.txt' begin 
+"DOTA_Tooltip_Ability_item_crimson_guard_2"								"Crimson Guard"
+"DOTA_Tooltip_ability_item_crimson_guard_2_Description"					"<h1>Active: Guard</h1> Grants nearby allied heroes a %block_chance_active%%% chance to block %block_damage_melee_active% damage from each incoming attack, along with %bonus_aoe_armor% armor. Lasts %duration% seconds.\n<h1>Passive: Damage Block</h1> Makes the wielder block damage from each incoming attack based on whether the equipped hero is melee or ranged."
+"DOTA_Tooltip_ability_item_crimson_guard_2_Lore"						"A cuirass originally built to protect against the dreaded Year Beast."
+"DOTA_Tooltip_ability_item_crimson_guard_2_bonus_health"				"+$health"
+"DOTA_Tooltip_ability_item_crimson_guard_2_bonus_health_regen"			"+$hp_regen"
+"DOTA_Tooltip_ability_item_crimson_guard_2_bonus_all_stats"				"+$all"
+"DOTA_Tooltip_ability_item_crimson_guard_2_bonus_armor"					"+$armor"
+"DOTA_Tooltip_ability_item_crimson_guard_2_block_damage_melee"			"BLOCK DAMAGE MELEE:"
+"DOTA_Tooltip_ability_item_crimson_guard_2_block_damage_ranged"			"BLOCK DAMAGE RANGED:"
+"DOTA_Tooltip_ability_item_crimson_guard_2_bonus_aoe_armor"				"GUARD ARMOR:"
+"DOTA_Tooltip_ability_item_crimson_guard_2_block_damage_melee_active"	"GUARD DAMAGE BLOCK :"
+"DOTA_Tooltip_ability_item_crimson_guard_2_duration"					"GUARD DURATION:"
+"DOTA_Tooltip_ability_item_crimson_guard_2_bonus_aoe_radius"			"GUARD RADIUS:"
+"DOTA_Tooltip_ability_item_crimson_guard_2_Note0"						"Multiple sources of damage block don't stack."
+"DOTA_Tooltip_ability_item_crimson_guard_2_Note1"						"Guard does not affect units that have been affected by Guard in the last 50 seconds."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\crimson_guard.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\damned_eye.txt' begin 
+"DOTA_Tooltip_ability_item_damned_eye"									"Damned Eye"
+"DOTA_Tooltip_ability_item_damned_eye_Description"						"<h1>Active: Damned Heal</h1> Owner get heal over time in value %heal_const% + (Main Attribute)*%heal_per_main_stat% for a while %time_to_heal% seconds. When hero take damage from any hero, heal disable."
+"DOTA_Tooltip_ability_item_damned_eye_all_stats"						"+$all"
+"DOTA_Tooltip_ability_item_damned_eye_armor"					        "+$armor"
+"DOTA_Tooltip_ability_item_damned_eye_health"				            "+$health"
+"DOTA_Tooltip_ability_item_damned_eye_health_regen"				        "+$hp_regen"
+"DOTA_Tooltip_ability_item_damned_eye_time_to_heal"				    	"DURATION:"
+"DOTA_Tooltip_ability_item_damned_eye_heal_const"				    	"HEAL:"
+"DOTA_Tooltip_ability_item_damned_eye_heal_per_main_stat"			    "MAIN ATTRIBUTE MULTIPLIER:"
+"DOTA_Tooltip_modifier_damned_eye_active"				                "Healing"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\damned_eye.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\damned_swords.txt' begin 
+"DOTA_Tooltip_Ability_item_damned_swords"      						"Damned Swords"
+"DOTA_Tooltip_Ability_item_damned_swords_Description"    			"<h1>Passive: Greater Maim</h1> Each attack has a chance to slow the enemy's movement and attack speed."
+"DOTA_Tooltip_Ability_item_damned_swords_bonus_damage"    			"+$damage"
+"DOTA_Tooltip_Ability_item_damned_swords_bonus_str"     			"+$str"
+"DOTA_Tooltip_Ability_item_damned_swords_bonus_agility"    			"+$agi"
+"DOTA_Tooltip_Ability_item_damned_swords_bonus_speed"    			"%+$move_speed"
+"DOTA_Tooltip_Ability_item_damned_swords_bonus_attack_speed"  		"+$attack"
+"DOTA_Tooltip_Ability_item_damned_swords_curse_chance"    			"%CURSE CHANCE:"
+"DOTA_Tooltip_Ability_item_damned_swords_cuse_duration"    			"CURSE DURATION:"
+"DOTA_Tooltip_Ability_item_damned_swords_curse_slow"    			"%CURSE SLOW:"
+"DOTA_Tooltip_Ability_item_damned_swords_curse_attackspeed"  		"CURSE SLOW ATTACK:"
+"DOTA_Tooltip_modifier_curse_damned_swords"       					"Cursed!"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\damned_swords.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\dark_edge.txt' begin 
+"DOTA_Tooltip_Ability_item_dark_edge"								"Dark Edge"
+"DOTA_Tooltip_modifier_item_dark_edge_windwalk"						"Shadow Walk"
+"DOTA_Tooltip_modifier_item_dark_edge_windwalk_Description"			"Makes you invisible until the duration ends, or until you attack or cast a spell.  While invisible, you move %windwalk_movement_speed%%% faster and can move through units.  Attacking to end the invisibility will deal %windwalk_bonus_damage% bonus damage to the target, disable their passive abilities, and reduce their damage output."
+"DOTA_Tooltip_modifier_silver_edge_debuff"							"Shadow Walk Attack"
+"DOTA_Tooltip_modifier_silver_edge_debuff_Description"				"Passive abilities disabled, and damage dealt reduced by %dMODIFIER_PROPERTY_TOTALDAMAGEOUTGOING_PERCENTAGE%%%."
+"DOTA_Tooltip_ability_item_dark_edge_Description"					"<h1>Active: Shadow Walk</h1> Makes you invisible until the duration ends, or until you attack or cast a spell.  While invisible, you move %windwalk_movement_speed%%% faster and can move through units.  Attacking to end the invisibility will deal %windwalk_bonus_damage% bonus damage to the target, disable their passive abilities, and reduce their damage output."
+"DOTA_Tooltip_ability_item_dark_edge_bonus_damage"					"+$damage"
+"DOTA_Tooltip_ability_item_dark_edge_bonus_attack_speed"			"+$attack"
+"DOTA_Tooltip_ability_item_dark_edge_bonus_all_stats"				"+$all"
+"DOTA_Tooltip_ability_item_dark_edge_maim_chance"					"%MAIM CHANCE:"
+"DOTA_Tooltip_ability_item_dark_edge_maim_movement_speed"			"%MAIM MOVE SLOW:"
+"DOTA_Tooltip_ability_item_dark_edge_maim_attack_speed"				"MAIM ATTACK SLOW:"
+"DOTA_Tooltip_ability_item_dark_edge_maim_duration"					"MAIM DURATION:"
+"DOTA_Tooltip_ability_item_dark_edge_windwalk_duration"				"SHADOW WALK DURATION:"
+"DOTA_Tooltip_ability_item_dark_edge_windwalk_bonus_damage"			"BONUS ATTACK DAMAGE:"
+"DOTA_Tooltip_ability_item_dark_edge_backstab_reduction"			"%ENEMY DAMAGE REDUCTION:"
+"DOTA_Tooltip_ability_item_dark_edge_backstab_duration"				"REDUCTION DURATION:"
+"DOTA_Tooltip_ability_item_dark_edge_Lore"							"Once used to slay an unjust king, only to have the kingdom erupt into civil war in the aftermath."
+"DOTA_Tooltip_ability_item_dark_edge_Note0"							"Backstab cannot miss."
+"DOTA_Tooltip_ability_item_dark_edge_Note1"							"Backstab does not pierce spell immunity."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\dark_edge.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\dead_boots.txt' begin 
+"DOTA_Tooltip_Ability_item_dead_boots"								"Dead Boots"
+"DOTA_Tooltip_Ability_item_dead_boots_Description"					"Flat movement speed bonuses from multiple pairs of boots do not stack.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_dead_boots_bonus_speed"					"+$move_speed"
+"DOTA_Tooltip_Ability_item_dead_boots_bonus_armor"					"+$armor"
+"DOTA_Tooltip_Ability_item_dead_boots_bonus_hp_regen"				"+$hp_regen"
+"DOTA_Tooltip_Ability_item_dead_boots_bonus_stats"					"+$all"
+"DOTA_Tooltip_Ability_item_dead_boots_dummy"						"Dead Boots"
+"DOTA_Tooltip_Ability_item_dead_boots_dummy_Description"			"Flat movement speed bonuses from multiple pairs of boots do not stack.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_dead_boots_dummy_bonus_speed"			"+$move_speed"
+"DOTA_Tooltip_Ability_item_dead_boots_dummy_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_dead_boots_dummy_bonus_hp_regen"			"+$hp_regen"
+"DOTA_Tooltip_Ability_item_dead_boots_dummy_bonus_stats"			"+$all"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\dead_boots.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\deaths_mask.txt' begin 
+"DOTA_Tooltip_Ability_item_deaths_mask"								"Reaper's Mask"
+"DOTA_Tooltip_Ability_item_deaths_mask_Description"					"<h1>Passive: Reaper Lifesteal</h1> Grants lifesteal, health regeneration, mana regeneration, bonus attack damage, and armor to allies in a radius."
+"DOTA_Tooltip_Ability_item_deaths_mask_bonus_regen"					"+$hp_regen"
+"DOTA_Tooltip_Ability_item_deaths_mask_bonus_stats"					"+$all"
+"DOTA_Tooltip_Ability_item_deaths_mask_radius"						"AURA RADIUS:"
+"DOTA_Tooltip_Ability_item_deaths_mask_lifesteal"					"%AURA LIFESTEAL:"
+"DOTA_Tooltip_Ability_item_deaths_mask_damage_percent"				"%AURA DAMAGE:"
+"DOTA_Tooltip_Ability_item_deaths_mask_bonus_armor"					"AURA ARMOR:"
+
+"DOTA_Tooltip_modifier_deaths_mask_aura"							"Reaper aura"
+"DOTA_Tooltip_modifier_deaths_mask_aura_Description"				"Reaper aura provides lifesteal, damage and armor."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\deaths_mask.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\death_shield.txt' begin 
+"DOTA_Tooltip_Ability_item_death_shield"						"Death Shield"
+"DOTA_Tooltip_Ability_item_death_shield_Description"			"<h1>Passive: Damage block</h1> Blocks 100 physical damage per source of damage."
+"DOTA_Tooltip_Ability_item_death_shield_bonus_hpregen"			"+$hp_regen"
+"DOTA_Tooltip_Ability_item_death_shield_bonus_health"			"+$health"	
+"DOTA_Tooltip_Ability_item_death_shield_bonus_armor"			"+$armor"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\death_shield.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\devour_helm.txt' begin 
+"DOTA_Tooltip_modifier_devour_helm_active"								"Hidden"
+"DOTA_Tooltip_modifier_devour_helm_dominated"							"Dominated"
+"DOTA_Tooltip_modifier_devour_helm_aura"								"Devour Helm Aura"
+"DOTA_Tooltip_ability_item_devour_helm"									"Devour Helm"
+"DOTA_Tooltip_ability_item_devour_helm_Description"						"<h1>Active: Hide</h1> Take ally unit to self. Unit can release by any move. Second activation will release unit.\n\n<h1>Active: Dominate</h1> Dominate selected neutral/enemy creep\n"
+"DOTA_Tooltip_ability_item_devour_helm_bonus_stats"						"+$all"
+"DOTA_Tooltip_ability_item_devour_helm_bonus_attack_speed"				"+$attack"
+"DOTA_Tooltip_ability_item_devour_helm_damage"							"+$damage"
+"DOTA_Tooltip_ability_item_devour_helm_attack_speed_aura"				"ATTACK SPEED AURA:"
+"DOTA_Tooltip_ability_item_devour_helm_hp_regen_aura"					"HP REGEN AURA:"
+"DOTA_Tooltip_ability_item_devour_helm_aura_radius"						"AURA RADIUS:"
+"DOTA_Tooltip_ability_item_devour_helm_speed_base"						"BASE MOVESPEED:"
+"DOTA_Tooltip_ability_item_devour_helm_health_min"						"MIN HEALTH:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\devour_helm.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\dimensional_predictor.txt' begin 
+"DOTA_Tooltip_ability_item_dimensional_predictor"								"Dimensional Predictor"
+"DOTA_Tooltip_ability_item_dimensional_predictor_Description"					"<h1>Active: Transparent</h1> Hides caster from minimap for %active_duration% seconds\n<h1>Passive: Dimensional Charge</h1> After some time, casters next attack will deal additional magical damage from main attribute."
+"DOTA_Tooltip_ability_item_dimensional_predictor_bonus_strength"				"+$str"
+"DOTA_Tooltip_ability_item_dimensional_predictor_bonus_attackspeed"				"+$attack"
+"DOTA_Tooltip_ability_item_dimensional_predictor_bonus_damage"					"+$damage"
+"DOTA_Tooltip_ability_item_dimensional_predictor_bonus_magresist"				"%+$spell_resist"
+"DOTA_Tooltip_ability_item_dimensional_predictor_passive_cd"					"Charge cooldown:"
+"DOTA_Tooltip_ability_item_dimensional_predictor_passive_damage_att"			"%Charge Damage(Main Att):"
+"DOTA_Tooltip_ability_item_dimensional_predictor_active_duration"				"Active Duration:"
+
+"DOTA_Tooltip_modifier_dimensional_predictor_charged_dummy"						"Weapon is charged" 
+"DOTA_Tooltip_modifier_dimensional_predictor_charged_dummy_cd"					"Weapon is charging" 
+"DOTA_Tooltip_modifier_dimensional_predictor_active"							"Hided from minimap" 
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\dimensional_predictor.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\double_crit.txt' begin 
+"DOTA_Tooltip_Ability_item_double_crit"								"Icarus & Daedalus"
+"DOTA_Tooltip_Ability_item_double_crit_description"					"<h1>Passive: Critical Strike</h1> Grants each attack a chance to deal additional damage."
+"DOTA_Tooltip_Ability_item_double_crit_crit_chance"					"%CHANCE:"
+"DOTA_Tooltip_Ability_item_double_crit_crit_bonus"					"%CRITICAL:"
+"DOTA_Tooltip_Ability_item_double_crit_bonus_damage"				"+$damage"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\double_crit.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\double_diff.txt' begin 
+"DOTA_Tooltip_Ability_item_double_diff"								"Sacred Blades"
+"DOTA_Tooltip_Ability_item_double_diff_Description"					"<h1>Active: Purge</h1> If cast on an enemy, removes buffs from the target and slows it for 4.0 seconds. If cast on an ally, purges most debuffs.\n<h1>Passive: Greater Mana Burn</h1> Each attack burns mana of the target, and deals a percentage of the burned mana as physical damage."
+"DOTA_Tooltip_Ability_item_double_diff_bonus_agi"					"+$agi"
+"DOTA_Tooltip_Ability_item_double_diff_bonus_int"					"+$int"
+"DOTA_Tooltip_Ability_item_double_diff_mana_burn"					"MANA BURN:"
+"DOTA_Tooltip_ability_item_double_diff_burn_pct"					"%MANA BURN:"
+"DOTA_Tooltip_Ability_item_double_diff_burn_to_damage"				"%BURNED MANA TO DAMAGE:"
+"DOTA_Tooltip_Ability_item_double_diff_purge_slow_duration"			"SLOW DURATION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\double_diff.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\echo_sabre.txt' begin 
+"DOTA_Tooltip_Ability_item_echo_sabre_2"								"Echo Sabre 2"
+"DOTA_Tooltip_modifier_echo_sabre_2_debuff"								"Echo Sabre Slow"
+"DOTA_Tooltip_modifier_echo_sabre_2_debuff_Description"					"Movement and attack speed reduced by 100%%"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_Description"			        "Passive: Causes melee attacks to attack twice in quick succession. The double attacks apply a %slow_duration% second %movement_slow%%% movement and attack speed slow on each strike."
+"DOTA_Tooltip_Ability_item_echo_sabre_2_bonus_intellect"              	"+$int"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_bonus_strength"               	"+$str"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_bonus_attack_speed"           	"+$attack"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_bonus_damage"                 	"+$damage"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_bonus_mana_regen"             	"+$mana_regen"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_movement_slow"                	"%MOVEMENT SLOW:"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_attack_speed_slow"           	 "ATTACK SLOW:"
+"DOTA_Tooltip_Ability_item_echo_sabre_2_slow_duration"                	"SLOW DURATION:"
+
+"DOTA_Tooltip_Ability_item_echo_sabre_3"								"Echo Sabre 3"
+"DOTA_Tooltip_modifier_echo_sabre_3_debuff"								"Echo Sabre Slow"
+"DOTA_Tooltip_modifier_echo_sabre_3_debuff_Description"					"Movement and attack speed reduced by 100%%"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_Description"			        "Passive: Causes melee attacks to attack twice in quick succession. The double attacks apply a %slow_duration% second %movement_slow%%% movement and attack speed slow on each strike."
+"DOTA_Tooltip_Ability_item_echo_sabre_3_bonus_intellect"              	"+$int"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_bonus_strength"               	"+$str"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_bonus_attack_speed"           	"+$attack"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_bonus_damage"                 	"+$damage"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_bonus_mana_regen"             	"+$mana_regen"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_movement_slow"                	"%MOVEMENT SLOW:"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_attack_speed_slow"            	"ATTACK SLOW:"
+"DOTA_Tooltip_Ability_item_echo_sabre_3_slow_duration"                	"SLOW DURATION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\echo_sabre.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\eclipse_amphora.txt' begin 
+"DOTA_Tooltip_Ability_item_eclipse_amphora_dummy"					"Eclipse Amphora"
+"DOTA_Tooltip_Ability_item_eclipse_amphora_dummy_Description"		"<h1>Active: Mass Sleep</h1> Induce a deep sleep to all enemies withing range. Dealing damage to a sleeping unit awakens it.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_eclipse_amphora_dummy_radius"			"RADIUS:"
+"DOTA_Tooltip_Ability_item_eclipse_amphora_dummy_duration"			"DURATION"
+"DOTA_Tooltip_Ability_item_eclipse_amphora"							"Eclipse Amphora"
+"DOTA_Tooltip_Ability_item_eclipse_amphora_Description"				"<h1>Active: Mass Sleep</h1> Induce a deep sleep to all enemies withing range. Dealing damage to a sleeping unit awakens it.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_eclipse_amphora_radius"					"RADIUS:"
+"DOTA_Tooltip_Ability_item_eclipse_amphora_duration"				"DURATION"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\eclipse_amphora.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\edible_gem.txt' begin 
+"DOTA_Tooltip_ability_item_edible_gem"                	"Edible Gem of True Sight"
+"DOTA_Tooltip_ability_item_edible_gem_Description"    	"On activation, gives the user true sight until death."
+
+"DOTA_Tooltip_modifier_modifier_edible_gem_aura"		"True Sight"
+"Dota_tooltip_modifier_edible_gem_aura"		        	"Edible Gem"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\edible_gem.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\fury_shield.txt' begin 
+"DOTA_Tooltip_ability_item_fury_shield"									"Fury Shield"
+"DOTA_Tooltip_ability_item_fury_shield_Description"						"<h1>Active: Protection</h1> Caster get %active_bonus_aspeed% bonus attack speed and %block_damage% block physical damage for %shield_duration% seconds"
+"DOTA_Tooltip_ability_item_fury_shield_bonus_stats"						"+$all"
+"DOTA_Tooltip_ability_item_fury_shield_active_bonus_aspeed"				"ATTACK SPEED:"
+"DOTA_Tooltip_ability_item_fury_shield_shield_duration"					"DURATION:"
+"DOTA_Tooltip_ability_item_fury_shield_block_damage"					"PHYS. BLOCK:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\fury_shield.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\heart_of_tarrasque.txt' begin 
+"DOTA_Tooltip_Ability_item_heart_2"								"Heart of Tarrasque"
+"DOTA_Tooltip_ability_item_heart_2_Description"					"<h1>Passive: Health Regeneration</h1> Restores a percentage of max health per second. If damage is taken from an enemy hero or Roshan, this ability is disabled for %cooldown_melee% seconds for melee heroes, or %cooldown_ranged_tooltip% seconds for ranged heroes."
+"DOTA_Tooltip_ability_item_heart_2_Lore"						"Preserved heart of an extinct monster, it bolsters the bearer's fortitude."
+"DOTA_Tooltip_ability_item_heart_2_bonus_strength"				"+$str"
+"DOTA_Tooltip_ability_item_heart_2_bonus_health"				"+$health"
+"DOTA_Tooltip_ability_item_heart_2_health_regen_rate"			"%HEALTH RESTORED PER SECOND:"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\heart_of_tarrasque.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\heavens_halberd.txt' begin 
+"DOTA_Tooltip_Ability_item_heavens_halberd_2"							"Heaven's Halberd"
+"DOTA_Tooltip_ability_item_heavens_halberd_2_Description"				"<h1>Active: Disarm</h1> Prevents a target from attacking. Lasts %disarm_melee% seconds on melee targets, and %disarm_range% seconds on ranged targets.\n<h1>Passive: Lesser Maim</h1> Each attack has a chance to slow the enemy's movement and attack speed for %maim_duration% seconds.\n\nStacks diminishingly with other sources of Evasion."
+"DOTA_Tooltip_ability_item_heavens_halberd_2_Lore"						"This halberd moves with the speed of a smaller weapon, allowing the bearer to win duels that a heavy edge would not."
+"DOTA_Tooltip_ability_item_heavens_halberd_Note0"						"Disarm can only be removed with spell immunity."
+"DOTA_Tooltip_ability_item_heavens_halberd_2_bonus_evasion"				"%+$evasion"
+"DOTA_Tooltip_ability_item_heavens_halberd_2_maim_chance"				"%MAIM CHANCE:"
+"DOTA_Tooltip_ability_item_heavens_halberd_2_maim_movement_speed"		"%MAIM MOVEMENT SLOW:"
+"DOTA_Tooltip_ability_item_heavens_halberd_2_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_heavens_halberd_2_bonus_strength"			"+$str"
+"DOTA_Tooltip_ability_item_heavens_halberd_maim_attack_speed"			"MAIM ATTACK SLOW:"
+"DOTA_Tooltip_ability_item_heavens_halberd_maim_duration"				"MAIM DURATION:"
+"DOTA_Tooltip_ability_item_heavens_halberd_disarm_range"				"DISARM RANGED DURATION:"
+"DOTA_Tooltip_ability_item_heavens_halberd_disarm_melee"				"DISARM MELEE DURATION:"
+"DOTA_Tooltip_ability_item_heavens_halberd_disarm_cast_range_tooltip"	"DISARM CAST RANGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\heavens_halberd.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\holy_book.txt' begin 
+"DOTA_Tooltip_Ability_item_holy_book"								"Holy Book"
+"DOTA_Tooltip_Ability_item_holy_book_Description"					"Passive: Lesser Split-Shot - Deals a percentage of your attack damage in an area around the enemy unit. Deal 1/4 damage for illusion. Every next holy book deals 2.5 times less damage."
+"DOTA_Tooltip_Ability_item_holy_book_bonus_int"						"+$int"
+"DOTA_Tooltip_Ability_item_holy_book_radius"						"RADIUS:"
+"DOTA_Tooltip_Ability_item_holy_book_damage_percent"				"%DAMAGE:"
+
+"DOTA_Tooltip_Ability_item_holy_book_2"								"Holy Book"
+"DOTA_Tooltip_Ability_item_holy_book_2_Description"					"Passive: Greater Split-Shot - Deals a percentage of your attack damage in an area around the enemy unit. Deal 1/4 damage for illusion. Every next holy book deal 2.5 times less damage."
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_int"					"+$int"
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_armor"					"+$armor"
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_attackspeed"			"+$attack"	
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_attack"				"+$damage"	
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_manaregen"				"+$mana_regen"
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_int"					"+$int"
+"DOTA_Tooltip_Ability_item_holy_book_2_radius"						"RADIUS:"
+"DOTA_Tooltip_Ability_item_holy_book_2_damage_percent"				"%DAMAGE:"
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_speed"					"+$move_speed"
+"DOTA_Tooltip_Ability_item_holy_book_2_bonus_agility"				"+$agi"
+
+"DOTA_Tooltip_Ability_item_burning_book"							"Burning Book"
+"DOTA_Tooltip_Ability_item_burning_book_Description"				"Passive: Split-Shot - Deals a percentage of attack damage in an area around the enemy unit. Deal 1/4 damage for illusion. Every further book deal 2.5 times less damage."
+"DOTA_Tooltip_Ability_item_burning_book_bonus_int"					"+$int"
+"DOTA_Tooltip_Ability_item_burning_book_bonus_armor"				"+$armor"
+"DOTA_Tooltip_Ability_item_burning_book_bonus_attackspeed"			"+$attack"	
+"DOTA_Tooltip_Ability_item_burning_book_bonus_attack"				"+$damage"	
+"DOTA_Tooltip_Ability_item_burning_book_bonus_manaregen"			"%+$mana_regen"
+"DOTA_Tooltip_Ability_item_burning_book_bonus_int"					"+$int"
+"DOTA_Tooltip_Ability_item_burning_book_radius"						"RADIUS:"
+"DOTA_Tooltip_Ability_item_burning_book_damage_percent"				"%DAMAGE:"
+"DOTA_Tooltip_Ability_item_burning_book_bonus_speed"				"%+$move_speed"
+"DOTA_Tooltip_Ability_item_burning_book_bonus_agility"				"+$agi"
+"DOTA_Tooltip_Ability_item_burning_book_bonus_str"					"+$str"
+"DOTA_Tooltip_Ability_item_burning_book_disarmor"					"DISARMOR:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\holy_book.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\hood_of_rage.txt' begin 
+"DOTA_Tooltip_modifier_hood_of_rage_active"						"Magic Resist"
+
+"DOTA_Tooltip_Ability_item_hood_of_rage"						"Hood Of Rage"
+"DOTA_Tooltip_Ability_item_hood_of_rage_Description"			"<h1>Active: Magic Resist</h1> Provides 80 percent magic damage resistance for 4 seconds."
+"DOTA_Tooltip_Ability_item_hood_of_rage_bonus_hpregen"			"+$hp_regen"
+"DOTA_Tooltip_Ability_item_hood_of_rage_magic_resist"			"%+$spell_resist"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\hood_of_rage.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\icarus.txt' begin 
+"DOTA_Tooltip_Ability_item_icarus"									"Icarus"
+"DOTA_Tooltip_Ability_item_icarus_description"						"<h1>Passive: Critical Strike</h1> Grants each attack a chance to deal additional damage.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_icarus_crit_chance"						"%CHANCE:"
+"DOTA_Tooltip_Ability_item_icarus_crit_bonus"						"%CRITICAL:"
+"DOTA_Tooltip_Ability_item_icarus_bonus_damage"						"+$damage"
+"DOTA_Tooltip_Ability_item_icarus_dummy"							"Icarus"
+"DOTA_Tooltip_Ability_item_icarus_dummy_description"				"<h1>Passive: Critical Strike</h1> Grants each attack a chance to deal additional damage.\n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_icarus_dummy_crit_chance"				"%CHANCE:"
+"DOTA_Tooltip_Ability_item_icarus_dummy_crit_bonus"					"%CRITICAL:"
+"DOTA_Tooltip_Ability_item_icarus_dummy_bonus_damage"				"+$damage"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\icarus.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\kings_bar.txt' begin 
+"DOTA_Tooltip_Ability_item_kings_bar"							"Kings Bar"
+"DOTA_Tooltip_Ability_item_kings_bar_Description"				"<h1>Active: Spell Immune</h1> Grants spell immunity for 8 seconds.\n<h1>Passive: True Strike</h1> Prevents your attacks from missing."
+"DOTA_Tooltip_Ability_item_kings_bar_bonus_damage"				"+$damage"
+"DOTA_Tooltip_Ability_item_kings_bar_bonus_aspeed"				"+$attack"
+"DOTA_Tooltip_modifier_kings_bar_magic_immune_active"			"Magic Immune"	
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\kings_bar.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\life_catcher.txt' begin 
+"DOTA_Tooltip_ability_item_life_catcher"								"Life Catcher"
+"DOTA_Tooltip_ability_item_life_catcher_Description"					"<h1>Active: Life Stealing</h1>Caster steal some part of enemy life. Stealing deal damage %damage% damage + %mainstat_to_dmg%% damage from main attribute. Damage from main attribute will heal caster.\n<h1> Passive: Minder </h1>Caster get bonus experience for dealing damage to enemies. Melee hero grants doubled experience."
+"DOTA_Tooltip_ability_item_life_catcher_bonus_int"						"+$int"
+"DOTA_Tooltip_ability_item_life_catcher_bonus_str"						"+$str"
+"DOTA_Tooltip_ability_item_life_catcher_bonus_hpregen"					"+$hp_regen"
+"DOTA_Tooltip_ability_item_life_catcher_bonus_manaregen"				"+$mana_regen"
+"DOTA_Tooltip_ability_item_life_catcher_bonus_damage"					"+$damage:"
+"DOTA_Tooltip_ability_item_life_catcher_damage_to_exp"					"%DAMAGE TO EXP:"
+"DOTA_Tooltip_ability_item_life_catcher_min_exp"						"MIN EXP:"
+"DOTA_Tooltip_ability_item_life_catcher_max_exp"						"MAX EXP:"
+"DOTA_Tooltip_ability_item_life_catcher_exp_cooldown"					"EXP COOLDOWN:"
+"DOTA_Tooltip_ability_item_life_catcher_damage"							"LIFE STEALING DAMAGE:"
+"DOTA_Tooltip_ability_item_life_catcher_mainstat_to_dmg"				"%LIFE STEALING DAMAGE FROM MAIN ATT:"
+"DOTA_Tooltip_ability_item_life_catcher_projectile_speed"				"HEAL PROJECTILE SPEED:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\life_catcher.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\lightning_flash.txt' begin 
+"DOTA_Tooltip_ability_item_lightning_flash"							"Lightning Flash"
+"DOTA_Tooltip_ability_item_lightning_flash_Description"				"<h1>Active: Lightning Blink</h1> Teleport to a target point up to %blink_range% units away and deal damage to all nearby enemies.  If damage is taken, Lightning Dagger cannot be used for %damage_cooldown% seconds."
+"DOTA_Tooltip_ability_item_lightning_flash_bonus_damage"			"+$damage"
+"DOTA_Tooltip_ability_item_lightning_flash_bonus_armor"				"+$armor"
+"DOTA_Tooltip_ability_item_lightning_flash_bonus_all_stats"			"+$all"
+"DOTA_Tooltip_ability_item_lightning_flash_bonus_attack_speed"		"+$attack"
+"DOTA_Tooltip_ability_item_lightning_flash_blink_range"				"BLINK RANGE:"
+"DOTA_Tooltip_ability_item_lightning_flash_damage_pct"				"%DAMAGE AFTER BLINK:"
+"DOTA_Tooltip_ability_item_lightning_flash_damage_range"			"DAMAGE RADIUS:"
+"DOTA_Tooltip_ability_item_lightning_flash_bonus_movement_speed"	"+$move_speed"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\lightning_flash.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\linken.txt' begin 
+"DOTA_Tooltip_Ability_item_sphere_2"									"Linken's Sphere"
+"DOTA_Tooltip_ability_item_sphere_2_Lore"								"This magical sphere once protected one of the most famous heroes in history."
+"DOTA_Tooltip_ability_item_sphere_2_bonus_all_stats"					"+$all"
+"DOTA_Tooltip_ability_item_sphere_2_bonus_health_regen"					"+$hp_regen"
+"DOTA_Tooltip_ability_item_sphere_2_bonus_mana_regen"					"+$mana_regen"
+"DOTA_Tooltip_ability_item_sphere_2_Description"						"<h1>Passive: Spellblock</h1> Blocks most targeted spells once every %block_cooldown% seconds.\n<h1>Active: Transfer Spellblock</h1> Temporarily removes Spellblock from the item's owner and transfers it to an allied unit."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\linken.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\magician_ring.txt' begin 
+"DOTA_Tooltip_ability_item_magician_ring"								"Magician Ring"
+"DOTA_Tooltip_ability_item_magician_ring_Description"					"<h1>Passive: Inspiration</h1> Reduce ability cooldown time for killed enemy hero. Gives less bonus for death enemy hero in radius."
+"DOTA_Tooltip_ability_item_magician_ring_bonus_manaregen"				"+$mana_regen"
+"DOTA_Tooltip_ability_item_magician_ring_bonus_armor"					"+$armor"
+"DOTA_Tooltip_ability_item_magician_ring_bonus_hp_regen"				"+$hp_regen"
+"DOTA_Tooltip_ability_item_magician_ring_bonus_cast_range"				"+$cast_range"
+"DOTA_Tooltip_ability_item_magician_ring_aura_radius"					"RADIUS:"
+"DOTA_Tooltip_ability_item_magician_ring_cooldown_reduce"				"%COOLDOWN REDUCION PER STACK:"
+"DOTA_Tooltip_ability_item_magician_ring_stack_per_kill"				"STACK FOR KILL:"
+"DOTA_Tooltip_ability_item_magician_ring_stack_per_assist"				"STACK FOR DEATH IN RADIUS:"
+"DOTA_Tooltip_ability_item_magician_ring_max_stacks"					"MAX STACKS:"
+"DOTA_Tooltip_ability_item_magician_ring_tooltip_max_cd"				"%MAX COOLDOWN REDUCION:"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\magician_ring.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\manta_style.txt' begin 
+"DOTA_Tooltip_Ability_item_manta_2"									"Manta Style"
+"DOTA_Tooltip_ability_item_manta_2_Description"						"<h1>Active: Mirror Image</h1> Creates %images_count% images of your hero that last %tooltip_illusion_duration% seconds. Melee heroes have a %cooldown_melee% second cooldown on this ability, while for Ranged heroes the cooldown is %cooldown_ranged_tooltip% seconds.\n\nMelee images deal %tooltip_damage_outgoing_melee%%% damage and take %tooltip_damage_incoming_melee_total_pct%%% damage, while Ranged images deal %tooltip_damage_outgoing_ranged%%% and take %tooltip_damage_incoming_ranged_total_pct%%% damage.\n\nYasha-based movement speed bonuses from multiple items do not stack."
+"DOTA_Tooltip_ability_item_manta_2_bonus_agility"					"+$agi"
+"DOTA_Tooltip_ability_item_manta_2_bonus_strength"					"+$str"
+"DOTA_Tooltip_ability_item_manta_2_bonus_intellect"					"+$int"
+"DOTA_Tooltip_ability_item_manta_2_bonus_attack_speed"				"+$attack"
+"DOTA_Tooltip_ability_item_manta_2_bonus_movement_speed"			"%+$move_speed"
+
+"DOTA_Tooltip_Ability_item_manta_3"									"Manta Style"
+"DOTA_Tooltip_ability_item_manta_3_Description"						"<h1>Active: Mirror Image</h1> Creates %images_count% images of your hero that last %tooltip_illusion_duration% seconds. Melee heroes have a %cooldown_melee% second cooldown on this ability, while for Ranged heroes the cooldown is %cooldown_ranged_tooltip% seconds.\n\nMelee images deal %tooltip_damage_outgoing_melee%%% damage and take %tooltip_damage_incoming_melee_total_pct%%% damage, while Ranged images deal %tooltip_damage_outgoing_ranged%%% and take %tooltip_damage_incoming_ranged_total_pct%%% damage.\n\nYasha-based movement speed bonuses from multiple items do not stack."
+"DOTA_Tooltip_ability_item_manta_3_bonus_agility"					"+$agi"
+"DOTA_Tooltip_ability_item_manta_3_bonus_strength"					"+$str"
+"DOTA_Tooltip_ability_item_manta_3_bonus_intellect"					"+$int"
+"DOTA_Tooltip_ability_item_manta_3_bonus_attack_speed"				"+$attack"
+"DOTA_Tooltip_ability_item_manta_3_bonus_movement_speed"			"%+$move_speed"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\manta_style.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\mjollnir.txt' begin 
+"DOTA_Tooltip_Ability_item_mjollnir_2"							"Mjollnir"
+"DOTA_Tooltip_modifier_item_mjollnir_2_static"					"Mjollnir Static Charge"
+"DOTA_Tooltip_modifier_item_mjollnir_2_static_Description"		"When attacked, there is a 20%% chance that a bolt of lightning will strike the attacker and 4 other nearby enemies."
+"DOTA_Tooltip_ability_item_mjollnir_2_Description"				"<h1>Active: Static Charge</h1> Places a charged shield on a target unit which has a %static_chance%%% chance to release a shocking bolt at a nearby attacker and %static_strikes% additional enemies.\n<h1>Passive: Chain Lightning</h1> Grants a chance on attack to release a bolt of electricity that leaps between %chain_strikes% targets, dealing %chain_damage% magical damage to each.\n\nMjollnir is a Unique Attack Modifier that stacks with other Unique Attack Modifiers, but overrides them when Chain Lightning occurs."
+"DOTA_Tooltip_ability_item_mjollnir_2_Lore"						"Thor's magical hammer, made for him by the dwarves Brok and Eitri."
+"DOTA_Tooltip_ability_item_mjollnir_2_chain_chance"				"%CHAIN CHANCE:"
+"DOTA_Tooltip_ability_item_mjollnir_2_chain_damage"				"CHAIN DAMAGE:"
+"DOTA_Tooltip_ability_item_mjollnir_2_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_mjollnir_2_bonus_attack_speed"		"+$attack"
+
+
+"DOTA_Tooltip_ability_item_mjollnir_2_static_chance"			"%STATIC CHANCE:"
+"DOTA_Tooltip_ability_item_mjollnir_2_static_duration"			"STATIC DURATION:"
+"DOTA_Tooltip_ability_item_mjollnir_2_static_damage"			"STATIC DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\mjollnir.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\mystic_amulet.txt' begin 
+"DOTA_Tooltip_Ability_item_mystic_amulet"						"Mystic Amulet"
+"DOTA_Tooltip_Ability_item_mystic_amulet_Description"			"<h1>Active: Mystic Release</h1> Deal damage to every nearby enemy. Damage depends on the current health.\n<h1>Passive: Rune Collector</h1> Grants one charge for every activated rune.\n<h1>Passive: Mystic Collector</h1> Increase armor and intellect for every charge."
+"DOTA_Tooltip_Ability_item_mystic_amulet_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_mystic_amulet_bonus_int"				"+$int"
+"DOTA_Tooltip_Ability_item_mystic_amulet_damage_const"			"DAMAGE:"
+"DOTA_Tooltip_Ability_item_mystic_amulet_dmg_per_charge"		"%DAMAGE PER CHARGE:"
+"DOTA_Tooltip_Ability_item_mystic_amulet_radius"				"RADIUS:"
+"DOTA_Tooltip_Ability_item_mystic_amulet_armor_per_charge"		"ARMOR PER CHARGE:"
+"DOTA_Tooltip_Ability_item_mystic_amulet_int_per_charge"		"INT PER CHARGE:"
+"DOTA_Tooltip_Ability_item_mystic_amulet_max_health"			"%MAX DMG FROM HP:"
+"DOTA_Tooltip_Ability_item_mystic_amulet_lost_death_tooltip"	"%LOST CHARGE ON DEATH:"
+"DOTA_Tooltip_modifier_mystic_amulet_bonus"						"Mystic Collector"
+"DOTA_Tooltip_modifier_mystic_amulet_bonus_Description"			"Increase armor and intellect for every stack."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\mystic_amulet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\octarine_core.txt' begin 
+"DOTA_Tooltip_Ability_item_octarine_core_2"						"Octarine Core"
+"DOTA_Tooltip_ability_item_octarine_core_2_Lore"				"At the core of spellcraft are spectrums only the very gifted can sense."
+"DOTA_Tooltip_ability_item_octarine_core_2_creep_lifesteal"		"%CREEP SPELL LIFESTEAL:"
+"DOTA_Tooltip_ability_item_octarine_core_2_hero_lifesteal"		"%HERO SPELL LIFESTEAL:"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_cooldown"		"%COOLDOWN REDUCTION:"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_mana_regen"	"%+$mana_regen"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_health_regen"	"+$hp_regen"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_mana"			"+$mana"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_health"		"+$health"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_intelligence"	"+$int"
+"DOTA_Tooltip_ability_item_octarine_core_2_Description"			"Use: Plants an Observer Ward, an invisible watcher that gives vision of its surrounding area to your team. Lasts 12 minutes.\n\n<h1>Passive: Cooldown Reduction</h1> Reduces the cooldown time of all spells and items by %bonus_cooldown%%%.\n<h1>Passive: Spell Lifesteal</h1> A percentage of damage caused by spells is returned to the caster as health.\n<h1>Passive: Ultimate Upgrade</h1> Upgrades the ultimate, and some abilities, of certain heroes."
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_str"			"+$str"
+"DOTA_Tooltip_ability_item_octarine_core_2_bonus_agi"			"+$agi"
+"DOTA_Tooltip_Ability_item_octarine_core_2_duration_tooltip"	"DURATION(MIN):"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\octarine_core.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\pet_hulk.txt' begin 
+"DOTA_Tooltip_ability_item_pet_hulk"							"Summon Hulk"
+"DOTA_Tooltip_ability_item_pet_hulk_Description"				"Summon pet Hulk to caster. Only one pet can be summoned."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\pet_hulk.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\pet_mage.txt' begin 
+"DOTA_Tooltip_ability_item_pet_mage"							"Summon Mage"
+"DOTA_Tooltip_ability_item_pet_mage_Description"				"Summon pet Mage to caster. Only one pet can be summoned."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\pet_mage.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\pet_wolf.txt' begin 
+"DOTA_Tooltip_ability_item_pet_wolf"							"Summon Wolf"
+"DOTA_Tooltip_ability_item_pet_wolf_Description"				"Summon pet Wolf to caster. Only one pet can be summoned."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\pet_wolf.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\phase_boots.txt' begin 
+"DOTA_Tooltip_Ability_item_phase_boots_2"							"Phase Boots"
+"DOTA_Tooltip_modifier_item_phase_boots_2_active"					"Phase Boots"
+"DOTA_Tooltip_modifier_item_phase_boots_2_active_Description"		"Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and allows you to move through units"
+"DOTA_Tooltip_ability_item_phase_boots_2_Description"				"<h1>Active: Phase</h1> Increases your movement speed and lets you move through units.  The increased movement speed is based on whether the equipped hero is melee or ranged.\n\nFlat movement speed bonuses from multiple pairs of boots do not stack."
+"DOTA_Tooltip_ability_item_phase_boots_2_Lore"						"Boots that allow the wearer to travel between the ether."
+"DOTA_Tooltip_ability_item_phase_boots_2_phase_movement_speed"		"%PHASE MOVE BOOST MELEE:"
+"DOTA_Tooltip_ability_item_phase_boots_2_phase_duration"			"PHASE DURATION:"
+"DOTA_Tooltip_ability_item_phase_boots_2_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_phase_boots_2_bonus_movement_speed"		"%+$move_speed"
+"DOTA_Tooltip_ability_item_phase_boots_2_phase_movement_speed_range"	"%PHASE MOVE BOOST RANGED:"
+
+"DOTA_Tooltip_Ability_item_phase_boots_3"							"Phase Boots"
+"DOTA_Tooltip_modifier_item_phase_boots_3_active"					"Phase Boots"
+"DOTA_Tooltip_modifier_item_phase_boots_3_active_Description"		"Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and allows you to move through units"
+"DOTA_Tooltip_ability_item_phase_boots_3_Description"				"<h1>Active: Phase</h1> Increases your movement speed and lets you move through units.  The increased movement speed is based on whether the equipped hero is melee or ranged.\n\nFlat movement speed bonuses from multiple pairs of boots do not stack."
+"DOTA_Tooltip_ability_item_phase_boots_3_Lore"						"Boots that allow the wearer to travel between the ether."
+"DOTA_Tooltip_ability_item_phase_boots_3_phase_movement_speed"		"%PHASE MOVE BOOST MELEE:"
+"DOTA_Tooltip_ability_item_phase_boots_3_phase_duration"			"PHASE DURATION:"
+"DOTA_Tooltip_ability_item_phase_boots_3_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_phase_boots_3_bonus_movement_speed"		"%+$move_speed"
+"DOTA_Tooltip_ability_item_phase_boots_3_phase_movement_speed_range"	"%PHASE MOVE BOOST RANGED:"
+
+"DOTA_Tooltip_Ability_item_reverse"									"Reverse"
+"DOTA_Tooltip_Ability_item_reverse_Description"						"<h1>Active: Phase</h1> Increases your movement speed and lets you move through units.  The increased movement speed is based on whether the equipped hero is melee or ranged. Also incrase maximal movespeed for effect duration. \n\nFlat movement speed bonuses from multiple pairs of boots do not stack."
+"DOTA_Tooltip_Ability_item_reverse_Lore"							"Boots that allow the wearer to travel between the ether."
+"DOTA_Tooltip_Ability_item_reverse_phase_movement_speed"			"%PHASE MOVE BOOST MELEE:"
+"DOTA_Tooltip_Ability_item_reverse_phase_bonus_damage"				"+$damage"
+"DOTA_Tooltip_Ability_item_reverse_phase_movement_speed_range"		"%PHASE MOVE BOOST RANGED:"
+"DOTA_Tooltip_Ability_item_reverse_phase_duration"					"PHASE DURATION:"
+"DOTA_Tooltip_Ability_item_reverse_bonus_movement_speed"			"%+$move_speed"
+"DOTA_Tooltip_Ability_item_reverse_speed_limit_tooltip"				"MAX SPEED:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\phase_boots.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\plague_staff.txt' begin 
+"DOTA_Tooltip_ability_item_plague_staff"								"Plague Staff"
+	"DOTA_Tooltip_ability_item_plague_staff_Description"					"Allows caster deal magical crits with some chance"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_int"						"+$int"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_agi"						"+$agi"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_str"						"+$str"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_armor"					"+$armor"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_damage"					"+$damage"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_hpregen"					"+$hp_regen"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_mana"						"+$mana"
+	"DOTA_Tooltip_ability_item_plague_staff_bonus_spellamp"					"%SPELL AMPLIY:"
+	"DOTA_Tooltip_ability_item_plague_staff_chance"							"%MAGICAL CRIT CHANCE:"
+	"DOTA_Tooltip_ability_item_plague_staff_magical_crit"					"%MAGICAL CRIT:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\plague_staff.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\polar_spear.txt' begin 
+"DOTA_Tooltip_ability_item_polar_spear"									"Polar Spear"
+"DOTA_Tooltip_ability_item_polar_spear_Description"						"<h1>Active: Pull</h1> Pulls the target"
+"DOTA_Tooltip_ability_item_polar_spear_Note0"							"Pull radius: 700, Pull speed: 40"
+"DOTA_Tooltip_ability_item_polar_spear_bonus_mana"						"+$mana"
+"DOTA_Tooltip_ability_item_polar_spear_bonus_hp"						"+$health"
+"DOTA_Tooltip_ability_item_polar_spear_bonus_int"						"+$int"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\polar_spear.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\possessed_sword.txt' begin 
+"DOTA_Tooltip_Ability_item_possessed_sword_dummy"					"Possessed Sword"
+"DOTA_Tooltip_Ability_item_possessed_sword_dummy_Description"		"<h1>Passive: True Strike</h1> Prevents your attacks from missing.\n Passive: Micro-Bash - Allows you to bash the enemy for a short duration. \nNobody knows why it's called a sword. \n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_possessed_sword_dummy_bonus_damage"		"+$damage"
+"DOTA_Tooltip_Ability_item_possessed_sword_dummy_bonus_aspeed"		"+$attack"
+"DOTA_Tooltip_Ability_item_possessed_sword_dummy_bash_chance"		"%BASH CHANCE:"
+"DOTA_Tooltip_Ability_item_possessed_sword_dummy_bash_time"			"BASH TIME:"
+"DOTA_Tooltip_Ability_item_possessed_sword"							"Possessed Sword"
+"DOTA_Tooltip_Ability_item_possessed_sword_Description"				"<h1>Passive: True Strike</h1> Prevents your attacks from missing.\n Passive: Micro-Bash - Allows you to bash the enemy for a short duration. \nNobody knows why it's called a sword. \n(NOT PURCHASABLE)\n(DROPS FROM BOSSES)"
+"DOTA_Tooltip_Ability_item_possessed_sword_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_possessed_sword_bonus_aspeed"			"+$attack"
+"DOTA_Tooltip_Ability_item_possessed_sword_bash_chance"				"%BASH CHANCE:"
+"DOTA_Tooltip_Ability_item_possessed_sword_bash_time"				"BASH TIME:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\possessed_sword.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\potion_immune.txt' begin 
+"DOTA_Tooltip_Ability_item_potion_immune"							"Spell Immunity Potion"
+"DOTA_Tooltip_Ability_item_potion_immune_Description"				"<h1>Active: Spell Immunity</h1> Cannot be targeted or damaged by magic."
+"DOTA_Tooltip_Ability_item_potion_immune_duration"					"DURATION:"
+
+"DOTA_Tooltip_modifier_potion_spell_immune"							"Spell Immune"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\potion_immune.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\power_amulet.txt' begin 
+"DOTA_Tooltip_Ability_item_power_amulet"						"Power Amulet"
+"DOTA_Tooltip_Ability_item_power_amulet_Description"			"<h1>Active: Amulet Blast</h1> Stun every enemy within the radius and deal damage. Also heal caster for some health.\n<h1>Passive: Rune Collector</h1> Grants one charge for every activated rune.\n<h1>Passive: Damage Collector</h1> Decrease the attacked enemy's armor for every charge and increase damage for caster."
+"DOTA_Tooltip_Ability_item_power_amulet_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_power_amulet_bonus_stat"				"+$all"
+"DOTA_Tooltip_Ability_item_power_amulet_damage_const"			"DAMAGE:"
+"DOTA_Tooltip_Ability_item_power_amulet_dmg_per_charge"			"DAMAGE PER CHARGE:"
+"DOTA_Tooltip_Ability_item_power_amulet_stun_per_charge"		"STUN PER CHARGE:"
+"DOTA_Tooltip_Ability_item_power_amulet_heal_const"				"HEAL:"
+"DOTA_Tooltip_Ability_item_power_amulet_heal_pct_per_charge"	"%HEAL PER CHARGE:"
+"DOTA_Tooltip_Ability_item_power_amulet_disarmor_per_charge"	"DISARMOR:"
+"DOTA_Tooltip_Ability_item_power_amulet_duration_disarmor"		"DISARMOR DURATION:"
+"DOTA_Tooltip_Ability_item_power_amulet_radius"					"RADIUS:"
+"DOTA_Tooltip_Ability_item_power_amulet_lost_death_tooltip"		"%LOST CHARGE ON DEATH:"
+"DOTA_Tooltip_modifier_power_amulet_disarmor"					"DISARMOR"
+"DOTA_Tooltip_modifier_power_amulet_damage"						"DAMAGE INCREASED"
+"DOTA_Tooltip_modifier_power_amulet_damage_Description"			"Increase damage for every stack"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\power_amulet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\power_treads.txt' begin 
+"DOTA_Tooltip_Ability_item_power_treads_2"							"Power Treads"
+"DOTA_Tooltip_ability_item_power_treads_2_Description"				"<h1>Active: Switch Attribute</h1> Changes selected attribute between Strength, Agility and Intelligence.\n\nPower Treads can be built using a Belt of Strength, Band of Elvenskin, or a Robe of the Magi.  Flat movement speed bonuses from multiple pairs of boots do not stack, nor does the attack speed bonus from multiple Power Treads."
+"DOTA_Tooltip_ability_item_power_treads_2_Lore"						"A pair of tough-skinned boots that change to meet the demands of the wearer."
+"DOTA_Tooltip_ability_item_power_treads_2_bonus_movement_speed"		"%+$move_speed"
+"DOTA_Tooltip_ability_item_power_treads_2_bonus_stat"				"+$selected_attrib"
+"DOTA_Tooltip_ability_item_power_treads_2_bonus_attack_speed"		"+$attack"
+
+"DOTA_Tooltip_Ability_item_power_treads_3"							"Power Treads"
+"DOTA_Tooltip_ability_item_power_treads_3_Description"				"<h1>Active: Switch Attribute</h1> Changes selected attribute between Strength, Agility and Intelligence.\n\nPower Treads can be built using a Belt of Strength, Band of Elvenskin, or a Robe of the Magi.  Flat movement speed bonuses from multiple pairs of boots do not stack, nor does the attack speed bonus from multiple Power Treads."
+"DOTA_Tooltip_ability_item_power_treads_3_Lore"						"A pair of tough-skinned boots that change to meet the demands of the wearer."
+"DOTA_Tooltip_ability_item_power_treads_3_bonus_movement_speed"		"%+$move_speed"
+"DOTA_Tooltip_ability_item_power_treads_3_bonus_stat"				"+$selected_attrib"
+"DOTA_Tooltip_ability_item_power_treads_3_bonus_attack_speed"		"+$attack"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\power_treads.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\private_courier.txt' begin 
+"DOTA_Tooltip_Ability_item_pr_cour"										"Advanced Courier"
+"DOTA_Tooltip_Ability_item_pr_cour_Description"							"The Advanced courier can only be controled by you, if you use the map."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\private_courier.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\radiance.txt' begin 
+"DOTA_Tooltip_Ability_item_radiance"							"Radiance"
+"DOTA_Tooltip_ability_item_radiance_Lore"						"A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+"DOTA_Tooltip_ability_item_radiance_aura_damage"				"BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_aura_damage_stats"			"BURN DAMAGE FROM STATS:"
+"DOTA_Tooltip_ability_item_radiance_Description"				"<h1>Active: Toggle Burn</h1> When active, scorches nearby enemies for %aura_damage% damage per second and blinds them, causing them to miss %blind_pct%%% of their attacks."
+"DOTA_Tooltip_ability_item_radiance_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_radiance_blind_pct"					"%BURN MISS CHANCE:"
+"DOTA_Tooltip_ability_item_radiance_aura_radius"				"BURN RADIUS:"
+"DOTA_Tooltip_modifier_radiance_debuff"							"Burn Damage"
+"DOTA_Tooltip_modifier_radiance_debuff_Description"				"Taking 50 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of all attacks."
+"DOTA_Tooltip_Ability_item_radiance_inactive"					"Radiance"
+"DOTA_Tooltip_ability_item_radiance_inactive_Lore"				"A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+"DOTA_Tooltip_ability_item_radiance_inactive_aura_damage"		"BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_inactive_aura_damage_pct"	"%BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_inactive_Description"		"<h1>Active: Toggle Burn</h1> When active, scorches nearby enemies for %aura_damage% damage per second and blinds them, causing them to miss %blind_pct%%% of their attacks."
+"DOTA_Tooltip_ability_item_radiance_inactive_bonus_damage"		"+$damage"
+"DOTA_Tooltip_ability_item_radiance_inactive_blind_pct"			"%BURN MISS CHANCE:"
+"DOTA_Tooltip_ability_item_radiance_inactive_aura_radius"		"BURN RADIUS:"
+
+"DOTA_Tooltip_Ability_item_radiance_2"							"Radiance"
+"DOTA_Tooltip_ability_item_radiance_2_Lore"						"A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+"DOTA_Tooltip_ability_item_radiance_2_aura_damage"				"BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_2_aura_damage_stats"		"BURN DAMAGE FROM STATS:"
+"DOTA_Tooltip_ability_item_radiance_2_Description"				"<h1>Active: Toggle Burn</h1> When active, scorches nearby enemies for %aura_damage% damage per second and blinds them, causing them to miss %blind_pct%%% of their attacks."
+"DOTA_Tooltip_ability_item_radiance_2_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_radiance_2_blind_pct"				"%BURN MISS CHANCE:"
+"DOTA_Tooltip_ability_item_radiance_2_aura_radius"				"BURN RADIUS:"
+"DOTA_Tooltip_modifier_radiance_2_debuff"						"Burn Damage"
+"DOTA_Tooltip_modifier_radiance_2_debuff_Description"			"Taking 110 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of all attacks."
+"DOTA_Tooltip_Ability_item_radiance_2_inactive"					"Radiance"
+"DOTA_Tooltip_ability_item_radiance_2_inactive_Lore"			"A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+"DOTA_Tooltip_ability_item_radiance_2_inactive_aura_damage"		"BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_2_inactive_aura_damage_pct"	"%BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_2_inactive_Description"		"<h1>Active: Toggle Burn</h1> When active, scorches nearby enemies for %aura_damage% damage per second and blinds them, causing them to miss %blind_pct%%% of their attacks."
+"DOTA_Tooltip_ability_item_radiance_2_inactive_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_radiance_2_inactive_blind_pct"		"%BURN MISS CHANCE:"
+"DOTA_Tooltip_ability_item_radiance_2_inactive_aura_radius"		"BURN RADIUS:"
+
+"DOTA_Tooltip_Ability_item_radiance_3"							"Radiance"
+"DOTA_Tooltip_ability_item_radiance_3_Lore"						"A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+"DOTA_Tooltip_ability_item_radiance_3_aura_damage"				"BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_3_aura_damage_stats"		"BURN DAMAGE FROM STATS:"
+"DOTA_Tooltip_ability_item_radiance_3_Description"				"<h1>Active: Toggle Burn</h1> When active, this blade scorches nearby enemies for %aura_damage% damage per second and blinds them, causing them to miss %blind_pct%%% of all of their attacks."
+"DOTA_Tooltip_ability_item_radiance_3_bonus_damage"				"+$damage"
+"DOTA_Tooltip_ability_item_radiance_3_blind_pct"				"%BURN MISS CHANCE:"
+"DOTA_Tooltip_ability_item_radiance_3_aura_radius"				"BURN RADIUS:"
+"DOTA_Tooltip_modifier_radiance_3_debuff"						"Burn Damage"
+"DOTA_Tooltip_modifier_radiance_3_debuff_Description"			"Taking 250 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of all attacks."
+"DOTA_Tooltip_Ability_item_radiance_3_inactive"					"Radiance"
+"DOTA_Tooltip_ability_item_radiance_3_inactive_Lore"			"A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+"DOTA_Tooltip_ability_item_radiance_3_inactive_aura_damage"		"BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_3_inactive_aura_damage_pct"	"%BURN DAMAGE PER SECOND:"
+"DOTA_Tooltip_ability_item_radiance_3_inactive_Description"		"<h1>Active: Toggle Burn</h1> When active, scorches nearby enemies for %aura_damage% damage per second and blinds them, causing them to miss %blind_pct%%% of their attacks."
+"DOTA_Tooltip_ability_item_radiance_3_inactive_bonus_damage"	"+$damage"
+"DOTA_Tooltip_ability_item_radiance_3_inactive_blind_pct"		"%BURN MISS CHANCE:"
+"DOTA_Tooltip_ability_item_radiance_3_inactive_aura_radius"		"BURN RADIUS:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\radiance.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\rebels_sword.txt' begin 
+"DOTA_Tooltip_Ability_item_rebels_sword"							"Rebels Sword"
+"DOTA_Tooltip_Ability_item_rebels_sword_Description"				"<h1>Passive: Corrosive Armor</h1> Reduces the enemy armor with every hit.\n\nWeapons of Burning Legion."
+"DOTA_Tooltip_Ability_item_rebels_sword_bonus_damage"				"+$damage"
+"DOTA_Tooltip_Ability_item_rebels_sword_bonus_armor"				"+$armor"
+"DOTA_Tooltip_Ability_item_rebels_sword_bonus_all_stats"			"+$all"
+"DOTA_Tooltip_Ability_item_rebels_sword_bonus_attack_speed"			"+$attack"
+"DOTA_Tooltip_Ability_item_rebels_sword_bonus_health"				"+$health"
+"DOTA_Tooltip_Ability_item_rebels_sword_disarmor"					"%DISARMOR PER HIT:"
+"DOTA_Tooltip_Ability_item_rebels_sword_disarmor_const"				"DISARMOR PER HIT:"
+"DOTA_Tooltip_Ability_item_rebels_sword_max_disarmor_pct"			"%MAX DISARMOR:"
+"DOTA_Tooltip_Ability_item_rebels_sword_duration"					"DISARMOR DURATION:"
+"DOTA_Tooltip_modifier_rebels_sword_disarmor" 						"Rebel Disarmor" 
+"DOTA_Tooltip_modifier_rebels_sword_disarmor_Description"			"Armor decreased by rebels sword" 
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\rebels_sword.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\recovery_orb.txt' begin 
+"DOTA_Tooltip_ability_item_recovery_orb"								"Recovery Orb"
+"DOTA_Tooltip_ability_item_recovery_orb_Description"					"<h1>Active: Reset Cooldowns</h1> Resets the cooldowns of all your items and abilities.\n\n <h1>Passive: Recovery</h1> With a small chance allows you after cast ability reset the 50% cooldown of this ability."
+"DOTA_Tooltip_ability_item_recovery_orb_Lore"							"A powerful artifact created for wizards."
+"DOTA_Tooltip_ability_item_recovery_orb_bonus_health_regen"				"+$hp_regen"
+"DOTA_Tooltip_ability_item_recovery_orb_bonus_mana_regen"				"+$mana_regen"
+"DOTA_Tooltip_ability_item_recovery_orb_bonus_damage"					"+$damage"
+"DOTA_Tooltip_ability_item_recovery_orb_ability_chance"					"%ABILITY CHANCE:"
+"DOTA_Tooltip_ability_item_recovery_orb_ultimate_chance"				"%ULTIMATE CHANCE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\recovery_orb.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\rubick_dagon.txt' begin 
+"DOTA_Tooltip_Ability_item_rubick_dagon"						"Rubick Dagon"
+"DOTA_Tooltip_Ability_item_rubick_dagon_Description"			"<h1>Active: Dagon</h1> Emits a powerful burst of magical damage upon a targeted enemy unit. Damage depends on the intelligence of caster. "
+"DOTA_Tooltip_Ability_item_rubick_dagon_bonus_int"				"+$int"
+"DOTA_Tooltip_Ability_item_rubick_dagon_bonus_att"				"+$all"
+"DOTA_Tooltip_Ability_item_rubick_dagon_bonus_damage"			"+$damage"
+"DOTA_Tooltip_Ability_item_rubick_dagon_damage"					"DAGON DAMAGE:"
+"DOTA_Tooltip_Ability_item_rubick_dagon_int_damage_pct"			"%INT TO DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\rubick_dagon.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\sacred_butterfly.txt' begin 
+"DOTA_Tooltip_Ability_item_sacred_butterfly"					"Sacred Butterfly"
+"DOTA_Tooltip_Ability_item_sacred_butterfly_Description"		"A Sacred weapon which provides an incredible amount of dexterity in combat."
+"DOTA_Tooltip_Ability_item_sacred_butterfly_bonus_agi"			"+$agi"
+"DOTA_Tooltip_Ability_item_sacred_butterfly_bonus_dmg"			"+$damage"
+"DOTA_Tooltip_Ability_item_sacred_butterfly_bonus_attackspeed"	"+$attack"
+"DOTA_Tooltip_Ability_item_sacred_butterfly_bonus_evasion"		"%+$evasion"
+"DOTA_Tooltip_Ability_item_sacred_butterfly_bonus_mvspd_pct"	"%+$move_speed"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\sacred_butterfly.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\shiva.txt' begin 
+"DOTA_Tooltip_Ability_item_shivas_guard_2"								"Shiva's Guard"
+"DOTA_Tooltip_modifier_item_shivas_guard_2_aura"						"Freezing Aura"
+"DOTA_Tooltip_modifier_item_shivas_guard_2_aura_Description"			"Attack speed reduced by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT_SECONDARY%."
+"DOTA_Tooltip_modifier_item_shivas_guard_2_blast"						"Arctic Blast"
+"DOTA_Tooltip_modifier_item_shivas_guard_2_blast_Description"			"Movement speed slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+"DOTA_Tooltip_ability_item_shivas_guard_2_Description"					"<h1>Active: Arctic Blast</h1> Emits a freezing wave that deals %blast_damage% magical damage to enemies and slows their movement by %blast_movement_speed%%% for %blast_debuff_duration% seconds.\n<h1>Passive: Freezing Aura</h1> Reduces the attack speed of all enemies in a %aura_radius% radius.\n\nMultiple instances of Freezing Aura do not stack."
+"DOTA_Tooltip_ability_item_shivas_guard_2_Lore"							"Said to have belonged to a goddess, today it retains much of its former power."
+"DOTA_Tooltip_ability_item_shivas_guard_2_aura_attack_speed"			"AURA ATTACK SLOW:"
+"DOTA_Tooltip_ability_item_shivas_guard_2_bonus_intellect"				"+$int"
+"DOTA_Tooltip_ability_item_shivas_guard_2_bonus_armor"					"+$armor"
+"DOTA_Tooltip_ability_item_shivas_guard_2_Note0"						"The wave extends at a speed of 350 to a max size of 900."
+"DOTA_Tooltip_ability_item_shivas_guard_2_Note1"						"The Arctic Blast follows its caster."
+"DOTA_Tooltip_ability_item_shivas_guard_2_blast_damage"					"BLAST DAMAGE:"
+"DOTA_Tooltip_ability_item_shivas_guard_2_blast_movement_speed"			"%BLAST MOVEMENT SLOW:"
+"DOTA_Tooltip_ability_item_shivas_guard_2_blast_debuff_duration"		"BLAST SLOW DURATION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\shiva.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\skadi_2.txt' begin 
+"DOTA_Tooltip_Ability_item_skadi_2"								"Eye of Skadi"
+"DOTA_Tooltip_ability_item_skadi_2_Description"					"<h1>Passive: Cold Attack</h1> Each attack slows the movement and attack speed of the target. The duration of the slow is based on whether the equipped hero is melee or ranged."
+"DOTA_Tooltip_ability_item_skadi_2_Lore"						"Extremely rare artifact, guarded by the azure dragons."		
+"DOTA_Tooltip_ability_skadi_2_cold_movement_speed"				"%COLD MOVE SLOW:"		
+"DOTA_Tooltip_ability_skadi_2_cold_attack_speed"				"COLD ATTACK SLOW:"		
+"DOTA_Tooltip_ability_item_skadi_2_bonus_all_stats"				"+$all"
+"DOTA_Tooltip_ability_item_skadi_2_bonus_health"				"+$health"
+"DOTA_Tooltip_ability_item_skadi_2_bonus_mana"					"+$mana"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\skadi_2.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\slice_amulet.txt' begin 
+"DOTA_Tooltip_Ability_item_slice_amulet"						"Slice of Static"
+"DOTA_Tooltip_Ability_item_slice_amulet_Description"			"<h1>Active Disarm</h1> Debuff that disallow enemy unit to attack for a while.\n<h1>Passive: Static Slice</h1> All ability casts give 1 static charge. Static charge will increase spell amplification.."
+"DOTA_Tooltip_Ability_item_slice_amulet_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_slice_amulet_bonus_int"				"+$int"
+"DOTA_Tooltip_Ability_item_slice_amulet_bonus_stats"			"+$all"
+"DOTA_Tooltip_Ability_item_slice_amulet_spell_amplify_by_cast"	"%SPELL AMPLIFY BY CAST:"
+"DOTA_Tooltip_Ability_item_slice_amulet_buff_duration"			"SPELL AMPLIFY DURATION:"
+"DOTA_Tooltip_Ability_item_slice_amulet_debuff_duration"		"DISARM DURATION:"
+"DOTA_Tooltip_Ability_item_slice_amulet_debuff_speed"			"DISARM PROJECTILE SPEED:"
+"DOTA_Tooltip_Ability_item_slice_amulet_cast_range"				"CAST RANGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\slice_amulet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\snake_boots.txt' begin 
+"DOTA_Tooltip_Ability_item_snake_boots"								"Snake Boots"
+"DOTA_Tooltip_Ability_item_snake_boots_Description"					"<h1>Active: Warp Jump</h1> Allows teleportation to a friendly unit after one second delay."
+"DOTA_Tooltip_Ability_item_snake_boots_bonus_speed"					"%+$move_speed"
+"DOTA_Tooltip_Ability_item_snake_boots_bonus_armor"					"+$armor"
+"DOTA_Tooltip_Ability_item_snake_boots_bonus_hp_regen"				"+$hp_regen"
+"DOTA_Tooltip_Ability_item_snake_boots_bonus_stats"					"+$all"
+
+"DOTA_Tooltip_modifier_snake_boots_teleport"						"Get out of here!"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\snake_boots.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\soul_vessel.txt' begin 
+"DOTA_Tooltip_ability_item_soul_vessel"									"Soul Vessel"
+"DOTA_Tooltip_ability_item_soul_vessel_Description"						"<h1>Active: Soul Release</h1> Heal ally and restore half-mana, or deal damage to enemy. Apply buff/debuff that increase/decrease attack and movespeed.\n\n <h1>Passive: Soul Collect</h1> Gets 2 charges for kill hero."
+"DOTA_Tooltip_ability_item_soul_vessel_mana_regen"						"%+$mana_regen"
+"DOTA_Tooltip_ability_item_soul_vessel_bonus_stats"						"+$all"
+"DOTA_Tooltip_ability_item_soul_vessel_radius"							"RADIUS:"
+"DOTA_Tooltip_ability_item_soul_vessel_heal_const"						"HEAL:"
+"DOTA_Tooltip_ability_item_soul_vessel_heal_pct"						"%HEAL:"
+"DOTA_Tooltip_ability_item_soul_vessel_damage_const"					"DAMAGE:"
+"DOTA_Tooltip_ability_item_soul_vessel_damage_pct"						"%DAMAGE:"
+"DOTA_Tooltip_ability_item_soul_vessel_buff_attack"						"%INCREASE/DECREASE ATTACK:"
+"DOTA_Tooltip_ability_item_soul_vessel_buff_mvspd"						"%INCREASE/DECREASE MOVESPEED:"
+"DOTA_Tooltip_ability_item_soul_vessel_duration"						"DURATION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\soul_vessel.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\spiked_armor.txt' begin 
+"DOTA_Tooltip_Ability_item_spiked_armor"						"Spiked Armor"
+"DOTA_Tooltip_Ability_item_spiked_armor_Description"			"<h1>Active: Return</h1> Reflects any damage taken back to the unit that dealt the damage. Lasts 4.5 seconds. Returning damage is doubled.\n<h1>Passive: Spiked Aura</h1> All nearby friendly units gain extra armor and attack speed and all nearby enemies gain reduced armor."
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_aspeed"			"+$attack"
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_health"			"+$health"
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_stats"			"+$all"
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_armor_aura"		"AURA ARMOR:"
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_aspeed_aura"		"AURA ASPEED:"
+"DOTA_Tooltip_Ability_item_spiked_armor_bonus_friend_radius"	"AURA RADIUS:"
+"DOTA_Tooltip_Ability_item_spiked_armor_disarmor_aura"			"ENEMIES DISARMOR:"
+"DOTA_Tooltip_Ability_item_spiked_armor_disarmor_aura_pct"		"%ENEMIES DISARMOR:"
+"DOTA_Tooltip_Ability_item_spiked_armor_enemy_radius"			"EMEMIES DISARMOR RADIUS:"
+"DOTA_Tooltip_modifier_spiked_armor_return"						"Return damage."
+"DOTA_Tooltip_modifier_spiked_armor_aura_friend"				"Spiked Armor Aura"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\spiked_armor.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\static_amulet.txt' begin 
+"DOTA_Tooltip_Ability_item_static_amulet"						"Static Amulet"
+"DOTA_Tooltip_Ability_item_static_amulet_Description"			"<h1>Active: Disarm</h1>Debuff that disallow enemy unit to attack for a while.\n<h1>Passive: Static Amulet</h1> All ability casts give 1 static charge. Static charge will increase spell amplification."
+"DOTA_Tooltip_Ability_item_static_amulet_bonus_armor"			"+$armor"
+"DOTA_Tooltip_Ability_item_static_amulet_bonus_int"				"+$int"
+"DOTA_Tooltip_Ability_item_static_amulet_bonus_stats"			"+$all"
+"DOTA_Tooltip_Ability_item_static_amulet_spell_amplify_by_cast"	"%SPELL AMPLIFY BY CAST:"
+"DOTA_Tooltip_Ability_item_static_amulet_buff_duration"			"SPELL AMPLIFY DURATION:"
+"DOTA_Tooltip_Ability_item_static_amulet_debuff_duration"		"DISARM DURATION:"
+"DOTA_Tooltip_Ability_item_static_amulet_debuff_speed"			"DISARM PROJECTILE SPEED:"
+"DOTA_Tooltip_Ability_item_static_amulet_cast_range"			"CAST RANGE:"
+
+"DOTA_Tooltip_modifier_static_mag_amplify"						"Static Amplification"
+"DOTA_Tooltip_modifier_static_mag_amplify_Description"			"Increase output spell amplification damage by %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%"
+
+"DOTA_Tooltip_modifier_static_disarm"							"Disarmed"
+"DOTA_Tooltip_modifier_static_disarm_Description"				"Disarmed"
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\static_amulet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\strange_amulet.txt' begin 
+"DOTA_Tooltip_ability_item_strange_amulet"						"Strange Amulet"
+"DOTA_Tooltip_ability_item_strange_amulet_Description"			"<h1>Active: Strange Power</h1> Increase your strength by a percentage.\n<h1>Passive: Rune Collector</h1> Grants one charge for every activated rune.\<h1>Passive: Strange Collector</h1> Increase armor, strength and health for every charge."
+"DOTA_Tooltip_ability_item_strange_amulet_bonus_damage"			"+$damage"
+"DOTA_Tooltip_ability_item_strange_amulet_bonus_str"			"+$str"
+"DOTA_Tooltip_ability_item_strange_amulet_bonus_str_pct"		"%STRENGTH:"
+"DOTA_Tooltip_ability_item_strange_amulet_duration"				"DURATION:"
+"DOTA_Tooltip_ability_item_strange_amulet_armor_per_charge"		"ARMOR PER CHARGE:"
+"DOTA_Tooltip_ability_item_strange_amulet_str_per_charge"		"STRENGTH PER CHARGE:"
+"DOTA_Tooltip_ability_item_strange_amulet_hp_per_charge"		"HEALTH PER CHARGE:"
+"DOTA_Tooltip_ability_item_strange_amulet_lost_death_tooltip"	"%LOST CHARGE ON DEATH:"
+
+"DOTA_Tooltip_modifier_strange_amulet_active"					"Strange Power"
+"DOTA_Tooltip_modifier_strange_amulet_active_Description"		"Strength is increased and a part of incoming damage is reflected."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\strange_amulet.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\talisman_of_ambition.txt' begin 
+"DOTA_Tooltip_ability_item_talisman_of_ambition"							"Talisman of Ambition"
+"DOTA_Tooltip_ability_item_talisman_of_ambition_Description"				"<h1>Active: Shadow movements</h1> Caster get %evasion%% bonus evasion for %duration% seconds"
+"DOTA_Tooltip_ability_item_talisman_of_ambition_bonus_armor"				"+$armor"
+"DOTA_Tooltip_ability_item_talisman_of_ambition_bonus_agility"				"+$agi"
+"DOTA_Tooltip_ability_item_talisman_of_ambition_bonus_movespeed"			"+$move_speed"
+"DOTA_Tooltip_ability_item_talisman_of_ambition_duration"					"DURATION:"
+"DOTA_Tooltip_ability_item_talisman_of_ambition_evasion"					"%EVASION:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\talisman_of_ambition.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\talisman_of_mastery.txt' begin 
+"DOTA_Tooltip_ability_item_talisman_of_mastery"							"Talisman of Mastery"
+"DOTA_Tooltip_ability_item_talisman_of_mastery_Description"				"Grants owner with experience for every damage to enemy hero. Melee hero grants doubled exp."
+"DOTA_Tooltip_ability_item_talisman_of_mastery_bonus_attack"			"+$damage"
+"DOTA_Tooltip_ability_item_talisman_of_mastery_bonus_str"				"+$str"
+"DOTA_Tooltip_ability_item_talisman_of_mastery_bonus_hp_regen"			"+$hp_regen"
+"DOTA_Tooltip_ability_item_talisman_of_mastery_damage_to_exp"			"%DMG TO EXP:"
+"DOTA_Tooltip_ability_item_talisman_of_mastery_min_exp"					"MIN. EXP:"
+"DOTA_Tooltip_ability_item_talisman_of_mastery_max_exp"					"MAX. EXP:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\talisman_of_mastery.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\tomes.txt' begin 
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_6"				"Tome of Intellect (+6)"
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_INT_6_Description"	"Permanently increases your hero's Intelligence by 6."
+
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6"				"Tome of Agility(+6)"
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_AGI_6_Description"	"Permanently increases your hero's Agility by 6."
+
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_6"				"Tome of Strength (+6)"
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_STR_6_Description"	"Permanently increases your hero's Strength by 6."
+
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_6"				"Tome of Gods (+6)"
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_UN_6_Description"	"Permanently increases your hero's Strength, Agility, and Intelligence by 6."
+
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_MED"				"Medical Tractate"
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_MED_Description"	"Permanently increases your hero's Health by 500 and mana by 250."
+
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_LVLUP"				"Tome of Heroes"
+"DOTA_TOOLTIP_ABILITY_ITEM_TOME_LVLUP_Description"	"Increases your hero's level by 1."
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\tomes.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\vampire_claw.txt' begin 
+"DOTA_Tooltip_ability_item_vampire_claw"								"Vampire Claw"
+"DOTA_Tooltip_ability_item_vampire_claw_Description"                    "<h1>Passive: Lifesteal</h1>Restores the owner of %lifesteal%% health from damage dealt"
+"DOTA_Tooltip_ability_item_vampire_claw_bonus_damage"                   "+$damage"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\items\vampire_claw.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\!empty.txt' begin 
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\!empty.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\fountain.txt' begin 
+"DOTA_Tooltip_ability_angel_arena_fountain"							"Fountain Aura"
+"DOTA_Tooltip_ability_angel_arena_fountain_Description"				"Fountain block 50% damage to nearly allies."
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\fountain.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\runes.txt' begin 
+"DOTA_Tooltip_modifier_rune_dd_one"								"Double Damage"
+"DOTA_Tooltip_modifier_rune_dd_one_Description"					"Increase damage on 60%"
+"DOTA_Tooltip_modifier_rune_dd_two"								"Double Damage"
+"DOTA_Tooltip_modifier_rune_dd_two_Description"					"Increase damage on 300%"
+"DOTA_Tooltip_modifier_rune_dd_three"							"Double Damage"
+"DOTA_Tooltip_modifier_rune_dd_three_Description"				"Decrease incoming damage by 10%"
+
+"DOTA_Tooltip_modifier_rune_haster_max"							"Haste"
+"DOTA_Tooltip_modifier_rune_haster_max_Description"				"Movement speed increased to the max."
+
+"DOTA_Tooltip_modifier_rune_illusion_one"						"Illusions"
+"DOTA_Tooltip_modifier_rune_illusion_one_Description"			"Increases damage by 30% and movespeed by 50."
+
+"DOTA_Tooltip_modifier_rune_illusion_two"						"Illusions"
+"DOTA_Tooltip_modifier_rune_illusion_two_Description"			"Decrease incoming damage by 15%"
+
+"DOTA_Tooltip_ability_item_rune_dd"								"Double Damage"
+"DOTA_Tooltip_ability_item_rune_invis"							"Invisibility"
+"DOTA_Tooltip_ability_item_rune_regen"							"Regeneration"
+"DOTA_Tooltip_ability_item_rune_arcane"							"Arcane"
+"DOTA_Tooltip_ability_item_rune_haste"							"Haste"
+"DOTA_Tooltip_ability_item_rune_bounty"							"Bounty"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\runes.txt' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\summon_magical_attack.txt' begin 
+"DOTA_Tooltip_ability_summons_attack_magical"							"Summon Power"
+"DOTA_Tooltip_ability_summons_attack_magical_Description"				"Summon with chance 50% can deal magical damage from his physical damage."
+"DOTA_Tooltip_ability_summons_attack_magical_dmg_to_magical"			"%DAMAGE TO MAGICAL DAMAGE:"
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\localization\en\map\summon_magical_attack.txt' end
+
+	}
+}

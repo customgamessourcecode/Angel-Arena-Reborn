@@ -1,0 +1,2929 @@
+"DOTAHeroes"
+{
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\abaddon.kv' begin 
+"npc_dota_hero_abaddon"
+{
+	"ArmorPhysical"		"1.000000"
+	
+	
+	"AttackDamageMin"		"32"
+	"AttackDamageMax"		"42"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.560000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"23"
+	"AttributeStrengthGain"		"3.0"
+	"AttributeBaseAgility"		"17"
+	"AttributeAgilityGain"		"2.5"
+	"AttributeBaseIntelligence"		"14"
+	"AttributeIntelligenceGain"		"2.0"
+	
+	"MovementSpeed"		"310"
+	"MovementTurnRate"		"0.5"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\abaddon.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\abyssal_underlord.kv' begin 
+"npc_dota_hero_abyssal_underlord"
+{
+	"ArmorPhysical"					"2.000000"
+	
+	"AttackDamageMin"				"37"
+	"AttackDamageMax"				"43"
+	"AttackRate"					"1.600000"
+
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"			"30"
+	"AttributeStrengthGain"			"2.600000"
+	"AttributeBaseAgility"			"12"
+	"AttributeAgilityGain"			"2.000000"
+	"AttributeBaseIntelligence"		"17"
+	"AttributeIntelligenceGain"		"2.600000"
+	"MovementSpeed"					"305"
+	"MovementTurnRate"				"0.600000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\abyssal_underlord.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Alchemist.kv' begin 
+"npc_dota_hero_alchemist"
+{																		
+// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"				"30"									// Damage range min.
+	"AttackDamageMax"				"40"									// Damage range max.
+	"AttackRate"					"1.7"
+	
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"			"25"									// Base strength
+	"AttributeStrengthGain"			"2.2"									// Strength bonus per level.
+	"AttributeBaseAgility"			"24"									// Base agility
+	"AttributeAgilityGain"			"2.0"									// Agility bonus per level.
+	"AttributeBaseIntelligence"		"25"									// Base intelligence
+	"AttributeIntelligenceGain"		"1.0"									// Intelligence bonus per level.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"305"									// Speed.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Alchemist.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\ancient_apparation.kv' begin 
+"npc_dota_hero_ancient_apparition"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"19"
+	"AttackDamageMax"		"29"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.450000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"600"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"18"
+	"AttributeStrengthGain"		"1.400000"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"2.100000"
+	"AttributeBaseIntelligence"		"25"
+	"AttributeIntelligenceGain"		"3.200000"
+	"MovementSpeed"		"305"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\ancient_apparation.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\arc_warden.kv' begin 
+"npc_dota_hero_arc_warden"
+{
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"		"0"
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"	"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"25"
+	"AttackDamageMax"		"35"
+
+	"AttackRate"			"1.7"
+
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"				"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"			"22"
+	"AttributeStrengthGain"			"2.7"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"2.1"
+	"AttributeBaseAgility"			"16"
+	"AttributeAgilityGain"			"3.5"
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\arc_warden.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\axe.kv' begin 
+"npc_dota_hero_axe"
+{
+	"ArmorPhysical"		"0"
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"28"
+	
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"			"25"
+	"AttributeStrengthGain"			"4.000000"
+	"AttributeBaseIntelligence"		"18"
+	"AttributeIntelligenceGain"		"1.600000"
+	"AttributeBaseAgility"			"20"
+	"AttributeAgilityGain"			"2.200000"
+	"StatusHealthRegen"				"4.250000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\axe.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\bane.kv' begin 
+"npc_dota_hero_bane"
+{
+	"ArmorPhysical"		"1"
+
+	"AttackDamageMin"		"33"
+	"AttackDamageMax"		"39"
+	"AttackRate"		"1.7"
+
+	"AttackRange"		"500"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.400000"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"3.2"
+	"AttributeBaseAgility"		"22"
+	"AttributeAgilityGain"		"2.400000"
+	"MovementSpeed"		"310"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\bane.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\batrider.kv' begin 
+"npc_dota_hero_batrider"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"14"
+	"AttackDamageMax"		"18"
+	
+	"AttributeBaseStrength"		"23"
+	"AttributeStrengthGain"		"3.500000"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"2.200000"
+	"AttributeBaseIntelligence"		"24"
+	"AttributeIntelligenceGain"		"2.500000"
+	"StatusHealthRegen"			"2.000000"
+	"MovementSpeed"				"295"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\batrider.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\beastmaster.kv' begin 
+"npc_dota_hero_beastmaster"
+{
+	"ArmorPhysical"		"1"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"41"
+	"AttackDamageMax"		"45"
+	"AttackRate"		"1.6"
+	"AttackAnimationPoint"		"0.300000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	
+	"ProjectileSpeed"		"0"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"27"
+	"AttributeStrengthGain"		"2.400000"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"1.900000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"1.800000"
+	"MovementSpeed"		"310"
+	"MovementTurnRate"		"0.400000"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\beastmaster.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\bounty_hunter.kv' begin 
+"npc_dota_hero_bounty_hunter"
+{
+	"ArmorPhysical"		"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"38"
+	"AttackRate"		"1.7"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"26"
+	"AttributeStrengthGain"		"2.7"
+	"AttributeBaseAgility"		"21"
+	"AttributeAgilityGain"		"3.500000"
+	"AttributeBaseIntelligence"		"19"
+	"AttributeIntelligenceGain"		"2.400000"
+	"MovementSpeed"		"335"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\bounty_hunter.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\brewmaster.kv' begin 
+"npc_dota_hero_brewmaster"
+{
+	"ArmorPhysical"		"1.000000"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"36"
+	"AttackDamageMax"		"42"
+	"AttackRate"		"1.4"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\brewmaster.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\bristleback.kv' begin 
+"npc_dota_hero_bristleback"
+{
+	"AttackDamageMin"				"26"
+	"AttackDamageMax"				"36"
+	"AttackRate"					"1.7"
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"			"24"
+	"AttributeStrengthGain"			"3.2"
+	"AttributeBaseAgility"			"20"
+	"AttributeAgilityGain"			"2.8"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"2.800000"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\bristleback.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Brood.kv' begin 
+"npc_dota_hero_broodmother"
+{																		
+	// General
+	//-------------------------------------------------------------------------------------------------------------
+	"override_hero" 			"npc_dota_hero_broodmother"
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"-1"										// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"			"30"									// Damage range min.
+	"AttackDamageMax"			"35"									// Damage range max.	
+
+	"AttackRate"				"1.7"
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"20"									// Base strength
+	"AttributeStrengthGain"		"2.5"									// Strength bonus per level.
+	"AttributeBaseAgility"		"17"									// Base agility
+	"AttributeAgilityGain"		"3.0"									// Agility bonus per level.
+	"AttributeBaseIntelligence"	"20"									// Base intelligence
+	"AttributeIntelligenceGain"	"2.5"									// Intelligence bonus per level.
+	"MovementSpeed"				"300"									// Speed.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Brood.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\centaur.kv' begin 
+"npc_dota_hero_centaur"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"38"
+	"AttackDamageMax"		"42"
+	"AttackAnimationPoint"		"0.300000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"35"
+	"AttributeStrengthGain"		"4.600000"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"1.800000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.800000"
+	"VisionDaytimeRange"		"1800"
+	"MovementSpeed"		"300"
+	"StatusHealthRegen"		"8.0"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\centaur.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\chaos_knight.kv' begin 
+"npc_dota_hero_chaos_knight"
+{
+	"ArmorPhysical"		"2"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"40"
+	"AttackDamageMax"		"50"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.500000"
+	"AttackAcquisitionRange"		"600"
+	
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"2.900000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.400000"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"1.400000"
+	"MovementSpeed"		"325"
+	"MovementTurnRate"		"0.500000"
+	"HealthBarOffset"		"220"
+	// Status
+    //-------------------------------------------------------------------------------------------------------------
+    "StatusHealthRegen"			"2.5"									// Health regeneration rate.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\chaos_knight.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\chen.kv' begin 
+"npc_dota_hero_chen"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"32"
+	"AttackDamageMax"		"42"
+	"AttributeBaseStrength"		"23"
+	"AttributeStrengthGain"		"2.800000"
+	"AttributeBaseAgility"		"15"
+	"AttributeAgilityGain"		"2.100000"
+	"AttributeBaseIntelligence"		"21"
+	"AttributeIntelligenceGain"		"2.800000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\chen.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\clinkz.kv' begin 
+"npc_dota_hero_clinkz"
+{
+	"AttackRate"			"1.6"
+	"AttackDamageMin"		"20"
+	"AttackDamageMax"		"27"
+	
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"1.600000"
+	"AttributeBaseAgility"		"24"
+	"AttributeAgilityGain"		"3.300000"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"1.9"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\clinkz.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\clockwerk.kv' begin 
+"npc_dota_hero_rattletrap"
+{
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"31"
+	"AttackDamageMax"		"33"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.330000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"24"
+	"AttributeStrengthGain"		"2.900000"
+	"AttributeBaseAgility"		"13"
+	"AttributeAgilityGain"		"2.500000"
+	"AttributeBaseIntelligence"		"17"
+	"AttributeIntelligenceGain"		"1.300000"
+	"MovementSpeed"		"315"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\clockwerk.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\crystal_maiden.kv' begin 
+"npc_dota_hero_crystal_maiden"
+{
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"		"1"
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"29"
+	"AttackRate"		"1.7"
+
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"16"
+	"AttributeStrengthGain"		"1.700000"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"2.900000"
+	"AttributeBaseAgility"		"16"
+	"AttributeAgilityGain"		"2.200000"
+	"MovementSpeed"		"310"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\crystal_maiden.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\darkseer.kv' begin 
+"npc_dota_hero_dark_seer"
+{
+	"AttackDamageMin"		"31"
+	"AttackDamageMax"		"37"
+	"AttackRate"		"1.7"
+	"ArmorPhysical"		"0"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.800000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.200000"
+	"AttributeBaseIntelligence"		"25"
+	"AttributeIntelligenceGain"		"2.900000"
+	"MovementSpeed"		"300"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\darkseer.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\dazzle.kv' begin 
+"npc_dota_hero_dazzle"
+{
+	"AttackDamageMin"		"14"
+	"AttackDamageMax"		"32"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.300000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"550"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"16"
+	"AttributeStrengthGain"		"2.40000"
+	"AttributeBaseIntelligence"		"27"
+	"AttributeIntelligenceGain"		"3.400000"
+	"AttributeBaseAgility"		"21"
+	"AttributeAgilityGain"		"2.000000"
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\dazzle.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\death_prophet.kv' begin 
+"npc_dota_hero_death_prophet"
+{
+	"AttackRate"			"1.4"
+	"MovementSpeed"			"310"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"36"
+	
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.2"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"3.0"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"3.2"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\death_prophet.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\disruptor.kv' begin 
+"npc_dota_hero_disruptor"
+{
+	"ArmorPhysical"		"0.000000"
+
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"31"
+	"AttackRate"		"1.7"
+
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.300000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"1.900000"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"2.800000"
+	
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\disruptor.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\donkey_king.kv' begin 
+"npc_dota_hero_monkey_king"
+{
+	"ArmorPhysical"		"0"
+	"AttackDamageMin"		"30"
+	"AttackDamageMax"		"36"
+	"AttackRate"		"1.700000"
+	"AttackAnimationPoint"		"0.45"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"300"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.2"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"1.8"
+	"AttributeBaseAgility"	"22"
+	"AttributeAgilityGain"	"3.0"
+	"StatusHealthRegen"		"0.750000"
+	"MovementSpeed"			"305"
+	"MovementTurnRate"		"0.600000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\donkey_king.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\dragon_knight.kv' begin 
+"npc_dota_hero_dragon_knight"
+{
+	"ArmorPhysical"		"1"
+	
+
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"33"
+	
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.500000"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.800000"
+	"AttributeBaseAgility"		"19"
+	"AttributeAgilityGain"		"2.400000"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"1.800000"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\dragon_knight.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\drow_ranger.kv' begin 
+"npc_dota_hero_drow_ranger"
+{
+	"AbilityLayout"	"6"
+	"Ability1"		"drow_ranger_frost_arrows"
+	"Ability2"		"drow_ranger_wave_of_silence"
+	"Ability3"		"drow_ranger_trueshot"
+	"Ability4"		"drow_ranger_vengeance_arrow"
+	"Ability5"		"generic_hidden"
+	"Ability6"		"drow_ranger_marksmanship"
+	"ArmorPhysical"		"1"
+	"AttackDamageMin"		"18"
+	"AttackDamageMax"		"29"
+	"AttackRate"		"1.7"
+
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"1.900000"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"1.400000"
+	"AttributeBaseAgility"		"26"
+	"AttributeAgilityGain"		"2.500000"
+
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\drow_ranger.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\earthshaker.kv' begin 
+"npc_dota_hero_earthshaker"
+{
+	"ArmorPhysical"		"1"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"34"
+	"AttackRate"		"1.700000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\earthshaker.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\earth_spirit.kv' begin 
+"npc_dota_hero_earth_spirit"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"25"
+	"AttackDamageMax"		"35"
+
+	"AttributeBaseStrength"		"21"
+	"AttributeStrengthGain"		"2.900000"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"2.500000"
+	"AttributeBaseIntelligence"		"18"
+	"AttributeIntelligenceGain"		"2.200000"
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\earth_spirit.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\elder_titan.kv' begin 
+"npc_dota_hero_elder_titan"
+{
+	
+	"ArmorPhysical"			"1.0"
+	
+	"AttackCapabilities"	"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"23"
+	"AttackDamageMax"		"33"
+	"AttackRate"			"1.7"
+
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"24"
+	"AttributeStrengthGain"		"3.800000"
+	"AttributeBaseAgility"		"14"
+	"AttributeAgilityGain"		"2.900000"
+	"AttributeBaseIntelligence"		"23"
+	"AttributeIntelligenceGain"		"1.900000"
+	"MovementSpeed"		"315"
+	"MovementTurnRate"		"0.400000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\elder_titan.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\enchantress.kv' begin 
+"npc_dota_hero_enchantress"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"31"
+	"AttackDamageMax"		"41"
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"2.8"
+	"AttributeBaseAgility"		"19"
+	"AttributeAgilityGain"		"2.8"
+	"AttributeBaseIntelligence"		"19"
+	"AttributeIntelligenceGain"		"2.800000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\enchantress.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\enigma.kv' begin 
+"npc_dota_hero_enigma"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"42"
+	"AttackDamageMax"		"48"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\enigma.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\faceless_void.kv' begin 
+"npc_dota_hero_faceless_void"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"35"
+	"AttackDamageMax"		"41"
+	
+	"AttributeBaseStrength"		"23"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseAgility"		"23"
+	"AttributeAgilityGain"		"2.9"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"1.500000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\faceless_void.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Fireblade.kv' begin 
+"npc_dota_hero_ember_spirit"
+{						
+	//"override_hero" 			"npc_dota_hero_ember_spirit"
+	
+	"AttackRate"		"1.7"
+	
+	"AbilityLayout"		"4"
+
+	"Ability1"			"fireblade_smoldering"
+	"Ability2"			"fireblade_weapon_ignition"
+	"Ability3"			"fireblade_firesheild"
+	"Ability4"			"fireblade_firestrip"
+	"Ability5"			""
+	
+	
+	
+	// fire form
+	"Ability6"			"fireblade_fiery_stream"
+	"Ability7"			"fireblade_weapon_quenching"
+	"Ability8"			"fireblade_burn_offering"
+
+	// talents
+	"Ability10"			"fireblade_talent_ignition_no_dmg"		//10
+	"Ability11"			"fireblade_talent_smoldering_half_mana"	//10
+	"Ability12"			"fireblade_talent_weapon_bonus_damage"	//15
+	"Ability13"			"fireblade_talent_weapon_bonus_duration"//15
+	"Ability14"			"fireblade_talent_sheild_block"			//20
+	"Ability15"			"fireblade_talent_burn_offering_damage"	//20
+	"Ability16"			"fireblade_talent_firestrip_unique"		//25
+	"Ability17"			"fireblade_talent_firestrip_cooldown"	//25
+	
+		
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"			"30"									// Damage range min.
+	"AttackDamageMax"			"40"									// Damage range max.	
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"				"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"			"25"									// Base strength
+	"AttributeStrengthGain"			"3.4"									// Strength bonus per level.
+	"AttributeBaseAgility"			"25"									// Base agility
+	"AttributeAgilityGain"			"3.8"									// Agility bonus per level.
+	"AttributeBaseIntelligence"		"20"									// Base intelligence
+	"AttributeIntelligenceGain"		"1.6"									// Intelligence bonus per level.
+
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"					"325"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Fireblade.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Grimstroke.kv' begin 
+"npc_dota_hero_grimstroke"
+{
+    "AttackDamageMin"			       "27"
+    "AttackDamageMax"			       "31"
+    "AttackRate"				       "1.700000"
+    "AttackAnimationPoint"		       "0.350000"
+    "AttackAcquisitionRange"	       "800"
+    "AttackRange"				       "550"
+    "AttributePrimary"			       "DOTA_ATTRIBUTE_INTELLECT"
+    "AttributeBaseStrength"		       "21"
+    "AttributeStrengthGain"		       "2.500000"
+    "AttributeBaseAgility"		       "18"
+    "AttributeAgilityGain"		       "2.100000"
+    "AttributeBaseIntelligence"	       "23"
+    "AttributeIntelligenceGain"	       "3.500000"
+    "MovementSpeed"				       "295"
+    "MovementTurnRate"			       "0.600000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Grimstroke.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Gun_joe.kv' begin 
+"npc_dota_hero_gun_joe"
+{													
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" "npc_dota_hero_sniper"
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"Ability1"					"angel_arena_rifle"
+		"Ability2"					"gun_joe_explosive"
+		"Ability3"					"gun_joe_rapid"
+		"Ability4"					"generic_hidden"
+		"Ability5"					"generic_hidden"
+		"Ability6"					"angel_arena_gunpowder"
+		
+		"Ability10"				"gun_joe_special_bonus_rapid_cd"
+		"Ability11"				"gun_joe_special_bonus_explosive_bullets_cd"
+		"Ability12"				"special_bonus_attack_speed_20"
+		"Ability13"				"special_bonus_hp_250"
+		"Ability14"				"gun_joe_special_bonus_explosive_bullets_radius"
+		"Ability15"				"gun_joe_special_bonus_explosive_bullets_stack"
+		"Ability16"				"special_bonus_agility_25"
+		"Ability17"				"special_bonus_armor_15"
+		
+		"AttackDamageMin"			"20"									// Damage range min.
+		"AttackDamageMax"			"22"									// Damage range max.	
+		
+		"AttackRange"				"500"
+		"AttackRate"				"1.6"									// Speed of attack.
+		"AttackAnimationPoint"		"0.1"									// Normalized time in animation cycle to attack.
+		
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"17"									// Base strength
+		"AttributeStrengthGain"		"2.2"									// Strength bonus per level.
+		"AttributeBaseAgility"		"20"									// Base agility
+		"AttributeAgilityGain"		"2.0"									// Agility bonus per level.
+		"AttributeBaseIntelligence"	"15"									// Base intelligence
+		"AttributeIntelligenceGain"	"2.2"									// Intelligence bonus per level.
+		
+		"MovementSpeed"					"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Gun_joe.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\gyrocopter.kv' begin 
+"npc_dota_hero_gyrocopter"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"37"
+	"AttackRate"		"1.5"
+
+	"AttackRange"		"365"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"18"
+	"AttributeStrengthGain"		"2.4"
+	"AttributeBaseAgility"		"25"
+	"AttributeAgilityGain"		"4.2"
+	"AttributeBaseIntelligence"		"19"
+	"AttributeIntelligenceGain"		"2.1"
+	"MovementSpeed"			"315"
+	"MovementTurnRate"		"0.6"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\gyrocopter.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Hola.kv' begin 
+"npc_hero_hola"
+{													
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" 			"npc_dota_hero_keeper_of_the_light"
+		"Team"						"Good"
+		
+		"IsGod"						"1"
+
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityLayout"				"4"
+		
+		"Ability1"					"hola_stunhammer"				// Ability 1
+		"Ability2"					"hola_grace"				// Ability 2
+		"Ability3"					"hola_stomp"					// Ability 3
+		"Ability4"					"generic_hidden"					// Ability 4
+		"Ability5"					"generic_hidden"
+		"Ability6"					"hola_rescure"
+		"Ability7"					""
+		
+		"Ability10"				"special_bonus_strength_6"			//10
+		"Ability11"				"special_bonus_attack_damage_20"	//10
+		"Ability12"				"special_bonus_attack_speed_20"		//15
+		"Ability13"				"special_bonus_hp_250"				//15
+		"Ability14"				"hola_special_bonus_heal"			//20
+		"Ability15"				"hola_special_bonus_ultimate"		//20
+		"Ability16"				"special_bonus_agility_25"			//25
+		"Ability17"				"special_bonus_armor_15"			//25
+		
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"1"										// Physical protection.
+
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+		"AttackDamageMin"			"82"									// Damage range min.
+		"AttackDamageMax"			"86"									// Damage range max.	
+		
+		"AttackRate"				"1.7"									// Speed of attack.
+		"AttackAnimationPoint"		"0.3"									// Normalized time in animation cycle to attack.
+		
+		"AttackAcquisitionRange"	"620"									// Range within a target can be acquired.
+		"AttackRange"				"620"									// Range within a target can be attacked.
+		
+		"ProjectileModel"			"particles/units/heroes/hero_keeper_of_the_light/keeper_of_the_light_base_attack.vpcf"										// Particle system model for projectile.
+		"ProjectileSpeed"			"900"										// Speed of projectile.
+
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"			"DOTA_ATTRIBUTE_INTELLECT"
+		"AttributeBaseStrength"		"25"									// Base strength
+		"AttributeStrengthGain"		"4.0"									// Strength bonus per level.
+		"AttributeBaseAgility"		"26"									// Base agility
+		"AttributeAgilityGain"		"4.0"									// Agility bonus per level.
+		"AttributeBaseIntelligence"	"32"									// Base intelligence
+		"AttributeIntelligenceGain"	"8.0"									// Intelligence bonus per level.
+		
+		"StatusHealth" 				"210" 
+		"StatusHealthRegen" 		"250.0" 
+		"StatusMana" 				"210" 
+		"StatusManaRegen" 			"8.5" 
+		// Movement
+		//-------------------------------------------------------------------------------------------------------------
+		"MovementSpeed"				"295"									// Speed.
+		"MovementTurnRate"			"0.5"									// Turning rate.
+		
+		"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+		"HealthBarOffset"			"140"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Hola.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\huskar.kv' begin 
+"npc_dota_hero_huskar"
+{
+	"ArmorPhysical"		"-3"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"21"
+	"AttackDamageMax"		"30"
+	"AttackRate"		"1.600000"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.700000"
+	"AttributeBaseAgility"		"14"
+	"AttributeAgilityGain"		"1.40000"
+	"AttributeBaseIntelligence"		"18"
+	"AttributeIntelligenceGain"		"1.500000"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\huskar.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\invoker.kv' begin 
+"npc_dota_hero_invoker"
+{
+	"AttackDamageMin"		"5"
+	"AttackDamageMax"		"9"
+	"AttackRate"		"1.7"
+
+	"AttackRange"		"550"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.0"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"2.0"
+	"AttributeBaseIntelligence"		"30"
+	"AttributeIntelligenceGain"		"3.0"
+	"MovementSpeed"		"305"
+	"MovementTurnRate"		"0.500000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\invoker.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\jakiro.kv' begin 
+"npc_dota_hero_jakiro"
+{
+	"ArmorPhysical"		"1"
+
+	"AttackDamageMin"		"25"
+	"AttackDamageMax"		"33"
+	"AttackRate"		"1.7"
+
+	"AttackRange"		"500"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"18"
+	"AttributeStrengthGain"		"2.8"
+	"AttributeBaseIntelligence"		"28"
+	"AttributeIntelligenceGain"		"4.300000"
+	"AttributeBaseAgility"		"10"
+	"AttributeAgilityGain"		"2.200000"
+	"MovementSpeed"		"325"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\jakiro.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\JoeBlack.kv' begin 
+"npc_hero_joe_black"
+{													
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" "npc_dota_hero_vengefulspirit"
+		"Team"						"Bad"
+
+		"IsGod"						"1"
+		
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"Ability1"					"joe_black_face_of_death"				// Ability 1
+		"Ability2"					"joe_black_protection"					// Ability 3
+		"Ability3"					"joe_black_sleep"					// Ability 2
+		"Ability4"					"generic_hidden"					// Ability 4
+		"Ability5"					"generic_hidden"
+		"Ability6"					"joe_black_song"
+		
+		"Ability10"					"joe_black_special_protection" 		// 10
+		"Ability11"					"joe_black_special_song"			// 10
+		"Ability12"					"special_bonus_attack_speed_20"		// 15
+		"Ability13"					"special_bonus_hp_250"				// 15
+		"Ability14"					"joe_black_special_unique_cooldown" // 20
+		"Ability15"					"joe_black_special_unique_aoe" 		// 20
+		"Ability16"					"special_bonus_agility_25"			// 25
+		"Ability17"					"special_bonus_armor_15"			// 25
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"1"										// Physical protection.
+
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+		"AttackDamageMin"			"90"									// Damage range min.
+		"AttackDamageMax"			"100"									// Damage range max.	
+		
+		"AttackRate"				"1.7"									// Speed of attack.
+		"AttackAnimationPoint"		"0.2"									// Normalized time in animation cycle to attack.
+		
+		"AttackAcquisitionRange"	"620"									// Range within a target can be acquired.
+		"AttackRange"				"600"									// Range within a target can be attacked.
+		
+		"ProjectileModel"			"particles/units/heroes/hero_vengeful/vengeful_base_attack.vpcf"										// Particle system model for projectile.
+		"ProjectileSpeed"			"1400"										// Speed of projectile.
+
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"28"									// Base strength
+		"AttributeStrengthGain"		"2.4"									// Strength bonus per level.
+		"AttributeBaseAgility"		"44"									// Base agility
+		"AttributeAgilityGain"		"3.0"									// Agility bonus per level.
+		"AttributeBaseIntelligence"	"28"									// Base intelligence
+		"AttributeIntelligenceGain"	"10.0"									// Intelligence bonus per level.
+		
+		"StatusHealth" "200" 
+		//"StatusHealthRegen" "0" 
+		//"StatusMana" "400" 
+		//"StatusManaRegen" "0.3" 
+		// Movement
+		//-------------------------------------------------------------------------------------------------------------
+		"MovementSpeed"				"320"									// Speed.
+		"MovementTurnRate"			"0.5"									// Turning rate.
+		
+		"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+		"HealthBarOffset"			"140"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\JoeBlack.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\jugger.kv' begin 
+"npc_dota_hero_juggernaut"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"28"
+	
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseIntelligence"		"14"
+	"AttributeIntelligenceGain"		"1.400000"
+	"AttributeBaseAgility"		"30"
+	"AttributeAgilityGain"		"2.400000"
+	"StatusHealthRegen"		"4.00000"
+	"MovementSpeed"			"295"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\jugger.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Kunkka.kv' begin 
+"npc_dota_hero_kunkka"
+{
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"2"									// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"			"36"									// Damage range min.
+	"AttackDamageMax"			"46"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.4"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"600"									// Range within a target can be acquired.
+	"AttackRange"				"150"									// Range within a target can be attacked.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"			"22"									// Base strength
+	"AttributeStrengthGain"			"4.0"									// Strength bonus per level.
+	"AttributeBaseIntelligence"		"20"									// Base intelligence
+	"AttributeIntelligenceGain"		"2.5"									// Intelligence bonus per level.
+	"AttributeBaseAgility"			"20"									// Base agility
+	"AttributeAgilityGain"			"2.3"									// Agility bonus per level.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"300"									// Speed.
+	"MovementTurnRate"			"0.5"									// Turning rate.
+	
+	// Bounds
+	//-------------------------------------------------------------------------------------------------------------
+	"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+	"HealthBarOffset"			"150"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Kunkka.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\legion commander.kv' begin 
+"npc_dota_hero_legion_commander"
+{
+	"ArmorPhysical"		"0.0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"35"
+	"AttackDamageMax"		"39"
+	"AttackRate"		"1.7"
+
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.8"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.0"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"2.2"
+	"MovementSpeed"		"320"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\legion commander.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\leshrak.kv' begin 
+"npc_dota_hero_leshrac"
+{
+	"ArmorPhysical"		"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"15"
+	"AttackDamageMax"		"19"
+	
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.400000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"600"
+
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.800000"
+	"AttributeBaseIntelligence"		"26"
+	"AttributeIntelligenceGain"		"3"
+	"AttributeBaseAgility"		"23"
+	"AttributeAgilityGain"		"2.800000"
+	"MovementSpeed"		"320"
+	"MovementTurnRate"		"0.500000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\leshrak.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lich.kv' begin 
+"npc_dota_hero_lich"
+{
+	"Ability1"		"lich_frost_nova"
+	"Ability2"		"lich_frost_shield"
+	"Ability3"		"lich_sinister_gaze"
+	"Ability4"		"lich_vampire"
+	"Ability5"		"generic_hidden"
+	"Ability6"		"lich_chain_frost"
+	
+	"ArmorPhysical"		"2"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"33"
+	"AttackRate"		"1.7"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"18"
+	"AttributeStrengthGain"		"4.0"
+	"AttributeBaseIntelligence"		"18"
+	"AttributeIntelligenceGain"		"5.0"
+	"AttributeBaseAgility"		"15"
+	"AttributeAgilityGain"		"4.0"
+	
+	"MovementSpeed"		"315"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lich.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lifestealer.kv' begin 
+"npc_dota_hero_life_stealer"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"32"
+	"AttackDamageMax"		"42"
+	
+	"AttributeBaseStrength"		"25"
+	"AttributeStrengthGain"		"3.100000"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"1.75000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.500000"
+	"MovementSpeed"		"315"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lifestealer.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Lina.kv' begin 
+"npc_dota_hero_lina"
+{																		
+	// General
+	//-------------------------------------------------------------------------------------------------------------
+	"override_hero" 			"npc_dota_hero_lina"
+	
+	"AttackDamageMin"			"36"									// Damage range min.
+	"AttackDamageMax"			"40"									// Damage range max.	
+	"AttributeBaseAgility"		"30"									// Base agility
+	"AttributeAgilityGain"		"2.8"									// Agility bonus per level.
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.6"
+	"AttributeBaseIntelligence"		"32"
+	"AttributeIntelligenceGain"		"3.200000"
+	
+	"AttackRate"		"1.7"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Lina.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lion.kv' begin 
+"npc_dota_hero_lion"
+{
+	"ArmorPhysical"		"0"
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"33"
+	"AttackRate"		"1.7"
+
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"16"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"3.500000"
+	"AttributeBaseAgility"		"15"
+	"AttributeAgilityGain"		"2.000000"
+	
+	"MovementSpeed"		"305"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lion.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lone_druid.kv' begin 
+"npc_dota_hero_lone_druid"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"28"
+	"AttackDamageMax"		"34"
+	
+	"AttributeBaseStrength"		"23"
+	"AttributeStrengthGain"		"2.900000"
+	"AttributeBaseAgility"		"29"
+	"AttributeAgilityGain"		"2.900000"
+	"AttributeBaseIntelligence"		"13"
+	"AttributeIntelligenceGain"		"1.400000"
+	"StatusHealthRegen"		"0.300000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lone_druid.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Luna.kv' begin 
+"npc_dota_hero_luna"
+{													
+	// General
+	//-------------------------------------------------------------------------------------------------------------
+	"override_hero" "npc_dota_hero_luna"
+	"Team"						"Good"
+
+	"ArmorPhysical"				"2"									// Physical protection.
+	
+	"Ability11"		"special_bonus_cast_range_200"
+	"Ability12"		"special_bonus_unique_luna_2"
+	"Ability13"		"special_bonus_evasion_15"
+	"Ability14"		"special_bonus_all_stats_10"
+	"Ability15"		"special_bonus_unique_luna_1"
+	"Ability16"		"special_bonus_lifesteal_25"
+	"Ability17"		"special_bonus_magic_resistance_20"
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"			"32"									// Damage range min.
+	"AttackDamageMax"			"34"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.46"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"800"									// Range within a target can be acquired.
+	"AttackRange"				"420"									// Range within a target can be attacked.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"20"									// Base strength
+	"AttributeStrengthGain"		"2.5"									// Strength bonus per level.
+	"AttributeBaseAgility"		"20"									// Base agility
+	"AttributeAgilityGain"		"3.2"									// Agility bonus per level.
+	"AttributeBaseIntelligence"	"12"									// Base intelligence
+	"AttributeIntelligenceGain"	"1.7"	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Luna.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lycan.kv' begin 
+"npc_dota_hero_lycan"
+{
+	"AttackRate"		        "1.7"
+	"AttackDamageMin"		    "36"
+	"AttackDamageMax"		    "41"
+    "AttributeStrengthGain"		"3.3"
+    "AttributeAgilityGain"		"2.6"
+    "AttributeIntelligenceGain"	"2.0"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\lycan.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\magnus.kv' begin 
+"npc_dota_hero_magnataur"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"32"
+	"AttackDamageMax"		"44"
+
+	"AttributeAgilityGain"		"3.0"									// Agility bonus per level.
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\magnus.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Medusa.kv' begin 
+"npc_dota_hero_medusa"
+{																		
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"				"25"									// Damage range min.
+	"AttackDamageMax"				"35"									// Damage range max.
+	
+	"AttackRate"					"1.7"
+	
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"20"									// Base strength
+	"AttributeStrengthGain"		"1.8"									// Strength bonus per level.
+	"AttributeBaseIntelligence"	"19"									// Base intelligence
+	"AttributeIntelligenceGain"	"2.0"									// Intelligence bonus per level.
+	"AttributeBaseAgility"		"20"									// Base agility
+	"AttributeAgilityGain"		"2.3"									// Agility bonus per level.
+
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"295"									// Speed.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Medusa.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\meepo.kv' begin 
+"npc_dota_hero_meepo"
+{
+	"ArmorPhysical"		"2.000000"
+	"MagicalResistance"		"35"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"22"
+	"AttackDamageMax"		"42"
+	"AttackRate"		"1.7"
+
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseAgility"		"19"
+	"AttributeAgilityGain"		"2.400000"
+	"AttributeBaseIntelligence"		"17"
+	"AttributeIntelligenceGain"		"2.600000"
+
+	"MovementSpeed"		"315"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\meepo.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\mirana.kv' begin 
+"npc_dota_hero_mirana"
+{
+	"AbilityLayout"		"6"
+	"Ability1"			"mirana_starfall"
+	"Ability2"			"mirana_arrow"
+	"Ability3"			"mirana_leap"
+	"Ability4"			"mirana_overskill"
+	"Ability5"			"generic_hidden"
+	"Ability6"			"mirana_invis"	
+
+	"ArmorPhysical"		"1"
+	
+	"AttackDamageMin"		"35"
+	"AttackDamageMax"		"38"
+	"AttackRate"		"1.7"
+
+	"AttackRange"		"700"
+
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"2.6"
+	"AttributeBaseIntelligence"		"17"
+	"AttributeIntelligenceGain"		"2.2"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"3.5"
+	"MovementSpeed"		"315"
+	"MovementTurnRate"		"0.400000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\mirana.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Morphling.kv' begin 
+"npc_dota_hero_morphling"
+{													
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" "npc_dota_hero_morphling"
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackDamageMin"			"36"									// Damage range min.
+		"AttackDamageMax"			"42"									// Damage range max.
+		
+		"AttackRate"				"1.6"		
+		"AttackRange"				"475"
+		"MovementSpeed"				"300"	
+		
+		"AttributeBaseStrength"		"16"									// Base strength
+		"AttributeStrengthGain"		"2.7"									// Strength bonus per level.
+		"AttributeBaseIntelligence"	"21"									// Base intelligence
+		"AttributeIntelligenceGain"	"2.0"									// Intelligence bonus per level.
+		"AttributeBaseAgility"		"20"									// Base agility
+		"AttributeAgilityGain"		"3.5"									// Agility bonus per level.
+		// Status
+        //-------------------------------------------------------------------------------------------------------------
+        "StatusHealthRegen"			"1.5"									// Health regeneration rate.
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Morphling.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\naga_siren.kv' begin 
+"npc_dota_hero_naga_siren"
+{
+
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"3"									// Physical protection. // 2.94
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"			"23"									// Damage range min.
+	"AttackDamageMax"			"25"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.5"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"600"									// Range within a target can be acquired.
+	"AttackRange"				"150"									// Range within a target can be attacked.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"21"									// Base strength
+	"AttributeStrengthGain"		"2.3"									// Strength bonus per level.
+	"AttributeBaseAgility"		"21"									// Base agility
+	"AttributeAgilityGain"		"3.8"									// Agility bonus per level.
+	"AttributeBaseIntelligence"	"21"									// Base intelligence
+	"AttributeIntelligenceGain"	"2.0"									// Intelligence bonus per level.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"320"									// Speed.
+	"MovementTurnRate"			"0.5"									// Turning rate.
+	
+	// Status
+	//-------------------------------------------------------------------------------------------------------------
+	"StatusHealthRegen"			"0.75"									// Health regeneration rate.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\naga_siren.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\nature_prophet.kv' begin 
+"npc_dota_hero_furion"
+{
+	"ArmorPhysical"		"1"
+	
+	"Ability1"		"furion_sprout"
+	"Ability2"		"furion_teleportation"
+	"Ability3"		"furion_force_of_nature"
+	"Ability4"		"furion_nature_wraith"
+	"Ability5"		"generic_hidden"
+	"Ability6"		"furion_wrath_of_nature"
+
+	
+	"AttackDamageMin"		"24"
+	"AttackDamageMax"		"38"
+	"AttackRate"		"1.4"
+	"AttackRange"		"625"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.9"
+	"AttributeBaseIntelligence"		"25"
+	"AttributeIntelligenceGain"		"4.0"
+	"AttributeBaseAgility"		"19"
+	"AttributeAgilityGain"		"3.3"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\nature_prophet.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\necrophos.kv' begin 
+"npc_dota_hero_necrolyte"
+{
+	"AttackDamageMin"		"28"
+	"AttackDamageMax"		"30"
+	"AttackRate"		"1.7"
+	
+	"AttributeBaseIntelligence"		"12"
+	
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\necrophos.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\night_stalker.kv' begin 
+"npc_dota_hero_night_stalker"
+{
+	"AbilityLayout"			"6"
+	"Ability1"				"night_stalker_void"
+	"Ability2"				"night_stalker_crippling_fear"
+	"Ability3"				"night_stalker_hunter_in_the_night"
+	"Ability4"				"angel_arena_night_vampire"
+	"Ability5"				"generic_hidden"
+	"Ability6"				"night_stalker_darkness"
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"			"-3"										// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"			"38"									// Damage range min.
+	"AttackDamageMax"			"42"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.55"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"600"									// Range within a target can be acquired.
+	"AttackRange"				"150"									// Range within a target can be attacked.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"32"									// Base strength
+	"AttributeStrengthGain"		"2.8"									// Strength bonus per level.
+	"AttributeBaseIntelligence"	"16"									// Base intelligence
+	"AttributeIntelligenceGain"	"1.6"									// Intelligence bonus per level.
+	"AttributeBaseAgility"		"18"									// Base agility
+	"AttributeAgilityGain"		"2.2"									// Agility bonus per level.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"300"									// Speed.
+	"MovementTurnRate"			"0.5"									// Turning rate.
+	
+	// Vision
+	//-------------------------------------------------------------------------------------------------------------
+	"VisionDaytimeRange"		"1200"									// Range of vision during day light.
+	"VisionNighttimeRange"		"1800"									// Range of vision at night time.
+
+	// Bounds
+	//-------------------------------------------------------------------------------------------------------------
+	"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+	"HealthBarOffset"			"165"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\night_stalker.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\nyx_assassin.kv' begin 
+"npc_dota_hero_nyx_assassin"
+{
+	"ArmorPhysical"		"1.3"
+	"AttackDamageMin"		"35"
+	"AttackDamageMax"		"39"
+	
+	"AttackRate"		"1.7"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"18"
+	"AttributeStrengthGain"		"2.5"
+	"AttributeBaseAgility"		"21"
+	"AttributeAgilityGain"		"3.6"
+	"AttributeBaseIntelligence"		"18"
+	"AttributeIntelligenceGain"		"3.5"
+	"StatusHealthRegen"				"5.500000"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\nyx_assassin.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\ogre_magi.kv' begin 
+"npc_dota_hero_ogre_magi"
+{
+	
+	"ArmorPhysical"		"2.000000"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"41"
+	"AttackDamageMax"		"47"
+	"AttackRate"		"1.7"
+	
+	"AttackRange"		"150"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"23"
+	"AttributeStrengthGain"		"3.200000"
+	"AttributeBaseAgility"		"14"
+	"AttributeAgilityGain"		"2.20000"
+	"AttributeBaseIntelligence"		"17"
+	"AttributeIntelligenceGain"		"3.0"
+	"StatusHealthRegen"		"3.500000"
+	"MovementSpeed"		"300"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\ogre_magi.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\omniknight.kv' begin 
+"npc_dota_hero_omniknight"
+{
+	"ArmorPhysical"		"3"
+	
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"31"
+	"AttackDamageMax"		"41"
+	"AttackRate"		"1.7"
+
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"3.0"
+	"AttributeBaseAgility"		"15"
+	"AttributeAgilityGain"		"2.75"
+	"AttributeBaseIntelligence"		"17"
+	"AttributeIntelligenceGain"		"2.800000"
+	"MovementSpeed"		"300"
+	"MovementTurnRate"		"0.600000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\omniknight.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\oracle.kv' begin 
+"npc_dota_hero_oracle"
+{
+	"ArmorPhysical"		"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"22"
+	"AttackDamageMax"		"28"
+	"AttackRate"		"1.6"
+	"AttackAnimationPoint"		"0.300000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"620"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"2.600000"
+	"AttributeBaseIntelligence"		"25"
+	"AttributeIntelligenceGain"		"2.4"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"2.400000"
+	
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\oracle.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\outworld_Destroyer.kv' begin 
+"npc_dota_hero_obsidian_destroyer"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"20"
+	"AttackDamageMax"		"35"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\outworld_Destroyer.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\pangolier.kv' begin 
+"npc_dota_hero_pangolier"
+{
+	"ArmorPhysical"				"1"
+	"AttackDamageMin"			"29"
+	"AttackDamageMax"			"35"
+	"AttackRate"				"1.700000"
+
+	"AttackAcquisitionRange"	"600"
+	"AttackRange"				"150"
+	
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"3.50000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.80000"
+	"AttributeBaseIntelligence"	"16"
+	"AttributeIntelligenceGain"	"1.900000"
+	"StatusHealthRegen"		"0.25"
+	"MovementSpeed"				"305"
+	"MovementTurnRate"			"1.000000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\pangolier.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\phanthom_assassin.kv' begin 
+	"npc_dota_hero_phantom_assassin"
+	{
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"AbilityLayout"			"6"
+		"Ability1"				"phantom_assassin_stifling_dagger"			// Ability 1
+		"Ability2"				"phantom_assassin_phantom_strike"			// Ability 2
+		"Ability3"				"phantom_assassin_blur"						// Ability 3
+		"Ability4"				"angel_arena_agility_breaker"				// Ability 4
+		"Ability5"				"generic_hidden"							// Ability 5
+		"Ability6"				"phantom_assassin_coup_de_grace"			// Ability 6
+
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"1"									// Physical protection.
+
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+		"AttackDamageMin"			"23"									// Damage range min.
+		"AttackDamageMax"			"25"									// Damage range max.
+		"AttackRate"				"1.6"									// Speed of attack.
+		"AttackAnimationPoint"		"0.3"									// Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"	"600"									// Range within a target can be acquired.
+		"AttackRange"				"150"									// Range within a target can be attacked.
+	
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"20"									// Base strength
+		"AttributeStrengthGain"		"1.85"									// Strength bonus per level.
+		"AttributeBaseAgility"		"23"									// Base agility
+		"AttributeAgilityGain"		"2.0"									// Agility bonus per level.
+		"AttributeBaseIntelligence"	"13"									// Base intelligence
+		"AttributeIntelligenceGain"	"1.0"									// Intelligence bonus per level.
+
+		// Movement
+		//-------------------------------------------------------------------------------------------------------------
+		"MovementSpeed"				"295"									// Speed.
+		"MovementTurnRate"			"0.4"									// Turning rate.
+		"HasAggressiveStance"		"1"
+	}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\phanthom_assassin.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\phatom_lancer.kv' begin 
+"npc_dota_hero_phantom_lancer"
+{	
+	"ArmorPhysical"		"0"
+	
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"22"
+	"AttackDamageMax"		"44"
+	"AttackRate"		"1.7"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"21"
+	"AttributeStrengthGain"		"1.700000"
+	"AttributeBaseIntelligence"		"21"
+	"AttributeIntelligenceGain"		"2.000000"
+	"AttributeBaseAgility"		"29"
+	"AttributeAgilityGain"		"2.500000"
+	"StatusHealthRegen"		"0.750000"
+	
+	"MovementSpeed"		"300"
+	
+	"MovementTurnRate"		"0.600000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\phatom_lancer.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\phoenix.kv' begin 
+"npc_dota_hero_phoenix"
+{
+	
+	"ArmorPhysical"		"1"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"26"
+	"AttackDamageMax"		"36"
+	"AttackRate"		"1.7"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\phoenix.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\puck.kv' begin 
+"npc_dota_hero_puck"
+	{
+		"ArmorPhysical"		"1"
+
+		"AttackDamageMin"		"22"
+		"AttackDamageMax"		"33"
+		"AttackRate"			"1.7"
+		"AttackAnimationPoint"	"0.500000"
+		"AttackAcquisitionRange"	"800"
+		"AttackRange"			"550"
+
+		"AttributePrimary"			"DOTA_ATTRIBUTE_INTELLECT"
+		"AttributeBaseStrength"		"19"
+		"AttributeStrengthGain"		"2.100000"
+		"AttributeBaseIntelligence"	"25"
+		"AttributeIntelligenceGain"	"2.800000"
+		"AttributeBaseAgility"		"22"
+		"AttributeAgilityGain"		"2.200000"
+		"MovementSpeed"				"300"
+	}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\puck.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\pudge.kv' begin 
+"npc_dota_hero_pudge"
+{
+	"ArmorPhysical"		"0"
+	
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"33"
+	"AttackRate"		"1.700000"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"25"
+	"AttributeStrengthGain"		"3.200000"
+	"AttributeBaseIntelligence"		"14"
+	"AttributeIntelligenceGain"		"1.500000"
+	"AttributeBaseAgility"		"14"
+	"AttributeAgilityGain"		"1.500000"
+	"MovementSpeed"		"285"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\pudge.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Pugna.kv' begin 
+"npc_dota_hero_pugna"
+{													
+	
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"			"32"									// Damage range min.
+	"AttackDamageMax"			"34"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.46"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"800"									// Range within a target can be acquired.
+	"AttackRange"				"600"									// Range within a target can be attacked.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"20"									// Base strength
+	"AttributeStrengthGain"		"2.4"									// Strength bonus per level.
+	"AttributeBaseAgility"		"18"									// Base agility
+	"AttributeAgilityGain"		"2.0"									// Agility bonus per level.
+	"AttributeBaseIntelligence"	"26"									// Base intelligence
+	"AttributeIntelligenceGain"	"4.2"									// Intelligence bonus per level.
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Pugna.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\queen_of_pain.kv' begin 
+"npc_dota_hero_queenofpain"
+{
+	"AttackDamageMin"		"25"
+	"AttackDamageMax"		"33"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.560000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"550"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"16"
+	"AttributeStrengthGain"		"1.800000"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"2.800000"
+	"AttributeBaseAgility"		"25"
+	"AttributeAgilityGain"		"2.3"
+	"MovementSpeed"		"305"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\queen_of_pain.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Razor.kv' begin 
+"npc_dota_hero_razor"
+{													
+		"AttackDamageMin"			"30"									// Damage range min.
+		"AttackDamageMax"			"44"									// Damage range max.
+		
+		"AttackRate"				"1.5"		
+		"AttackRange"				"450"
+		"MovementSpeed"				"310"	
+		
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"23"									// Base strength
+		"AttributeStrengthGain"		"2.6"									// Strength bonus per level.
+		"AttributeBaseIntelligence"	"23"									// Base intelligence
+		"AttributeIntelligenceGain"	"2.9"									// Intelligence bonus per level.
+		"AttributeBaseAgility"		"21"									// Base agility
+		"AttributeAgilityGain"		"3.4"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Razor.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\reaver_lord.kv' begin 
+"npc_dota_hero_reaver_lord"
+{
+	"override_hero" 			"npc_dota_hero_terrorblade"
+	
+	"AbilityLayout"				"6"
+	"Ability1"					"reaver_lord_soul_devour"	
+	"Ability2"					"reaver_lord_twink"
+	"Ability3"					"reaver_lord_superiority_instinct"
+	"Ability4"					"reaver_lord_soul_collector"
+	"Ability5"					"generic_hidden"
+	"Ability6"					"reaver_lord_attract"
+	
+	"Ability10"					"special_bonus_strength_6"
+	"Ability11"					"special_bonus_attack_damage_20"
+	"Ability12"					"special_bonus_attack_speed_20"
+	"Ability13"					"special_bonus_hp_250"
+	"Ability14"					"special_bonus_evasion_15"
+	"Ability15"					"special_bonus_all_stats_10"
+	"Ability16"					"reaver_lord_special_bonus_no_souls"
+	"Ability17"					"reaver_lord_special_bonus_blink_range"
+	
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"			"38"									// Damage range min.
+	"AttackDamageMax"			"42"									// Damage range max.	
+		
+	"AttackRate"				"1.7"									// Speed of attack.
+	
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"22"									// Base strength
+	"AttributeStrengthGain"		"2.000000"
+	"AttributeBaseAgility"		"18"									// Base agility
+	"AttributeAgilityGain"		"2.900000"
+	"AttributeBaseIntelligence"	"12"									// Base intelligence
+	"AttributeIntelligenceGain"		"2.10000"
+	
+	"MovementSpeed"				"300"	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\reaver_lord.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\riki.kv' begin 
+"npc_dota_hero_riki"
+{
+	"AttackRate"		"1.500000"
+	"AttackDamageMin"		"10"
+	"AttackDamageMax"		"12"
+	
+	"AttributeBaseStrength"		"21"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\riki.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\rubick.kv' begin 
+"npc_dota_hero_rubick"
+{
+	"ArmorPhysical"		"1.000000"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"22"
+	"AttackDamageMax"		"32"
+	"AttackRate"		"1.7"
+
+	"AttackRange"		"600"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"19"
+	"AttributeStrengthGain"		"2.0"
+	"AttributeBaseAgility"		"14"
+	"AttributeAgilityGain"		"2.2"
+	"AttributeBaseIntelligence"		"27"
+	"AttributeIntelligenceGain"		"2.2"
+	"MovementSpeed"		"300"
+	"MovementTurnRate"		"0.500000"
+	"HealthBarOffset"		"170"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\rubick.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\sandking.kv' begin 
+"npc_dota_hero_sand_king"
+{
+	"AttackRate"					"1.7"
+	"AttackDamageMin"				"25"
+	"AttackDamageMax"				"41"
+	
+	"AttributeBaseStrength"			"22"
+	"AttributeStrengthGain"			"4.2"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"1.800000"
+	"AttributeBaseAgility"			"19"
+	"AttributeAgilityGain"			"1.5"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\sandking.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Satan.kv' begin 
+"npc_hero_satan"
+{													
+	// General
+	//-------------------------------------------------------------------------------------------------------------
+	"override_hero" 			"npc_dota_hero_doom_bringer"
+	"Team"						"Bad"
+
+	"IsGod"						"1"
+	
+	// Abilities
+	//-------------------------------------------------------------------------------------------------------------
+	"AbilityLayout"				"5"
+	"Ability1"					"satan_breath"
+	"Ability2"					"satan_might"						
+	"Ability3"					"satan_trade"
+	"Ability4"					"satan_overpain"
+	"Ability5"					"generic_hidden"
+	"Ability6"					"satan_curse"
+	
+	"Ability10"				"special_bonus_strength_6"
+	"Ability11"				"special_bonus_attack_damage_20"
+	"Ability12"				"satan_special_bonus_trade_damage"
+	"Ability13"				"satan_special_bonus_trade_duration"
+	"Ability14"				"satan_special_bonus_breath_damage"
+	"Ability15"				"satan_special_bonus_might_nocd"
+	"Ability16"				"special_bonus_agility_25"
+	"Ability17"				"special_bonus_armor_15"
+
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"-1"										// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"			"80"									// Damage range min.
+	"AttackDamageMax"			"85"									// Damage range max.	
+	
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.3"										// Normalized time in animation cycle to attack.
+	
+	"AttackAcquisitionRange"	"400"									// Range within a target can be acquired.
+	"AttackRange"				"150"									// Range within a target can be attacked.
+	
+	"ProjectileModel"			""										// Particle system model for projectile.
+	"ProjectileSpeed"			"1200"										// Speed of projectile.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"38"									// Base strength
+	"AttributeStrengthGain"		"3.2"									// Strength bonus per level.
+	"AttributeBaseAgility"		"20"									// Base agility
+	"AttributeAgilityGain"		"2.8"									// Agility bonus per level.
+	"AttributeBaseIntelligence"	"18"									// Base intelligence
+	"AttributeIntelligenceGain"	"1.6"									// Intelligence bonus per level.
+	
+	"StatusHealth" 				"200" 
+	"StatusHealthRegen" 		"4.0" 
+	"StatusMana"				"100" 
+	"StatusManaRegen"			"0.5" 
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"300"									// Speed.
+	"MovementTurnRate"			"0.5"									// Turning rate.
+	
+	"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+	"HealthBarOffset"			"140"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Satan.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\sf.kv' begin 
+"npc_dota_hero_nevermore"
+{
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"0"										// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"			"34"									// Damage range min.
+	"AttackDamageMax"			"40"									// Damage range max.
+	"AttackRate"				"1.6"									// Speed of attack.
+	"AttackAnimationPoint"		"0.5"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"800"									// Range within a target can be acquired.
+	"AttackRange"				"500"									// Range within a target can be attacked.
+	"ProjectileSpeed"			"1200"									// Speed of projectile.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"23"									// Base strength
+	"AttributeStrengthGain"		"2.0"									// Strength bonus per level.
+	"AttributeBaseIntelligence"	"18"									// Base intelligence
+	"AttributeIntelligenceGain"	"2.2"									// Intelligence bonus per level.
+	"AttributeBaseAgility"		"20"									// Base agility
+	"AttributeAgilityGain"		"2.9"									// Agility bonus per level.
+
+	// Status
+	//-------------------------------------------------------------------------------------------------------------
+	"StatusHealthRegen"			"1.5"									// Health regeneration rate.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"305"									// Speed.
+	"MovementTurnRate"			"1.0"									// Turning rate.
+	
+	// Bounds
+	//-------------------------------------------------------------------------------------------------------------
+	"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+	"HealthBarOffset"			"250"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\sf.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Shadowsong.kv' begin 
+"npc_hero_shadowsong"
+{													
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" 			"npc_dota_hero_antimage"
+		"Team"						"Bad"
+
+
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"Ability1"					"shadowsong_magic_fire"				// Ability 1
+		"Ability2"					"angel_arena_firehell"				// Ability 2
+		"Ability3"					"angel_arena_death_aura"					// Ability 3
+		"Ability4"					"generic_hidden"					// Ability 4
+		"Ability5"					"generic_hidden"
+		"Ability6"					"angel_arena_demonic"
+		
+		"Ability10"					"special_bonus_strength_6"
+		"Ability11"					"special_bonus_attack_damage_20"
+		"Ability12"					"special_bonus_attack_speed_20"
+		"Ability13"					"special_bonus_hp_250"
+		"Ability14"					"shadowsong_special_bonus_firedamage"
+		"Ability15"					"shadowsong_special_bonus_firedamagepct"
+		"Ability16"					"special_bonus_agility_25"
+		"Ability17"					"special_bonus_armor_15"
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"0"										// Physical protection.
+
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+		"AttackDamageMin"			"29"									// Damage range min.
+		"AttackDamageMax"			"34"									// Damage range max.	
+		
+		"AttackRate"				"1.7"									// Speed of attack.
+		"AttackAnimationPoint"		"0.3"										// Normalized time in animation cycle to attack.
+		
+		"AttackAcquisitionRange"	"620"									// Range within a target can be acquired.
+		"AttackRange"				"150"									// Range within a target can be attacked.
+		
+		"ProjectileModel"			""										// Particle system model for projectile.
+		"ProjectileSpeed"			"1200"										// Speed of projectile.
+
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"25"									// Base strength
+		"AttributeStrengthGain"		"2.3"									// Strength bonus per level.
+		"AttributeBaseAgility"		"18"									// Base agility
+		"AttributeAgilityGain"		"2.9"									// Agility bonus per level.
+		"AttributeBaseIntelligence"	"15"									// Base intelligence
+		"AttributeIntelligenceGain"	"2.0"									// Intelligence bonus per level.
+		
+		"StatusHealth" "102" 
+		//"StatusHealthRegen" "1.2" 
+		//"StatusMana" "150" 
+		//"StatusManaRegen" "1.0" 
+		// Movement
+		//-------------------------------------------------------------------------------------------------------------
+		"MovementSpeed"				"310"									// Speed.
+		"MovementTurnRate"			"0.5"									// Turning rate.
+		
+		"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+		"HealthBarOffset"			"140"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Shadowsong.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\shadow_demon.kv' begin 
+"npc_dota_hero_shadow_demon"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"31"
+	
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.350000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"500"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.400000"
+	"AttributeBaseIntelligence"		"23"
+	"AttributeIntelligenceGain"		"2.800000"
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\shadow_demon.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\shadow_shaman.kv' begin 
+"npc_dota_hero_shadow_shaman"
+{
+	"ArmorPhysical"		"1"
+	
+	"AttackDamageMin"		"33"
+	"AttackDamageMax"		"37"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.300000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"600"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"21"
+	"AttributeStrengthGain"		"2.600000"
+	"AttributeBaseIntelligence"		"21"
+	"AttributeIntelligenceGain"		"3.000000"
+	"AttributeBaseAgility"		"16"
+	"AttributeAgilityGain"		"2.800000"
+	"MovementSpeed"		"305"
+	"MovementTurnRate"		"0.400000"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\shadow_shaman.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\silencer.kv' begin 
+"npc_dota_hero_silencer"
+{
+	"ArmorPhysical"		"0"
+	"MagicalResistance"		"25"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"26"
+	"AttackDamageMax"		"30"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.500000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"600"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"3.5"
+	"AttributeBaseAgility"		"22"
+	"AttributeAgilityGain"		"3.0"
+	"AttributeBaseIntelligence"		"27"
+	"AttributeIntelligenceGain"		"4.0"
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\silencer.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\skywrath.kv' begin 
+"npc_dota_hero_skywrath_mage"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"12"
+	"AttackDamageMax"		"22"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.400000"
+	"AttackRange"		"600"
+
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"24"
+	"AttributeStrengthGain"		"2.100000"
+	"AttributeBaseAgility"		"17"
+	"AttributeAgilityGain"		"1.500000"
+	"AttributeBaseIntelligence"		"27"
+	"AttributeIntelligenceGain"		"3.600000"
+	
+	"MovementSpeed"		"325"
+	"MovementTurnRate"		"0.500000"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\skywrath.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\slardar.kv' begin 
+"npc_dota_hero_slardar"
+{
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"30"
+	"AttackDamageMax"		"38"
+	"AttackRate"		"1.7"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\slardar.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\slark.kv' begin 
+"npc_dota_hero_slark"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"33"
+	"AttackDamageMax"		"41"
+	"AttackRate"			"1.7"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"21"
+	"AttributeStrengthGain"		"2.2"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"2.2"
+	"AttributeBaseAgility"		"21"
+	"AttributeAgilityGain"		"2.8"
+	
+	"VisionDaytimeRange"		"1800"
+	"VisionNighttimeRange"		"1800"
+	"MovementSpeed"		"305"
+	"MovementTurnRate"		"0.5"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\slark.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\spectre.kv' begin 
+"npc_dota_hero_spectre"
+{
+	"ArmorPhysical"		"2"
+
+	"AttackDamageMin"		"23"
+	"AttackDamageMax"		"27"
+	"AttackRate"		"1.7"
+	
+	"AttributeBaseStrength"		"16"
+	"AttributeStrengthGain"		"2.700000"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"3.000000"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"1.900000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\spectre.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Spike.kv' begin 
+"npc_hero_spike"
+{													
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" 			"npc_dota_hero_bloodseeker"
+		"Team"						"Good"
+
+
+		// Abilities
+		//-------------------------------------------------------------------------------------------------------------
+		"Ability1"					"spike_dash"		//"angel_arena_dash"				// Ability 1
+		"Ability2"					"spike_heal"				// Ability 2
+		"Ability3"					"angel_arena_shell"					// Ability 3
+		"Ability4"					"generic_hidden"					// Ability 4
+		"Ability5"					"generic_hidden"
+		"Ability6"					"spike_conclusion"
+
+		"Ability10"					"special_bonus_strength_6"
+		"Ability11"					"special_bonus_attack_damage_20"
+		"Ability12"					"spike_special_bonus_attack"
+        "Ability13"					"spike_special_bonus_dash_doubled"
+		"Ability14"					"special_bonus_attack_speed_20" // "special_bonus_attack_speed_20"
+		"Ability15"					"special_bonus_hp_250" //"special_bonus_hp_250"
+		"Ability16"					"spike_special_bonus_shell_25"
+		"Ability17"					"spike_special_bonus_shell_block" //"special_bonus_armor_15"
+
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"0"										// Physical protection.
+
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+		"AttackDamageMin"			"32"									// Damage range min.
+		"AttackDamageMax"			"36"									// Damage range max.	
+		
+		"AttackRate"				"1.7"									// Speed of attack.
+		"AttackAnimationPoint"		"0.3"									// Normalized time in animation cycle to attack.
+		
+		"AttackAcquisitionRange"	"400"									// Range within a target can be acquired.
+		"AttackRange"				"150"									// Range within a target can be attacked.
+		
+		"ProjectileModel"			""										// Particle system model for projectile.
+		"ProjectileSpeed"			"0"										// Speed of projectile.
+
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"20"									// Base strength
+		"AttributeStrengthGain"		"2.8"									// Strength bonus per level.
+		"AttributeBaseAgility"		"29"									// Base agility
+		"AttributeAgilityGain"		"3.5"									// Agility bonus per level.
+		"AttributeBaseIntelligence"	"12"									// Base intelligence
+		"AttributeIntelligenceGain"	"2.1"									// Intelligence bonus per level.
+		
+		"StatusHealth" 				"450" 
+		"StatusHealthRegen" 		"0.5" 
+		"StatusMana" 				"0" 
+		"StatusManaRegen" 			"1.2" 
+		// Movement
+		//-------------------------------------------------------------------------------------------------------------
+		"MovementSpeed"				"310"									// Speed.
+		"MovementTurnRate"			"0.5"									// Turning rate.
+		
+		"BoundsHullName"			"DOTA_HULL_SIZE_HERO"
+		"HealthBarOffset"			"140"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Spike.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\spirit_breaker.kv' begin 
+"npc_dota_hero_spirit_breaker"
+{
+	"ArmorPhysical"		"3.000000"
+
+	"AttackDamageMin"		"35"
+	"AttackDamageMax"		"45"
+	"AttackRate"		"1.7"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"28"
+	"AttributeStrengthGain"		"3.200000"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"3.0"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"1.800000"
+
+	"MovementSpeed"		"290"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\spirit_breaker.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\storm_spirit.kv' begin 
+"npc_dota_hero_storm_spirit"
+{
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"22"
+	"AttackDamageMax"		"32"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\storm_spirit.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\sven.kv' begin 
+"npc_dota_hero_sven"
+{
+	"ArmorPhysical"					"2"
+	"AttackCapabilities"			"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"				"37"
+	"AttackDamageMax"				"39"
+	"AttackRate"					"1.7"
+	"AttackAnimationPoint"			"0.400000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"					"150"
+	"ProjectileSpeed"				"0"
+	
+	//Attributes
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	
+	"AttributeBaseStrength"			"23"
+	"AttributeStrengthGain"			"3.2"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"1.8"
+	"AttributeBaseAgility"			"21"
+	"AttributeAgilityGain"			"3.0"
+	"MovementSpeed"					"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\sven.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\techies.kv' begin 
+"npc_dota_hero_techies"
+{
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.500000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"			"900"
+	"AttackDamageMin"		"7"
+	"AttackDamageMax"		"9"
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"2.000000"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"7.00000"
+	"AttributeBaseAgility"		"14"
+	"AttributeAgilityGain"		"1.300000"
+
+	"StatusManaRegen"		"1.0"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\techies.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Templar.kv' begin 
+"npc_dota_hero_templar_assassin"
+{			
+	// Abilities
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributeStrengthGain"		"2.6"									// Strength bonus per level.
+	"AttributeAgilityGain"		"7.2"									// Agility bonus per level.
+	"AttributeIntelligenceGain"	"1.8"	
+	"AttackRate"				"1.7"
+	"AttackDamageMin"		"26"
+	"AttackDamageMax"		"30"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Templar.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\tidehunter.kv' begin 
+"npc_dota_hero_tidehunter"
+{
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"25"
+	"AttackDamageMax"		"31"
+	"AttackRate"		"1.8"
+	"AttackAnimationPoint"		"0.600000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"26"
+	"AttributeStrengthGain"		"3.4"
+	"AttributeBaseIntelligence"		"16"
+	"AttributeIntelligenceGain"		"1.700000"
+	"AttributeBaseAgility"		"19"
+	"AttributeAgilityGain"		"2.9"
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\tidehunter.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\timbersaw.kv' begin 
+"npc_dota_hero_shredder"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"26"
+	"AttackDamageMax"		"30"
+	"AttackRate"		"1.7"
+
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseAgility"		"20"
+	"AttributeAgilityGain"		"1.000000"
+	"AttributeBaseIntelligence"		"21"
+	"AttributeIntelligenceGain"		"2.400000"
+	"MovementSpeed"		"300"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\timbersaw.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\tinker.kv' begin 
+"npc_dota_hero_tinker"
+{
+	"ArmorPhysical"		"2"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"28"
+	"AttackDamageMax"		"32"
+	"AttackRate"		"1.700000"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"2.000000"
+	"AttributeBaseIntelligence"		"30"
+	"AttributeIntelligenceGain"		"2.200000"
+	"AttributeBaseAgility"		"13"
+	"AttributeAgilityGain"		"1.200000"
+	"MovementSpeed"		"305"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\tinker.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Tiny.kv' begin 
+"npc_dota_hero_tiny"
+{																		
+	// General
+	//-------------------------------------------------------------------------------------------------------------
+	"override_hero" 			"npc_dota_hero_tiny"
+	
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"				"25"									// Damage range min.
+	"AttackDamageMax"				"35"									// Damage range max.
+	
+	"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"24"									// Base strength
+	"AttributeStrengthGain"		"3.4"									// Strength bonus per level.
+	"AttributeBaseIntelligence"	"16"									// Base intelligence
+	"AttributeIntelligenceGain"	"2.6"									// Intelligence bonus per level.
+	"AttributeBaseAgility"		"15"										// Base agility
+	"AttributeAgilityGain"		"2.6"									// Agility bonus per level.
+	"AttackRate"				"1.7"
+	
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"300"									// Speed.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Tiny.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\treant_protector.kv' begin 
+"npc_dota_hero_treant"
+{
+	"ArmorPhysical"		"0"
+
+	"AttackDamageMin"		"56"
+	"AttackDamageMax"		"64"
+	"AttackRate"		"1.7"
+
+	
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"4.200000"
+	"AttributeBaseAgility"		"15"
+	"AttributeAgilityGain"		"2.500000"
+	"AttributeBaseIntelligence"		"12"
+	"AttributeIntelligenceGain"		"1.500000"
+
+	"MovementSpeed"		"295"
+	"MovementTurnRate"		"0.500000"
+	}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\treant_protector.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Troll_warlord.kv' begin 
+"npc_dota_hero_troll_warlord"
+	{																		
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" 			"npc_dota_hero_troll_warlord"
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"-2"										// Physical protection.
+
+		"Ability1"		"troll_warlord_berserkers_rage"
+		"Ability2"		"troll_warlord_whirling_axes_ranged"
+		"Ability3"		"troll_warlord_whirling_axes_melee"
+		"Ability4"		"troll_warlord_fervor_aa"
+		"Ability5"		"generic_hidden"
+		"Ability6"		"troll_warlord_battle_trance"
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackDamageMax"			"40"									// Damage range max.	
+		"AttackRate"				"1.7"									// Speed of attack.
+		"AttackAnimationPoint"		"0.3"									// Normalized time in animation cycle to attack.
+		"AttackAcquisitionRange"	"700"									// Range within a target can be acquired.
+		"AttackRange"				"500"									// Range within a target can be attacked.
+
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"		"20"									// Base strength
+		"AttributeStrengthGain"		"2.1"									// Strength bonus per level.
+		"AttributeBaseIntelligence"	"13"									// Base intelligence
+		"AttributeIntelligenceGain"	"1.2"									// Intelligence bonus per level.
+		"AttributeBaseAgility"		"21"									// Base agility
+		"AttributeAgilityGain"		"2.8"									// Agility bonus per level.
+
+
+		// Movement
+		//-------------------------------------------------------------------------------------------------------------
+		"MovementSpeed"				"300"									// Speed.
+		"MovementTurnRate"			"0.5"									// Turning rate.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Troll_warlord.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Tusk_hero.kv' begin 
+"npc_dota_hero_tusk"
+{
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"0.0"								// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"			"27"									// Damage range min.
+	"AttackDamageMax"			"31"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.36"									// Normalized time in animation cycle to attack.
+	"AttackAcquisitionRange"	"600"									// Range within a target can be acquired.
+	"AttackRange"				"150"									// Range within a target can be attacked.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"				"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"			"22"									// Base strength
+	"AttributeStrengthGain"			"2.7"									// Strength bonus per level.
+	"AttributeBaseAgility"			"22"									// Base agility
+	"AttributeAgilityGain"			"2.2"									// Agility bonus per level.
+	"AttributeBaseIntelligence"		"18"									// Base intelligence
+	"AttributeIntelligenceGain"		"1.5"									// Intelligence bonus per level.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"305"									// Speed.
+	"MovementTurnRate"			"0.5"									// Turning rate.
+	
+	"HealthBarOffset"			"250"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Tusk_hero.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\undying.kv' begin 
+"npc_dota_hero_undying"
+{
+	"ArmorPhysical"				"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"35"
+	"AttackDamageMax"		"43"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.300000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"20"
+	"AttributeStrengthGain"		"3.400000"
+	"AttributeBaseAgility"		"10"
+	"AttributeAgilityGain"		"3.200000"
+	"AttributeBaseIntelligence"		"27"
+	"AttributeIntelligenceGain"		"2.500000"
+	"MovementSpeed"		"295"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\undying.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Ursa.kv' begin 
+"npc_dota_hero_ursa"
+	{																		
+		// General
+		//-------------------------------------------------------------------------------------------------------------
+		"override_hero" 			"npc_dota_hero_ursa"
+		// Armor
+		//-------------------------------------------------------------------------------------------------------------
+		"ArmorPhysical"				"1"										// Physical protection.
+
+		// Attack
+		//-------------------------------------------------------------------------------------------------------------
+		"AttackDamageMin"			"25"									// Damage range min.
+		"AttackDamageMax"			"30"									// Damage range max.	
+
+		"AttackRate"				"1.7"
+		
+		// Attributes
+		//-------------------------------------------------------------------------------------------------------------
+		"AttributePrimary"				"DOTA_ATTRIBUTE_AGILITY"
+		"AttributeBaseStrength"			"23"									// Base strength
+		"AttributeStrengthGain"			"3.0"									// Strength bonus per level.
+		"AttributeBaseAgility"			"18"									// Base agility
+		"AttributeAgilityGain"			"2.7"									// Agility bonus per level.
+		"AttributeBaseIntelligence"		"15"									// Base intelligence
+		"AttributeIntelligenceGain"		"1.2"									// Intelligence bonus per level.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Ursa.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\venomancer.kv' begin 
+"npc_dota_hero_venomancer"
+{
+	"ArmorPhysical"		"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"19"
+	"AttackDamageMax"		"21"
+	"AttackRate"		"1.7"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"18"
+	"AttributeStrengthGain"		"2.50000"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"2.30000"
+	"AttributeBaseAgility"		"22"
+	"AttributeAgilityGain"		"2.700000"
+	"StatusHealthRegen"		"0.250000"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\venomancer.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\viper.kv' begin 
+"npc_dota_hero_viper"
+{
+	"ArmorPhysical"		"-1"
+	
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"33"
+	"AttackDamageMax"		"35"
+	"AttackRate"		"1.7"
+
+	"AttackRange"		"575"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"		"26"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseAgility"		"24"
+	"AttributeAgilityGain"		"3.300000"
+	"AttributeBaseIntelligence"		"15"
+	"AttributeIntelligenceGain"		"1.800000"
+	"MovementSpeed"		"300"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\viper.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\visage.kv' begin 
+"npc_dota_hero_visage"
+{
+	"ArmorPhysical"		"0.000000"
+	"AttackDamageMin"	"24"
+	"AttackDamageMax"	"34"
+	"AttackRate"		"1.7"
+	
+	"AttributeBaseStrength"		"24"
+	"AttributeStrengthGain"		"3.000000"
+	"AttributeBaseAgility"		"11"
+	"AttributeAgilityGain"		"2.300000"
+	"AttributeBaseIntelligence"		"24"
+	"AttributeIntelligenceGain"		"2.500000"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\visage.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\warlock.kv' begin 
+"npc_dota_hero_warlock"
+{
+	"ArmorPhysical"		"1"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"22"
+	"AttackDamageMax"		"32"
+	"AttackRate"		"1.7"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"22"
+	"AttributeStrengthGain"		"2.500000"
+	"AttributeBaseIntelligence"		"24"
+	"AttributeIntelligenceGain"		"2.900000"
+	"AttributeBaseAgility"		"10"
+	"AttributeAgilityGain"		"2.500000"
+	"MovementSpeed"		"300"
+	"MovementTurnRate"		"0.400000"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\warlock.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Weaver.kv' begin 
+"npc_dota_hero_weaver"
+{																		
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"0"										// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackDamageMin"			"30"									// Damage range min.
+	"AttackDamageMax"			"35"									// Damage range max.	
+
+	"AttackRate"				"1.7"
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributePrimary"				"DOTA_ATTRIBUTE_AGILITY"
+	"AttributeBaseStrength"			"20"									// Base strength
+	"AttributeStrengthGain"			"2.2"									// Strength bonus per level.
+	"AttributeBaseIntelligence"		"15"									// Base intelligence
+	"AttributeIntelligenceGain"		"2.3"									// Intelligence bonus per level.
+	"AttributeBaseAgility"			"30"									// Base agility
+	"AttributeAgilityGain"			"3.4"									// Agility bonus per level.
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Weaver.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\windrunner.kv' begin 
+"npc_dota_hero_windrunner"
+{
+	"AbilityLayout"	"4"
+	
+	"Ability1"		"windrunner_shackleshot"
+	"Ability2"		"windrunner_powershot"
+	"Ability3"		"windrunner_windrun"
+	"Ability4"		"generic_hidden"
+	"Ability5"		"generic_hidden"
+	"Ability6"		"windrunner_focusfire"
+	"ArmorPhysical"		"1"
+	"AttackDamageMin"		"26"
+	"AttackDamageMax"		"38"
+	"AttackRate"		"1.6"
+
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"17"
+	"AttributeStrengthGain"		"2.700000"
+	"AttributeBaseIntelligence"		"22"
+	"AttributeIntelligenceGain"		"3.500000"
+	"AttributeBaseAgility"		"17"
+	"AttributeAgilityGain"		"2.800000"
+
+	"MovementSpeed"		"305"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\windrunner.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\winter wyvern.kv' begin 
+"npc_dota_hero_winter_wyvern"
+{
+	"ArmorPhysical"		"1"
+	"MagicalResistance"		"25"
+	
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"13"
+	"AttackDamageMax"		"20"
+	"AttackDamageType"		"DAMAGE_TYPE_ArmorPhysical"
+	
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.250000"
+	"AttackAcquisitionRange"		"800"
+	"AttackRange"		"600"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"24"
+	"AttributeStrengthGain"		"2.400000"
+	"AttributeBaseIntelligence"		"25"
+	"AttributeIntelligenceGain"		"3.400000"
+	"AttributeBaseAgility"		"21"
+	"AttributeAgilityGain"		"2.400000"
+	
+	"MovementSpeed"		"315"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\winter wyvern.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Wisp.kv' begin 
+"npc_dota_hero_wisp"
+{
+	"override_hero" 			"npc_dota_hero_wisp"
+	
+	// Armor
+	//-------------------------------------------------------------------------------------------------------------
+	"ArmorPhysical"				"-1.0"								// Physical protection.
+
+	// Attack
+	//-------------------------------------------------------------------------------------------------------------
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"			"26"									// Damage range min.
+	"AttackDamageMax"			"35"									// Damage range max.
+	"AttackRate"				"1.7"									// Speed of attack.
+	"AttackAnimationPoint"		"0.15"									// Normalized time in animation cycle to attack.
+
+	// Attributes
+	//-------------------------------------------------------------------------------------------------------------
+	"AttributeBaseStrength"			"19"									// Base strength
+	"AttributeStrengthGain"			"2.5"									// Strength bonus per level.
+	"AttributeBaseAgility"			"17"									// Base agility
+	"AttributeAgilityGain"			"2.6"									// Agility bonus per level.
+	"AttributeBaseIntelligence"		"23"									// Base intelligence
+	"AttributeIntelligenceGain"		"3.2"									// Intelligence bonus per level.
+
+	// Movement
+	//-------------------------------------------------------------------------------------------------------------
+	"MovementSpeed"				"305"									// Speed.
+	"MovementTurnRate"			"0.7"									// Turning rate.
+}
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\Wisp.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\witch_doctor.kv' begin 
+"npc_dota_hero_witch_doctor"
+{
+	"ArmorPhysical"		"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
+	"AttackDamageMin"		"27"
+	"AttackDamageMax"		"37"
+	"AttackRate"		"1.7"
+
+	"AttributePrimary"		"DOTA_ATTRIBUTE_INTELLECT"
+	"AttributeBaseStrength"		"16"
+	"AttributeStrengthGain"		"2.200000"
+	"AttributeBaseIntelligence"		"24"
+	"AttributeIntelligenceGain"		"3.200000"
+	"AttributeBaseAgility"		"13"
+	"AttributeAgilityGain"		"2.000000"
+	"MovementSpeed"		"305"
+	"MovementTurnRate"		"0.400000"
+
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\witch_doctor.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\wraith_king.kv' begin 
+"npc_dota_hero_skeleton_king"
+{
+	"ArmorPhysical"		"0"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackDamageMin"		"39"
+	"AttackDamageMax"		"41"
+	"AttackRate"		"1.7"
+	"AttackAnimationPoint"		"0.560000"
+	"AttackAcquisitionRange"		"600"
+	"AttackRange"		"150"
+	"ProjectileSpeed"		"0"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"24"
+	"AttributeStrengthGain"		"3.400000"
+	"AttributeBaseIntelligence"		"20"
+	"AttributeIntelligenceGain"		"1.800000"
+	"AttributeBaseAgility"		"18"
+	"AttributeAgilityGain"		"2.200000"
+	"MovementSpeed"		"300"
+	
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\wraith_king.kv' end
+
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\zuus.kv' begin 
+"npc_dota_hero_zuus"
+{
+	"ArmorPhysical"		"1"
+	"AttackRate"		"1.7"
+	"AttackDamageMin"		"21"
+	"AttackDamageMax"		"29"
+}
+// File 'D:\Games\Steam\steamapps\common\dota 2 beta\Angel Arena\configs\heroes\zuus.kv' end
+
+}

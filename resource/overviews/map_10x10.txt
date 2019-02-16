@@ -1,0 +1,8 @@
+map_10x10
+{
+	material materials/overviews/map_10x10.vmat
+	pos_x -13312
+	pos_y 13312
+	scale 26.000
+}
+

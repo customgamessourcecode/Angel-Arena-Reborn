@@ -1,0 +1,23 @@
+"AddonInfo"
+{
+	"maps"				"map_5x5 map_5x5_cm map_10x10"
+	"IsPlayable"		"1"
+	"CheckAFKPlayers" 	"1"
+	"PenaltiesEnabled" 	"1"
+	"EnablePickRules"	"1"
+	
+	"map_5x5"
+	{
+		"MaxPlayers"                    "10"
+	}
+
+	"map_5x5_cm"
+	{
+		"MaxPlayers"                    "10"
+	}
+
+	"map_10x10"
+	{
+		"MaxPlayers"                    "20"
+	}
+}

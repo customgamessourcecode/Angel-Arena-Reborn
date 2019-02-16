@@ -1,0 +1,108 @@
+"root"
+{
+	"radiant"
+	{
+		"RADIANT_SPAWNER_1" 
+		{
+			"1" "npc_aa_creep_ursa_a"
+		}
+
+		"RADIANT_SPAWNER_2" 
+		{
+			"1" "npc_aa_creep_ursa_a"
+		}
+		
+		"RADIANT_SPAWNER_3" 
+		{
+			"1" "npc_aa_creep_golem_a"
+		}
+		
+		"RADIANT_SPAWNER_4" 
+		{
+			"1" "npc_aa_creep_golem_a"
+		}
+		
+		"RADIANT_SPAWNER_5" 
+		{
+			"1" "npc_aa_creep_croco_a"
+		}
+		
+		"RADIANT_SPAWNER_6" 
+		{
+			"1" "npc_aa_creep_salamander_a"
+		}
+		
+		"RADIANT_SPAWNER_7" 
+		{
+			"1" "npc_aa_creep_golem_a"
+		}
+		
+		"RADIANT_SPAWNER_8" 
+		{
+			"1" "npc_aa_creep_ursa_a"
+		}
+		
+		"RADIANT_SPAWNER_KEY" 
+		{
+			"1" "npc_dota_neutral_kobold"
+			"2" "npc_dota_neutral_harpy_scout"
+			"3" "npc_dota_neutral_ghost"
+			"4" "npc_dota_neutral_gnoll_assassin"
+			"5" "npc_dota_neutral_harpy_storm"
+			"6" "npc_dota_neutral_alpha_wolf"
+		}
+	}
+	
+	"dire"
+	{
+		"DIRE_SPAWNER_1" 
+		{
+			"1" "npc_aa_creep_troll_a"
+		}
+
+		"DIRE_SPAWNER_2" 
+		{
+			"1" "npc_aa_creep_troll_a"
+		}
+		
+		"DIRE_SPAWNER_3" 
+		{
+			"1" "npc_aa_creep_wildwing_a"
+		}
+		
+		"DIRE_SPAWNER_4" 
+		{
+			"1" "npc_aa_creep_wildwing_a"
+		}
+		
+		"DIRE_SPAWNER_5" 
+		{
+			"1" "npc_aa_creep_centaur_a"
+		}
+		
+		"DIRE_SPAWNER_6" 
+		{
+			"1" "npc_aa_creep_dragon_a"
+		}
+		
+		"DIRE_SPAWNER_7" 
+		{
+			"1" "npc_aa_creep_wildwing_a"
+		}
+		
+		"DIRE_SPAWNER_8" 
+		{
+			"1" "npc_aa_creep_troll_a"
+		}
+		
+		"DIRE_SPAWNER_KEY" 
+		{
+			"1" "npc_dota_neutral_kobold"
+			"2" "npc_dota_neutral_harpy_scout"
+			"3" "npc_dota_neutral_ghost"
+			"4" "npc_dota_neutral_gnoll_assassin"
+			"5" "npc_dota_neutral_harpy_storm"
+			"6" "npc_dota_neutral_alpha_wolf"
+		}
+	}
+}
